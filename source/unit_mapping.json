@@ -1,0 +1,6714 @@
+{
+  "10023": {
+    "squad_id": "10023",
+    "preview": "tehnar_hero",
+    "title_key": "storage:10023:title",
+    "icon_file": "icons\\10023_tehnar_hero.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "10026": {
+    "squad_id": "10026",
+    "preview": "10026_Devylon_hero",
+    "title_key": "storage:10026:title",
+    "icon_file": "icons\\10026_10026_Devylon_hero.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "10030": {
+    "squad_id": "10030",
+    "preview": "Rino_hero",
+    "title_key": "storage:10030:title",
+    "icon_file": "icons\\10030_Rino_hero.jpg",
+    "rarity": 5,
+    "elite": 2
+  },
+  "1004": {
+    "squad_id": "1004",
+    "preview": "blue_general",
+    "title_key": "storage:1004:title",
+    "icon_file": "icons\\1004_blue_general.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10067": {
+    "squad_id": "10067",
+    "preview": "gun_spot_full",
+    "title_key": "storage:10067:title",
+    "icon_file": "icons\\10067_gun_spot_full.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10106": {
+    "squad_id": "10106",
+    "preview": "10106_lang_vorsard",
+    "title_key": "storage:10106:title",
+    "icon_file": "icons\\10106_10106_lang_vorsard.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "1013": {
+    "squad_id": "1013",
+    "preview": "miniChicken",
+    "title_key": "storage:1013:title",
+    "icon_file": "icons\\1013_miniChicken.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "10465": {
+    "squad_id": "10465",
+    "preview": "infantry",
+    "title_key": "storage:10465:title",
+    "icon_file": "icons\\10465_infantry.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10466": {
+    "squad_id": "10466",
+    "preview": "stormtrooper",
+    "title_key": "storage:10466:title",
+    "icon_file": "icons\\10466_stormtrooper.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10468": {
+    "squad_id": "10468",
+    "preview": "knight",
+    "title_key": "storage:10468:title",
+    "icon_file": "icons\\10468_knight.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10471": {
+    "squad_id": "10471",
+    "preview": "sniper",
+    "title_key": "storage:10471:title",
+    "icon_file": "icons\\10471_sniper.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10472": {
+    "squad_id": "10472",
+    "preview": "bo4ka",
+    "title_key": "storage:10472:title",
+    "icon_file": "icons\\10472_bo4ka.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10508": {
+    "squad_id": "10508",
+    "preview": "Obelisk56",
+    "title_key": "storage:10508:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "10513": {
+    "squad_id": "10513",
+    "preview": "kol60",
+    "title_key": "storage:10513:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "10556": {
+    "squad_id": "10556",
+    "preview": "Psy_Beacon_100",
+    "title_key": "storage:10556:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "10579": {
+    "squad_id": "10579",
+    "preview": "spec_ionit_zomb",
+    "title_key": "storage:10579:title",
+    "icon_file": "icons\\10579_spec_ionit_zomb.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "10580": {
+    "squad_id": "10580",
+    "preview": "unit_shturm",
+    "title_key": "storage:10580:title",
+    "icon_file": "icons\\10580_unit_shturm.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "10582": {
+    "squad_id": "10582",
+    "preview": "3935_inf_ionit_zomb",
+    "title_key": "storage:10582:title",
+    "icon_file": "icons\\10582_3935_inf_ionit_zomb.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "10585": {
+    "squad_id": "10585",
+    "preview": "fever_knight",
+    "title_key": "storage:10585:title",
+    "icon_file": "icons\\10585_fever_knight.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "10591": {
+    "squad_id": "10591",
+    "preview": "8956_lightsteal_ionit_skin",
+    "title_key": "storage:10591:title",
+    "icon_file": "icons\\10591_8956_lightsteal_ionit_skin.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10592": {
+    "squad_id": "10592",
+    "preview": "8959_brik_ionit_skin",
+    "title_key": "storage:10592:title",
+    "icon_file": "icons\\10592_8959_brik_ionit_skin.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10595": {
+    "squad_id": "10595",
+    "preview": "8957_woker_ionit_skin",
+    "title_key": "storage:10595:title",
+    "icon_file": "icons\\10595_8957_woker_ionit_skin.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10597": {
+    "squad_id": "10597",
+    "preview": "8955_first_ionit_skin",
+    "title_key": "storage:10597:title",
+    "icon_file": "icons\\10597_8955_first_ionit_skin.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10598": {
+    "squad_id": "10598",
+    "preview": "3935_inf_ionit_zomb",
+    "title_key": "storage:10598:title",
+    "icon_file": "icons\\10598_3935_inf_ionit_zomb.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "10600": {
+    "squad_id": "10600",
+    "preview": "unit_shturm",
+    "title_key": "storage:10600:title",
+    "icon_file": "icons\\10600_unit_shturm.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "10602": {
+    "squad_id": "10602",
+    "preview": "fever_knight",
+    "title_key": "storage:10602:title",
+    "icon_file": "icons\\10602_fever_knight.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "10604": {
+    "squad_id": "10604",
+    "preview": "spec_ionit_zomb",
+    "title_key": "storage:10604:title",
+    "icon_file": "icons\\10604_spec_ionit_zomb.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "10607": {
+    "squad_id": "10607",
+    "preview": "crystalBoss",
+    "title_key": "storage:10607:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "10609": {
+    "squad_id": "10609",
+    "preview": "8954_Claus_ionit_skin",
+    "title_key": "storage:10609:title",
+    "icon_file": "icons\\10609_8954_Claus_ionit_skin.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10611": {
+    "squad_id": "10611",
+    "preview": "8958_torn_ionit_skin",
+    "title_key": "storage:10611:title",
+    "icon_file": "icons\\10611_8958_torn_ionit_skin.jpg",
+    "rarity": 3,
+    "elite": 0
+  },
+  "10655": {
+    "squad_id": "10655",
+    "preview": "blue_shturmovik",
+    "title_key": "storage:10655:title",
+    "icon_file": "icons\\10655_blue_shturmovik.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10656": {
+    "squad_id": "10656",
+    "preview": "aimer_sniper_unitskill",
+    "title_key": "storage:10656:title",
+    "icon_file": "icons\\10656_aimer_sniper_unitskill.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10657": {
+    "squad_id": "10657",
+    "preview": "aimer_sniper_unitskill",
+    "title_key": "storage:10657:title",
+    "icon_file": "icons\\10657_aimer_sniper_unitskill.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10661": {
+    "squad_id": "10661",
+    "preview": "blue_shturmovik",
+    "title_key": "storage:10661:title",
+    "icon_file": "icons\\10661_blue_shturmovik.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10662": {
+    "squad_id": "10662",
+    "preview": "blue_shturmovik",
+    "title_key": "storage:10662:title",
+    "icon_file": "icons\\10662_blue_shturmovik.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10703": {
+    "squad_id": "10703",
+    "preview": "biohazard_peh",
+    "title_key": "storage:10703:title",
+    "icon_file": "icons\\10703_biohazard_peh.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10705": {
+    "squad_id": "10705",
+    "preview": "biohazard_peh",
+    "title_key": "storage:10705:title",
+    "icon_file": "icons\\10705_biohazard_peh.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10708": {
+    "squad_id": "10708",
+    "preview": "biohazard_shtormtrooper",
+    "title_key": "storage:10708:title",
+    "icon_file": "icons\\10708_biohazard_shtormtrooper.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10710": {
+    "squad_id": "10710",
+    "preview": "biohazard_shtormtrooper",
+    "title_key": "storage:10710:title",
+    "icon_file": "icons\\10710_biohazard_shtormtrooper.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10711": {
+    "squad_id": "10711",
+    "preview": "biohazard_krest",
+    "title_key": "storage:10711:title",
+    "icon_file": "icons\\10711_biohazard_krest.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10712": {
+    "squad_id": "10712",
+    "preview": "biohazard_krest",
+    "title_key": "storage:10712:title",
+    "icon_file": "icons\\10712_biohazard_krest.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10716": {
+    "squad_id": "10716",
+    "preview": "biohazard_spec",
+    "title_key": "storage:10716:title",
+    "icon_file": "icons\\10716_biohazard_spec.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10718": {
+    "squad_id": "10718",
+    "preview": "biohazard_spec",
+    "title_key": "storage:10718:title",
+    "icon_file": "icons\\10718_biohazard_spec.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10836": {
+    "squad_id": "10836",
+    "preview": "biohazard_peh_elite",
+    "title_key": "storage:10836:title",
+    "icon_file": "icons\\10836_biohazard_peh_elite.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10837": {
+    "squad_id": "10837",
+    "preview": "biohazard_peh_elite",
+    "title_key": "storage:10837:title",
+    "icon_file": "icons\\10837_biohazard_peh_elite.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10838": {
+    "squad_id": "10838",
+    "preview": "biohazard_shtormtrooper_elite",
+    "title_key": "storage:10838:title",
+    "icon_file": "icons\\10838_biohazard_shtormtrooper_elite.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10839": {
+    "squad_id": "10839",
+    "preview": "biohazard_shtormtrooper_elite",
+    "title_key": "storage:10839:title",
+    "icon_file": "icons\\10839_biohazard_shtormtrooper_elite.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10840": {
+    "squad_id": "10840",
+    "preview": "biohazard_krest_elite",
+    "title_key": "storage:10840:title",
+    "icon_file": "icons\\10840_biohazard_krest_elite.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10841": {
+    "squad_id": "10841",
+    "preview": "biohazard_spec_elite",
+    "title_key": "storage:10841:title",
+    "icon_file": "icons\\10841_biohazard_spec_elite.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10842": {
+    "squad_id": "10842",
+    "preview": "biohazard_spec_elite",
+    "title_key": "storage:10842:title",
+    "icon_file": "icons\\10842_biohazard_spec_elite.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10843": {
+    "squad_id": "10843",
+    "preview": "biohazard_krest_elite",
+    "title_key": "storage:10843:title",
+    "icon_file": "icons\\10843_biohazard_krest_elite.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "1090": {
+    "squad_id": "1090",
+    "preview": "unit_white",
+    "title_key": "storage:1090:title",
+    "icon_file": "icons\\1090_unit_white.jpg",
+    "rarity": null,
+    "elite": 0
+  },
+  "1091": {
+    "squad_id": "1091",
+    "preview": "unit_black",
+    "title_key": "storage:1091:title",
+    "icon_file": "icons\\1091_unit_black.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "1093": {
+    "squad_id": "1093",
+    "preview": "infantry_blue",
+    "title_key": "storage:1093:title",
+    "icon_file": "icons\\1093_infantry_blue.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "1095": {
+    "squad_id": "1095",
+    "preview": "krushitel",
+    "title_key": "storage:1095:title",
+    "icon_file": "icons\\1095_krushitel.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10956": {
+    "squad_id": "10956",
+    "preview": "Gladiator_shooter",
+    "title_key": "storage:10956:title",
+    "icon_file": "icons\\10956_Gladiator_shooter.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "10957": {
+    "squad_id": "10957",
+    "preview": "Gladiator_soldier",
+    "title_key": "storage:10957:title",
+    "icon_file": "icons\\10957_Gladiator_soldier.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "10959": {
+    "squad_id": "10959",
+    "preview": "Gladiator_protector",
+    "title_key": "storage:10959:title",
+    "icon_file": "icons\\10959_Gladiator_protector.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "10961": {
+    "squad_id": "10961",
+    "preview": "Gladiator_melee",
+    "title_key": "storage:10961:title",
+    "icon_file": "icons\\10961_Gladiator_melee.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "10962": {
+    "squad_id": "10962",
+    "preview": "Gladiator_iron",
+    "title_key": "storage:10962:title",
+    "icon_file": "icons\\10962_Gladiator_iron.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10963": {
+    "squad_id": "10963",
+    "preview": "Gladiator_flame",
+    "title_key": "storage:10963:title",
+    "icon_file": "icons\\10963_Gladiator_flame.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10964": {
+    "squad_id": "10964",
+    "preview": "Gladiator_viking",
+    "title_key": "storage:10964:title",
+    "icon_file": "icons\\10964_Gladiator_viking.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "10968": {
+    "squad_id": "10968",
+    "preview": "labirint_infantry_bot",
+    "title_key": "storage:10968:title",
+    "icon_file": "icons\\10968_labirint_infantry_bot.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "10969": {
+    "squad_id": "10969",
+    "preview": "labirint_storm_melee_bot",
+    "title_key": "storage:10969:title",
+    "icon_file": "icons\\10969_labirint_storm_melee_bot.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "10970": {
+    "squad_id": "10970",
+    "preview": "labirint_heavy_bot",
+    "title_key": "storage:10970:title",
+    "icon_file": "icons\\10970_labirint_heavy_bot.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "10971": {
+    "squad_id": "10971",
+    "preview": "labirint_ranger",
+    "title_key": "storage:10971:title",
+    "icon_file": "icons\\10971_labirint_ranger.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1099": {
+    "squad_id": "1099",
+    "preview": "germanWW",
+    "title_key": "storage:1099:title",
+    "icon_file": "icons\\1099_germanWW.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "11008": {
+    "squad_id": "11008",
+    "preview": "serg_fogel",
+    "title_key": "storage:11008:title",
+    "icon_file": "icons\\11008_serg_fogel.jpg",
+    "rarity": 3,
+    "elite": 0
+  },
+  "11018": {
+    "squad_id": "11018",
+    "preview": "CaptainStayer",
+    "title_key": "storage:11018:title",
+    "icon_file": "icons\\11018_CaptainStayer.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "11122": {
+    "squad_id": "11122",
+    "preview": "ranger_hero_general",
+    "title_key": "storage:11122:title",
+    "icon_file": "icons\\11122_ranger_hero_general.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "11177": {
+    "squad_id": "11177",
+    "preview": "dave_disaster",
+    "title_key": "storage:11177:title",
+    "icon_file": "icons\\11177_dave_disaster.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "11231": {
+    "squad_id": "11231",
+    "preview": "Hero_Nemoi_11285",
+    "title_key": "storage:11231:title",
+    "icon_file": "icons\\11231_Hero_Nemoi_11285.jpg",
+    "rarity": 2,
+    "elite": 2
+  },
+  "11342": {
+    "squad_id": "11342",
+    "preview": "apok",
+    "title_key": "storage:11342:title",
+    "icon_file": "icons\\11342_apok.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "11421": {
+    "squad_id": "11421",
+    "preview": "train_hard",
+    "title_key": "storage:11421:title",
+    "icon_file": "icons\\11421_train_hard.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "11558": {
+    "squad_id": "11558",
+    "preview": "occult_skin_first",
+    "title_key": "storage:11558:title",
+    "icon_file": "icons\\11558_occult_skin_first.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "11560": {
+    "squad_id": "11560",
+    "preview": "occult_rosenstein",
+    "title_key": "storage:11560:title",
+    "icon_file": "icons\\11560_occult_rosenstein.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "11665": {
+    "squad_id": "11665",
+    "preview": "aimer_sniper_unitskill",
+    "title_key": "storage:11665:title",
+    "icon_file": "icons\\11665_aimer_sniper_unitskill.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "11666": {
+    "squad_id": "11666",
+    "preview": "aimer_sniper_unitskill",
+    "title_key": "storage:11666:title",
+    "icon_file": "icons\\11666_aimer_sniper_unitskill.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "11667": {
+    "squad_id": "11667",
+    "preview": "aimer_sniper_unitskill",
+    "title_key": "storage:11667:title",
+    "icon_file": "icons\\11667_aimer_sniper_unitskill.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "11674": {
+    "squad_id": "11674",
+    "preview": "Gladiator_melee",
+    "title_key": "storage:11674:title",
+    "icon_file": "icons\\11674_Gladiator_melee.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "11676": {
+    "squad_id": "11676",
+    "preview": "Gladiator_protector",
+    "title_key": "storage:11676:title",
+    "icon_file": "icons\\11676_Gladiator_protector.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "11678": {
+    "squad_id": "11678",
+    "preview": "Gladiator_soldier",
+    "title_key": "storage:11678:title",
+    "icon_file": "icons\\11678_Gladiator_soldier.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "11681": {
+    "squad_id": "11681",
+    "preview": "Gladiator_shooter",
+    "title_key": "storage:11681:title",
+    "icon_file": "icons\\11681_Gladiator_shooter.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "11683": {
+    "squad_id": "11683",
+    "preview": "Desert_Killer_Skin",
+    "title_key": "storage:11683:title",
+    "icon_file": "icons\\11683_Desert_Killer_Skin.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "11684": {
+    "squad_id": "11684",
+    "preview": "Rat_King",
+    "title_key": "storage:11684:title",
+    "icon_file": "icons\\11684_Rat_King.jpg",
+    "rarity": 4,
+    "elite": 2
+  },
+  "11686": {
+    "squad_id": "11686",
+    "preview": "Flame_God",
+    "title_key": "storage:11686:title",
+    "icon_file": "icons\\11686_Flame_God.jpg",
+    "rarity": 2,
+    "elite": 2
+  },
+  "11718": {
+    "squad_id": "11718",
+    "preview": "marouder_raider",
+    "title_key": "storage:11718:title",
+    "icon_file": "icons\\11718_marouder_raider.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "11735": {
+    "squad_id": "11735",
+    "preview": "hermit_savage",
+    "title_key": "storage:11735:title",
+    "icon_file": "icons\\11735_hermit_savage.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "11736": {
+    "squad_id": "11736",
+    "preview": "Desert_Killer_Skin",
+    "title_key": "storage:11736:title",
+    "icon_file": "icons\\11736_Desert_Killer_Skin.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "11739": {
+    "squad_id": "11739",
+    "preview": "Flame_God",
+    "title_key": "storage:11739:title",
+    "icon_file": "icons\\11739_Flame_God.jpg",
+    "rarity": 2,
+    "elite": 2
+  },
+  "11741": {
+    "squad_id": "11741",
+    "preview": "Rat_King",
+    "title_key": "storage:11741:title",
+    "icon_file": "icons\\11741_Rat_King.jpg",
+    "rarity": 4,
+    "elite": 2
+  },
+  "11747": {
+    "squad_id": "11747",
+    "preview": "helldogs",
+    "title_key": "storage:11747:title",
+    "icon_file": "icons\\11747_helldogs.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "118": {
+    "squad_id": "118",
+    "preview": "knight",
+    "title_key": "storage:118:title",
+    "icon_file": "icons\\118_knight.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "11811": {
+    "squad_id": "11811",
+    "preview": "stone_guardian",
+    "title_key": "storage:11811:title",
+    "icon_file": "icons\\11811_stone_guardian.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "11816": {
+    "squad_id": "11816",
+    "preview": "colonel_oldempire",
+    "title_key": "storage:11816:title",
+    "icon_file": "icons\\11816_colonel_oldempire.jpg",
+    "rarity": 3,
+    "elite": 0
+  },
+  "11818": {
+    "squad_id": "11818",
+    "preview": "tank_boss",
+    "title_key": "storage:11818:title",
+    "icon_file": "icons\\11818_tank_boss.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "11819": {
+    "squad_id": "11819",
+    "preview": "child_spider",
+    "title_key": "storage:11819:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "11825": {
+    "squad_id": "11825",
+    "preview": "right_head_gun",
+    "title_key": "storage:11825:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "11827": {
+    "squad_id": "11827",
+    "preview": "left_head_gun",
+    "title_key": "storage:11827:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "11843": {
+    "squad_id": "11843",
+    "preview": "infantry_oldempire",
+    "title_key": "storage:11843:title",
+    "icon_file": "icons\\11843_infantry_oldempire.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "11844": {
+    "squad_id": "11844",
+    "preview": "storm_oldempire",
+    "title_key": "storage:11844:title",
+    "icon_file": "icons\\11844_storm_oldempire.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "11846": {
+    "squad_id": "11846",
+    "preview": "heavy_oldempire",
+    "title_key": "storage:11846:title",
+    "icon_file": "icons\\11846_heavy_oldempire.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "11850": {
+    "squad_id": "11850",
+    "preview": "knight_oldempire",
+    "title_key": "storage:11850:title",
+    "icon_file": "icons\\11850_knight_oldempire.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "11859": {
+    "squad_id": "11859",
+    "preview": "gen_clan_convoy_small",
+    "title_key": "storage:11859:title",
+    "icon_file": "icons\\11859_gen_clan_convoy_small.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "11891": {
+    "squad_id": "11891",
+    "preview": "shturm_vdv",
+    "title_key": "storage:11891:title",
+    "icon_file": "icons\\11891_shturm_vdv.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "11925": {
+    "squad_id": "11925",
+    "preview": "Obelisk56",
+    "title_key": "storage:11925:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "11927": {
+    "squad_id": "11927",
+    "preview": "Obelisk56",
+    "title_key": "storage:11927:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "11929": {
+    "squad_id": "11929",
+    "preview": "Obelisk56",
+    "title_key": "storage:11929:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "11931": {
+    "squad_id": "11931",
+    "preview": "Obelisk56",
+    "title_key": "storage:11931:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "11943": {
+    "squad_id": "11943",
+    "preview": "red_mage",
+    "title_key": "storage:11943:title",
+    "icon_file": "icons\\11943_red_mage.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "11971": {
+    "squad_id": "11971",
+    "preview": "necromancer",
+    "title_key": "storage:11971:title",
+    "icon_file": "icons\\11971_necromancer.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "11973": {
+    "squad_id": "11973",
+    "preview": "tomb_keeper",
+    "title_key": "storage:11973:title",
+    "icon_file": "icons\\11973_tomb_keeper.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "12113": {
+    "squad_id": "12113",
+    "preview": "train_boss",
+    "title_key": "storage:12113:title",
+    "icon_file": "icons\\12113_train_boss.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12118": {
+    "squad_id": "12118",
+    "preview": "middle_head_gun",
+    "title_key": "storage:12118:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12224": {
+    "squad_id": "12224",
+    "preview": "12224_enemy_bren_heavy",
+    "title_key": "storage:12224:title",
+    "icon_file": "icons\\12224_12224_enemy_bren_heavy.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12226": {
+    "squad_id": "12226",
+    "preview": "12226_enemy_bren_infatry",
+    "title_key": "storage:12226:title",
+    "icon_file": "icons\\12226_12226_enemy_bren_infatry.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12227": {
+    "squad_id": "12227",
+    "preview": "12227_enemy_bren_sturm",
+    "title_key": "storage:12227:title",
+    "icon_file": "icons\\12227_12227_enemy_bren_sturm.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12229": {
+    "squad_id": "12229",
+    "preview": "12229_enemy_bren_spec",
+    "title_key": "storage:12229:title",
+    "icon_file": "icons\\12229_12229_enemy_bren_spec.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "12231": {
+    "squad_id": "12231",
+    "preview": "molot_skin1",
+    "title_key": "storage:12231:title",
+    "icon_file": "icons\\12231_molot_skin1.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12232": {
+    "squad_id": "12232",
+    "preview": "8645_korund_skin",
+    "title_key": "storage:12232:title",
+    "icon_file": "icons\\12232_8645_korund_skin.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "12233": {
+    "squad_id": "12233",
+    "preview": "shtag_okopnuy",
+    "title_key": "storage:12233:title",
+    "icon_file": "icons\\12233_shtag_okopnuy.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "12320": {
+    "squad_id": "12320",
+    "preview": "imperial_assassin",
+    "title_key": "storage:12320:title",
+    "icon_file": "icons\\12320_imperial_assassin.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12326": {
+    "squad_id": "12326",
+    "preview": "tombraider",
+    "title_key": "storage:12326:title",
+    "icon_file": "icons\\12326_tombraider.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "12327": {
+    "squad_id": "12327",
+    "preview": "dungeon_vand",
+    "title_key": "storage:12327:title",
+    "icon_file": "icons\\12327_dungeon_vand.jpg",
+    "rarity": 4,
+    "elite": 1
+  },
+  "12401": {
+    "squad_id": "12401",
+    "preview": "spot_bunker",
+    "title_key": "storage:12401:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12414": {
+    "squad_id": "12414",
+    "preview": "maze_robot",
+    "title_key": "storage:12414:title",
+    "icon_file": "icons\\12414_maze_robot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12418": {
+    "squad_id": "12418",
+    "preview": "ghost_hunter",
+    "title_key": "storage:12418:title",
+    "icon_file": "icons\\12418_ghost_hunter.jpg",
+    "rarity": 4,
+    "elite": 2
+  },
+  "12422": {
+    "squad_id": "12422",
+    "preview": "maze_sau",
+    "title_key": "storage:12422:title",
+    "icon_file": "icons\\12422_maze_sau.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12424": {
+    "squad_id": "12424",
+    "preview": "maze_tank",
+    "title_key": "storage:12424:title",
+    "icon_file": "icons\\12424_maze_tank.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12429": {
+    "squad_id": "12429",
+    "preview": "iron_vilus",
+    "title_key": "storage:12429:title",
+    "icon_file": "icons\\12429_iron_vilus.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "12431": {
+    "squad_id": "12431",
+    "preview": "tarks_impulsehammer",
+    "title_key": "storage:12431:title",
+    "icon_file": "icons\\12431_tarks_impulsehammer.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "12433": {
+    "squad_id": "12433",
+    "preview": "king_morgus",
+    "title_key": "storage:12433:title",
+    "icon_file": "icons\\12433_king_morgus.jpg",
+    "rarity": 6,
+    "elite": 0
+  },
+  "12436": {
+    "squad_id": "12436",
+    "preview": "Kday_event_convoy_small",
+    "title_key": "storage:12436:title",
+    "icon_file": "icons\\12436_Kday_event_convoy_small.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12438": {
+    "squad_id": "12438",
+    "preview": "Kday_event_convoy_small",
+    "title_key": "storage:12438:title",
+    "icon_file": "icons\\12438_Kday_event_convoy_small.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12440": {
+    "squad_id": "12440",
+    "preview": "Kday_event_convoy_small",
+    "title_key": "storage:12440:title",
+    "icon_file": "icons\\12440_Kday_event_convoy_small.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12443": {
+    "squad_id": "12443",
+    "preview": "king_morgus",
+    "title_key": "storage:12443:title",
+    "icon_file": "icons\\12443_king_morgus.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "12446": {
+    "squad_id": "12446",
+    "preview": "legion_infantry",
+    "title_key": "storage:12446:title",
+    "icon_file": "icons\\12446_legion_infantry.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "12448": {
+    "squad_id": "12448",
+    "preview": "legion_stormtrooper",
+    "title_key": "storage:12448:title",
+    "icon_file": "icons\\12448_legion_stormtrooper.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "12450": {
+    "squad_id": "12450",
+    "preview": "legion_crusader",
+    "title_key": "storage:12450:title",
+    "icon_file": "icons\\12450_legion_crusader.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "12452": {
+    "squad_id": "12452",
+    "preview": "legion_sniper",
+    "title_key": "storage:12452:title",
+    "icon_file": "icons\\12452_legion_sniper.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12465": {
+    "squad_id": "12465",
+    "preview": "gen_clan_convoy_small",
+    "title_key": "storage:12465:title",
+    "icon_file": "icons\\12465_gen_clan_convoy_small.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12480": {
+    "squad_id": "12480",
+    "preview": "pumpkin_killer",
+    "title_key": "storage:12480:title",
+    "icon_file": "icons\\12480_pumpkin_killer.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12482": {
+    "squad_id": "12482",
+    "preview": "jack_reaper",
+    "title_key": "storage:12482:title",
+    "icon_file": "icons\\12482_jack_reaper.jpg",
+    "rarity": 5,
+    "elite": 2
+  },
+  "12529": {
+    "squad_id": "12529",
+    "preview": "demon_frankenstein",
+    "title_key": "storage:12529:title",
+    "icon_file": "icons\\12529_demon_frankenstein.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "12532": {
+    "squad_id": "12532",
+    "preview": "maze_priest",
+    "title_key": "storage:12532:title",
+    "icon_file": "icons\\12532_maze_priest.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "12534": {
+    "squad_id": "12534",
+    "preview": "gen_clan_convoy_small",
+    "title_key": "storage:12534:title",
+    "icon_file": "icons\\12534_gen_clan_convoy_small.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12536": {
+    "squad_id": "12536",
+    "preview": "gen_clan_convoy_small",
+    "title_key": "storage:12536:title",
+    "icon_file": "icons\\12536_gen_clan_convoy_small.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12538": {
+    "squad_id": "12538",
+    "preview": "gen_clan_convoy_small",
+    "title_key": "storage:12538:title",
+    "icon_file": "icons\\12538_gen_clan_convoy_small.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12540": {
+    "squad_id": "12540",
+    "preview": "gen_clan_convoy_small",
+    "title_key": "storage:12540:title",
+    "icon_file": "icons\\12540_gen_clan_convoy_small.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12548": {
+    "squad_id": "12548",
+    "preview": "werewoolf_hell",
+    "title_key": "storage:12548:title",
+    "icon_file": "icons\\12548_werewoolf_hell.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "12550": {
+    "squad_id": "12550",
+    "preview": "electric_spot",
+    "title_key": "storage:12550:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12551": {
+    "squad_id": "12551",
+    "preview": "ventilation_spot",
+    "title_key": "storage:12551:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12552": {
+    "squad_id": "12552",
+    "preview": "buff_spot",
+    "title_key": "storage:12552:title",
+    "icon_file": "icons\\12552_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12596": {
+    "squad_id": "12596",
+    "preview": "Wilus",
+    "title_key": "storage:12596:title",
+    "icon_file": "icons\\12596_Wilus.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "12645": {
+    "squad_id": "12645",
+    "preview": "gun_spot_full",
+    "title_key": "storage:12645:title",
+    "icon_file": "icons\\12645_gun_spot_full.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12649": {
+    "squad_id": "12649",
+    "preview": "electric_spot",
+    "title_key": "storage:12649:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12652": {
+    "squad_id": "12652",
+    "preview": "electric_spot",
+    "title_key": "storage:12652:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12655": {
+    "squad_id": "12655",
+    "preview": "electric_spot",
+    "title_key": "storage:12655:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12659": {
+    "squad_id": "12659",
+    "preview": "electric_spot",
+    "title_key": "storage:12659:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12664": {
+    "squad_id": "12664",
+    "preview": "electric_spot",
+    "title_key": "storage:12664:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12669": {
+    "squad_id": "12669",
+    "preview": "electric_spot",
+    "title_key": "storage:12669:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12672": {
+    "squad_id": "12672",
+    "preview": "electric_spot",
+    "title_key": "storage:12672:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12675": {
+    "squad_id": "12675",
+    "preview": "electric_spot",
+    "title_key": "storage:12675:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12678": {
+    "squad_id": "12678",
+    "preview": "electric_spot",
+    "title_key": "storage:12678:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12681": {
+    "squad_id": "12681",
+    "preview": "electric_spot",
+    "title_key": "storage:12681:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12684": {
+    "squad_id": "12684",
+    "preview": "electric_spot",
+    "title_key": "storage:12684:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12687": {
+    "squad_id": "12687",
+    "preview": "electric_spot",
+    "title_key": "storage:12687:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12690": {
+    "squad_id": "12690",
+    "preview": "electric_spot",
+    "title_key": "storage:12690:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12693": {
+    "squad_id": "12693",
+    "preview": "electric_spot",
+    "title_key": "storage:12693:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12696": {
+    "squad_id": "12696",
+    "preview": "electric_spot",
+    "title_key": "storage:12696:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12699": {
+    "squad_id": "12699",
+    "preview": "electric_spot",
+    "title_key": "storage:12699:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12702": {
+    "squad_id": "12702",
+    "preview": "electric_spot",
+    "title_key": "storage:12702:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12705": {
+    "squad_id": "12705",
+    "preview": "electric_spot",
+    "title_key": "storage:12705:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12708": {
+    "squad_id": "12708",
+    "preview": "electric_spot",
+    "title_key": "storage:12708:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12711": {
+    "squad_id": "12711",
+    "preview": "electric_spot",
+    "title_key": "storage:12711:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12714": {
+    "squad_id": "12714",
+    "preview": "electric_spot",
+    "title_key": "storage:12714:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12717": {
+    "squad_id": "12717",
+    "preview": "electric_spot",
+    "title_key": "storage:12717:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12720": {
+    "squad_id": "12720",
+    "preview": "electric_spot",
+    "title_key": "storage:12720:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12723": {
+    "squad_id": "12723",
+    "preview": "mortis_cybervirus",
+    "title_key": "storage:12723:title",
+    "icon_file": "icons\\12723_mortis_cybervirus.jpg",
+    "rarity": 3,
+    "elite": 0
+  },
+  "12724": {
+    "squad_id": "12724",
+    "preview": "barrel2",
+    "title_key": "storage:12724:title",
+    "icon_file": "icons\\12724_barrel2.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12837": {
+    "squad_id": "12837",
+    "preview": "buff_spot",
+    "title_key": "storage:12837:title",
+    "icon_file": "icons\\12837_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12840": {
+    "squad_id": "12840",
+    "preview": "buff_spot",
+    "title_key": "storage:12840:title",
+    "icon_file": "icons\\12840_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12843": {
+    "squad_id": "12843",
+    "preview": "buff_spot",
+    "title_key": "storage:12843:title",
+    "icon_file": "icons\\12843_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12846": {
+    "squad_id": "12846",
+    "preview": "buff_spot",
+    "title_key": "storage:12846:title",
+    "icon_file": "icons\\12846_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12849": {
+    "squad_id": "12849",
+    "preview": "buff_spot",
+    "title_key": "storage:12849:title",
+    "icon_file": "icons\\12849_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12852": {
+    "squad_id": "12852",
+    "preview": "buff_spot",
+    "title_key": "storage:12852:title",
+    "icon_file": "icons\\12852_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12855": {
+    "squad_id": "12855",
+    "preview": "buff_spot",
+    "title_key": "storage:12855:title",
+    "icon_file": "icons\\12855_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12858": {
+    "squad_id": "12858",
+    "preview": "buff_spot",
+    "title_key": "storage:12858:title",
+    "icon_file": "icons\\12858_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12861": {
+    "squad_id": "12861",
+    "preview": "buff_spot",
+    "title_key": "storage:12861:title",
+    "icon_file": "icons\\12861_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12864": {
+    "squad_id": "12864",
+    "preview": "buff_spot",
+    "title_key": "storage:12864:title",
+    "icon_file": "icons\\12864_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12867": {
+    "squad_id": "12867",
+    "preview": "buff_spot",
+    "title_key": "storage:12867:title",
+    "icon_file": "icons\\12867_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12870": {
+    "squad_id": "12870",
+    "preview": "buff_spot",
+    "title_key": "storage:12870:title",
+    "icon_file": "icons\\12870_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12874": {
+    "squad_id": "12874",
+    "preview": "buff_spot",
+    "title_key": "storage:12874:title",
+    "icon_file": "icons\\12874_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12877": {
+    "squad_id": "12877",
+    "preview": "buff_spot",
+    "title_key": "storage:12877:title",
+    "icon_file": "icons\\12877_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12880": {
+    "squad_id": "12880",
+    "preview": "buff_spot",
+    "title_key": "storage:12880:title",
+    "icon_file": "icons\\12880_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12883": {
+    "squad_id": "12883",
+    "preview": "buff_spot",
+    "title_key": "storage:12883:title",
+    "icon_file": "icons\\12883_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12886": {
+    "squad_id": "12886",
+    "preview": "buff_spot",
+    "title_key": "storage:12886:title",
+    "icon_file": "icons\\12886_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12889": {
+    "squad_id": "12889",
+    "preview": "buff_spot",
+    "title_key": "storage:12889:title",
+    "icon_file": "icons\\12889_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12892": {
+    "squad_id": "12892",
+    "preview": "buff_spot",
+    "title_key": "storage:12892:title",
+    "icon_file": "icons\\12892_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12895": {
+    "squad_id": "12895",
+    "preview": "buff_spot",
+    "title_key": "storage:12895:title",
+    "icon_file": "icons\\12895_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12898": {
+    "squad_id": "12898",
+    "preview": "buff_spot",
+    "title_key": "storage:12898:title",
+    "icon_file": "icons\\12898_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12899": {
+    "squad_id": "12899",
+    "preview": "buff_spot",
+    "title_key": "storage:12899:title",
+    "icon_file": "icons\\12899_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12904": {
+    "squad_id": "12904",
+    "preview": "buff_spot",
+    "title_key": "storage:12904:title",
+    "icon_file": "icons\\12904_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "12907": {
+    "squad_id": "12907",
+    "preview": "ventilation_spot",
+    "title_key": "storage:12907:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12910": {
+    "squad_id": "12910",
+    "preview": "ventilation_spot",
+    "title_key": "storage:12910:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12913": {
+    "squad_id": "12913",
+    "preview": "ventilation_spot",
+    "title_key": "storage:12913:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12916": {
+    "squad_id": "12916",
+    "preview": "ventilation_spot",
+    "title_key": "storage:12916:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12919": {
+    "squad_id": "12919",
+    "preview": "ventilation_spot",
+    "title_key": "storage:12919:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12923": {
+    "squad_id": "12923",
+    "preview": "ventilation_spot",
+    "title_key": "storage:12923:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12925": {
+    "squad_id": "12925",
+    "preview": "ventilation_spot",
+    "title_key": "storage:12925:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12928": {
+    "squad_id": "12928",
+    "preview": "ventilation_spot",
+    "title_key": "storage:12928:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12931": {
+    "squad_id": "12931",
+    "preview": "ventilation_spot",
+    "title_key": "storage:12931:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12934": {
+    "squad_id": "12934",
+    "preview": "ventilation_spot",
+    "title_key": "storage:12934:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12937": {
+    "squad_id": "12937",
+    "preview": "ventilation_spot",
+    "title_key": "storage:12937:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12940": {
+    "squad_id": "12940",
+    "preview": "ventilation_spot",
+    "title_key": "storage:12940:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12943": {
+    "squad_id": "12943",
+    "preview": "ventilation_spot",
+    "title_key": "storage:12943:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12946": {
+    "squad_id": "12946",
+    "preview": "ventilation_spot",
+    "title_key": "storage:12946:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12949": {
+    "squad_id": "12949",
+    "preview": "ventilation_spot",
+    "title_key": "storage:12949:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12952": {
+    "squad_id": "12952",
+    "preview": "ventilation_spot",
+    "title_key": "storage:12952:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12955": {
+    "squad_id": "12955",
+    "preview": "ventilation_spot",
+    "title_key": "storage:12955:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12958": {
+    "squad_id": "12958",
+    "preview": "ventilation_spot",
+    "title_key": "storage:12958:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12961": {
+    "squad_id": "12961",
+    "preview": "ventilation_spot",
+    "title_key": "storage:12961:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12964": {
+    "squad_id": "12964",
+    "preview": "electric_spot",
+    "title_key": "storage:12964:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12967": {
+    "squad_id": "12967",
+    "preview": "electric_spot",
+    "title_key": "storage:12967:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12970": {
+    "squad_id": "12970",
+    "preview": "electric_spot",
+    "title_key": "storage:12970:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12973": {
+    "squad_id": "12973",
+    "preview": "electric_spot",
+    "title_key": "storage:12973:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12976": {
+    "squad_id": "12976",
+    "preview": "electric_spot",
+    "title_key": "storage:12976:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12980": {
+    "squad_id": "12980",
+    "preview": "electric_spot",
+    "title_key": "storage:12980:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12983": {
+    "squad_id": "12983",
+    "preview": "electric_spot",
+    "title_key": "storage:12983:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12986": {
+    "squad_id": "12986",
+    "preview": "electric_spot",
+    "title_key": "storage:12986:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12990": {
+    "squad_id": "12990",
+    "preview": "electric_spot",
+    "title_key": "storage:12990:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12992": {
+    "squad_id": "12992",
+    "preview": "electric_spot",
+    "title_key": "storage:12992:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12995": {
+    "squad_id": "12995",
+    "preview": "electric_spot",
+    "title_key": "storage:12995:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "12998": {
+    "squad_id": "12998",
+    "preview": "electric_spot",
+    "title_key": "storage:12998:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13001": {
+    "squad_id": "13001",
+    "preview": "electric_spot",
+    "title_key": "storage:13001:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13004": {
+    "squad_id": "13004",
+    "preview": "electric_spot",
+    "title_key": "storage:13004:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13007": {
+    "squad_id": "13007",
+    "preview": "electric_spot",
+    "title_key": "storage:13007:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13010": {
+    "squad_id": "13010",
+    "preview": "electric_spot",
+    "title_key": "storage:13010:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13013": {
+    "squad_id": "13013",
+    "preview": "electric_spot",
+    "title_key": "storage:13013:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13016": {
+    "squad_id": "13016",
+    "preview": "electric_spot",
+    "title_key": "storage:13016:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13019": {
+    "squad_id": "13019",
+    "preview": "buff_spot",
+    "title_key": "storage:13019:title",
+    "icon_file": "icons\\13019_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13022": {
+    "squad_id": "13022",
+    "preview": "buff_spot",
+    "title_key": "storage:13022:title",
+    "icon_file": "icons\\13022_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13025": {
+    "squad_id": "13025",
+    "preview": "buff_spot",
+    "title_key": "storage:13025:title",
+    "icon_file": "icons\\13025_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13028": {
+    "squad_id": "13028",
+    "preview": "buff_spot",
+    "title_key": "storage:13028:title",
+    "icon_file": "icons\\13028_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13031": {
+    "squad_id": "13031",
+    "preview": "buff_spot",
+    "title_key": "storage:13031:title",
+    "icon_file": "icons\\13031_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13034": {
+    "squad_id": "13034",
+    "preview": "buff_spot",
+    "title_key": "storage:13034:title",
+    "icon_file": "icons\\13034_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13037": {
+    "squad_id": "13037",
+    "preview": "buff_spot",
+    "title_key": "storage:13037:title",
+    "icon_file": "icons\\13037_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13040": {
+    "squad_id": "13040",
+    "preview": "buff_spot",
+    "title_key": "storage:13040:title",
+    "icon_file": "icons\\13040_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13043": {
+    "squad_id": "13043",
+    "preview": "buff_spot",
+    "title_key": "storage:13043:title",
+    "icon_file": "icons\\13043_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13047": {
+    "squad_id": "13047",
+    "preview": "buff_spot",
+    "title_key": "storage:13047:title",
+    "icon_file": "icons\\13047_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13049": {
+    "squad_id": "13049",
+    "preview": "buff_spot",
+    "title_key": "storage:13049:title",
+    "icon_file": "icons\\13049_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13052": {
+    "squad_id": "13052",
+    "preview": "buff_spot",
+    "title_key": "storage:13052:title",
+    "icon_file": "icons\\13052_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13055": {
+    "squad_id": "13055",
+    "preview": "buff_spot",
+    "title_key": "storage:13055:title",
+    "icon_file": "icons\\13055_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13058": {
+    "squad_id": "13058",
+    "preview": "buff_spot",
+    "title_key": "storage:13058:title",
+    "icon_file": "icons\\13058_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13061": {
+    "squad_id": "13061",
+    "preview": "buff_spot",
+    "title_key": "storage:13061:title",
+    "icon_file": "icons\\13061_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13065": {
+    "squad_id": "13065",
+    "preview": "buff_spot",
+    "title_key": "storage:13065:title",
+    "icon_file": "icons\\13065_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13067": {
+    "squad_id": "13067",
+    "preview": "buff_spot",
+    "title_key": "storage:13067:title",
+    "icon_file": "icons\\13067_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13070": {
+    "squad_id": "13070",
+    "preview": "buff_spot",
+    "title_key": "storage:13070:title",
+    "icon_file": "icons\\13070_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13073": {
+    "squad_id": "13073",
+    "preview": "buff_spot",
+    "title_key": "storage:13073:title",
+    "icon_file": "icons\\13073_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13076": {
+    "squad_id": "13076",
+    "preview": "buff_spot",
+    "title_key": "storage:13076:title",
+    "icon_file": "icons\\13076_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13079": {
+    "squad_id": "13079",
+    "preview": "electric_spot",
+    "title_key": "storage:13079:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13082": {
+    "squad_id": "13082",
+    "preview": "electric_spot",
+    "title_key": "storage:13082:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13085": {
+    "squad_id": "13085",
+    "preview": "electric_spot",
+    "title_key": "storage:13085:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13088": {
+    "squad_id": "13088",
+    "preview": "electric_spot",
+    "title_key": "storage:13088:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13091": {
+    "squad_id": "13091",
+    "preview": "electric_spot",
+    "title_key": "storage:13091:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13094": {
+    "squad_id": "13094",
+    "preview": "ventilation_spot",
+    "title_key": "storage:13094:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13097": {
+    "squad_id": "13097",
+    "preview": "ventilation_spot",
+    "title_key": "storage:13097:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13100": {
+    "squad_id": "13100",
+    "preview": "ventilation_spot",
+    "title_key": "storage:13100:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13103": {
+    "squad_id": "13103",
+    "preview": "ventilation_spot",
+    "title_key": "storage:13103:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13160": {
+    "squad_id": "13160",
+    "preview": "dungeon_vand",
+    "title_key": "storage:13160:title",
+    "icon_file": "icons\\13160_dungeon_vand.jpg",
+    "rarity": 4,
+    "elite": 1
+  },
+  "13162": {
+    "squad_id": "13162",
+    "preview": "imperial_assassin",
+    "title_key": "storage:13162:title",
+    "icon_file": "icons\\13162_imperial_assassin.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13164": {
+    "squad_id": "13164",
+    "preview": "ghost_hunter",
+    "title_key": "storage:13164:title",
+    "icon_file": "icons\\13164_ghost_hunter.jpg",
+    "rarity": 4,
+    "elite": 2
+  },
+  "13166": {
+    "squad_id": "13166",
+    "preview": "tombraider",
+    "title_key": "storage:13166:title",
+    "icon_file": "icons\\13166_tombraider.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "13173": {
+    "squad_id": "13173",
+    "preview": "10968_peh_labirinth",
+    "title_key": "storage:13173:title",
+    "icon_file": "icons\\13173_10968_peh_labirinth.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "13175": {
+    "squad_id": "13175",
+    "preview": "10969_storm_labirinth",
+    "title_key": "storage:13175:title",
+    "icon_file": "icons\\13175_10969_storm_labirinth.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "13178": {
+    "squad_id": "13178",
+    "preview": "10970_crusader_labirinth",
+    "title_key": "storage:13178:title",
+    "icon_file": "icons\\13178_10970_crusader_labirinth.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "13179": {
+    "squad_id": "13179",
+    "preview": "10971_ranger_labirinth",
+    "title_key": "storage:13179:title",
+    "icon_file": "icons\\13179_10971_ranger_labirinth.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "13195": {
+    "squad_id": "13195",
+    "preview": "pumpkin_killer",
+    "title_key": "storage:13195:title",
+    "icon_file": "icons\\13195_pumpkin_killer.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13199": {
+    "squad_id": "13199",
+    "preview": "maze_priest",
+    "title_key": "storage:13199:title",
+    "icon_file": "icons\\13199_maze_priest.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "13331": {
+    "squad_id": "13331",
+    "preview": "agent_smoke_13331",
+    "title_key": "storage:13331:title",
+    "icon_file": "icons\\13331_agent_smoke_13331.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "13418": {
+    "squad_id": "13418",
+    "preview": "maze_priest",
+    "title_key": "storage:13418:title",
+    "icon_file": "icons\\13418_maze_priest.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "13514": {
+    "squad_id": "13514",
+    "preview": "white_bear",
+    "title_key": "storage:13514:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13517": {
+    "squad_id": "13517",
+    "preview": "esben_humanform",
+    "title_key": "storage:13517:title",
+    "icon_file": null,
+    "rarity": 5,
+    "elite": 0
+  },
+  "13520": {
+    "squad_id": "13520",
+    "preview": "tormentor",
+    "title_key": "storage:13520:title",
+    "icon_file": "icons\\13520_tormentor.jpg",
+    "rarity": 5,
+    "elite": 2
+  },
+  "13559": {
+    "squad_id": "13559",
+    "preview": "13559_black_lerarh",
+    "title_key": "storage:13559:title",
+    "icon_file": "icons\\13559_13559_black_lerarh.jpg",
+    "rarity": 6,
+    "elite": 0
+  },
+  "13622": {
+    "squad_id": "13622",
+    "preview": "Obelisk56",
+    "title_key": "storage:13622:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13624": {
+    "squad_id": "13624",
+    "preview": "Obelisk56",
+    "title_key": "storage:13624:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13626": {
+    "squad_id": "13626",
+    "preview": "Obelisk56",
+    "title_key": "storage:13626:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13628": {
+    "squad_id": "13628",
+    "preview": "Obelisk56",
+    "title_key": "storage:13628:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13635": {
+    "squad_id": "13635",
+    "preview": "kol61",
+    "title_key": "storage:13635:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13638": {
+    "squad_id": "13638",
+    "preview": "skin_mortira_anim",
+    "title_key": "storage:13638:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "1364": {
+    "squad_id": "1364",
+    "preview": "infantry_imper",
+    "title_key": "storage:1364:title",
+    "icon_file": "icons\\1364_infantry_imper.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13640": {
+    "squad_id": "13640",
+    "preview": "kara_nebes_spot_skin",
+    "title_key": "storage:13640:title",
+    "icon_file": "icons\\13640_kara_nebes_spot_skin.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13642": {
+    "squad_id": "13642",
+    "preview": "meat_cannon",
+    "title_key": "storage:13642:title",
+    "icon_file": "icons\\13642_meat_cannon.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13644": {
+    "squad_id": "13644",
+    "preview": "mg_spot_skin",
+    "title_key": "storage:13644:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13645": {
+    "squad_id": "13645",
+    "preview": "zashitnik_plemeni_spot_skin",
+    "title_key": "storage:13645:title",
+    "icon_file": "icons\\13645_zashitnik_plemeni_spot_skin.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13647": {
+    "squad_id": "13647",
+    "preview": "11671_machinegun_occult",
+    "title_key": "storage:13647:title",
+    "icon_file": "icons\\13647_11671_machinegun_occult.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13649": {
+    "squad_id": "13649",
+    "preview": "10071_desert_health_spot_skin",
+    "title_key": "storage:13649:title",
+    "icon_file": "icons\\13649_10071_desert_health_spot_skin.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13651": {
+    "squad_id": "13651",
+    "preview": "9657_Hollowland_heal_spot_80_100",
+    "title_key": "storage:13651:title",
+    "icon_file": "icons\\13651_9657_Hollowland_heal_spot_80_100.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13653": {
+    "squad_id": "13653",
+    "preview": "health_spot_11669",
+    "title_key": "storage:13653:title",
+    "icon_file": "icons\\13653_health_spot_11669.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13655": {
+    "squad_id": "13655",
+    "preview": "hill_spot_12351",
+    "title_key": "storage:13655:title",
+    "icon_file": "icons\\13655_hill_spot_12351.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13657": {
+    "squad_id": "13657",
+    "preview": "health_spot_skin",
+    "title_key": "storage:13657:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13659": {
+    "squad_id": "13659",
+    "preview": "10070_desert_buff_spot_skin",
+    "title_key": "storage:13659:title",
+    "icon_file": "icons\\13659_10070_desert_buff_spot_skin.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13661": {
+    "squad_id": "13661",
+    "preview": "9656_Hollowland_buff_spot_80_100",
+    "title_key": "storage:13661:title",
+    "icon_file": "icons\\13661_9656_Hollowland_buff_spot_80_100.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13663": {
+    "squad_id": "13663",
+    "preview": "buff_spot_11668",
+    "title_key": "storage:13663:title",
+    "icon_file": "icons\\13663_buff_spot_11668.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13665": {
+    "squad_id": "13665",
+    "preview": "baf_spot_12350",
+    "title_key": "storage:13665:title",
+    "icon_file": "icons\\13665_baf_spot_12350.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13667": {
+    "squad_id": "13667",
+    "preview": "buff_spot_skin",
+    "title_key": "storage:13667:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13669": {
+    "squad_id": "13669",
+    "preview": "skin_spotgun_12352",
+    "title_key": "storage:13669:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13671": {
+    "squad_id": "13671",
+    "preview": "9658_Skin_machinegun_keeper_80_100",
+    "title_key": "storage:13671:title",
+    "icon_file": "icons\\13671_9658_Skin_machinegun_keeper_80_100.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13673": {
+    "squad_id": "13673",
+    "preview": "mortirs_spot_12353",
+    "title_key": "storage:13673:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13675": {
+    "squad_id": "13675",
+    "preview": "9659_Skin_mortair_keeper_80_100",
+    "title_key": "storage:13675:title",
+    "icon_file": "icons\\13675_9659_Skin_mortair_keeper_80_100.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13679": {
+    "squad_id": "13679",
+    "preview": "kol61",
+    "title_key": "storage:13679:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13682": {
+    "squad_id": "13682",
+    "preview": "kol61",
+    "title_key": "storage:13682:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13685": {
+    "squad_id": "13685",
+    "preview": "kol61",
+    "title_key": "storage:13685:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13688": {
+    "squad_id": "13688",
+    "preview": "kol61",
+    "title_key": "storage:13688:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "1369": {
+    "squad_id": "1369",
+    "preview": "otstupnik",
+    "title_key": "storage:1369:title",
+    "icon_file": "icons\\1369_otstupnik.jpg",
+    "rarity": null,
+    "elite": 2
+  },
+  "13691": {
+    "squad_id": "13691",
+    "preview": "kol61",
+    "title_key": "storage:13691:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13694": {
+    "squad_id": "13694",
+    "preview": "kol61",
+    "title_key": "storage:13694:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13697": {
+    "squad_id": "13697",
+    "preview": "kol61",
+    "title_key": "storage:13697:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13699": {
+    "squad_id": "13699",
+    "preview": "buff_spot",
+    "title_key": "storage:13699:title",
+    "icon_file": "icons\\13699_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13702": {
+    "squad_id": "13702",
+    "preview": "buff_spot",
+    "title_key": "storage:13702:title",
+    "icon_file": "icons\\13702_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13705": {
+    "squad_id": "13705",
+    "preview": "buff_spot",
+    "title_key": "storage:13705:title",
+    "icon_file": "icons\\13705_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13708": {
+    "squad_id": "13708",
+    "preview": "buff_spot",
+    "title_key": "storage:13708:title",
+    "icon_file": "icons\\13708_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13711": {
+    "squad_id": "13711",
+    "preview": "buff_spot",
+    "title_key": "storage:13711:title",
+    "icon_file": "icons\\13711_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13714": {
+    "squad_id": "13714",
+    "preview": "buff_spot",
+    "title_key": "storage:13714:title",
+    "icon_file": "icons\\13714_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13717": {
+    "squad_id": "13717",
+    "preview": "buff_spot",
+    "title_key": "storage:13717:title",
+    "icon_file": "icons\\13717_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13720": {
+    "squad_id": "13720",
+    "preview": "buff_spot",
+    "title_key": "storage:13720:title",
+    "icon_file": "icons\\13720_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13724": {
+    "squad_id": "13724",
+    "preview": "electric_spot",
+    "title_key": "storage:13724:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13726": {
+    "squad_id": "13726",
+    "preview": "electric_spot",
+    "title_key": "storage:13726:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13729": {
+    "squad_id": "13729",
+    "preview": "electric_spot",
+    "title_key": "storage:13729:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13732": {
+    "squad_id": "13732",
+    "preview": "electric_spot",
+    "title_key": "storage:13732:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13735": {
+    "squad_id": "13735",
+    "preview": "electric_spot",
+    "title_key": "storage:13735:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13739": {
+    "squad_id": "13739",
+    "preview": "electric_spot",
+    "title_key": "storage:13739:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "1374": {
+    "squad_id": "1374",
+    "preview": "renegat",
+    "title_key": "storage:1374:title",
+    "icon_file": "icons\\1374_renegat.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "13741": {
+    "squad_id": "13741",
+    "preview": "electric_spot",
+    "title_key": "storage:13741:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13744": {
+    "squad_id": "13744",
+    "preview": "electric_spot",
+    "title_key": "storage:13744:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13749": {
+    "squad_id": "13749",
+    "preview": "kol61",
+    "title_key": "storage:13749:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "1375": {
+    "squad_id": "1375",
+    "preview": "dezertir",
+    "title_key": "storage:1375:title",
+    "icon_file": "icons\\1375_dezertir.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "13752": {
+    "squad_id": "13752",
+    "preview": "kol61",
+    "title_key": "storage:13752:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13755": {
+    "squad_id": "13755",
+    "preview": "kol61",
+    "title_key": "storage:13755:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13758": {
+    "squad_id": "13758",
+    "preview": "kol61",
+    "title_key": "storage:13758:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "1376": {
+    "squad_id": "1376",
+    "preview": "razrushiltel",
+    "title_key": "storage:1376:title",
+    "icon_file": "icons\\1376_razrushiltel.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "13760": {
+    "squad_id": "13760",
+    "preview": "kol61",
+    "title_key": "storage:13760:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13764": {
+    "squad_id": "13764",
+    "preview": "kol61",
+    "title_key": "storage:13764:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13767": {
+    "squad_id": "13767",
+    "preview": "kol61",
+    "title_key": "storage:13767:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13770": {
+    "squad_id": "13770",
+    "preview": "kol61",
+    "title_key": "storage:13770:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13773": {
+    "squad_id": "13773",
+    "preview": "kol61",
+    "title_key": "storage:13773:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13776": {
+    "squad_id": "13776",
+    "preview": "kol61",
+    "title_key": "storage:13776:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13779": {
+    "squad_id": "13779",
+    "preview": "kol61",
+    "title_key": "storage:13779:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13782": {
+    "squad_id": "13782",
+    "preview": "kol61",
+    "title_key": "storage:13782:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13785": {
+    "squad_id": "13785",
+    "preview": "kol61",
+    "title_key": "storage:13785:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13788": {
+    "squad_id": "13788",
+    "preview": "kol61",
+    "title_key": "storage:13788:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13791": {
+    "squad_id": "13791",
+    "preview": "kol61",
+    "title_key": "storage:13791:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13794": {
+    "squad_id": "13794",
+    "preview": "kol61",
+    "title_key": "storage:13794:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13795": {
+    "squad_id": "13795",
+    "preview": "ventilation_spot",
+    "title_key": "storage:13795:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13798": {
+    "squad_id": "13798",
+    "preview": "ventilation_spot",
+    "title_key": "storage:13798:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13802": {
+    "squad_id": "13802",
+    "preview": "ventilation_spot",
+    "title_key": "storage:13802:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13804": {
+    "squad_id": "13804",
+    "preview": "ventilation_spot",
+    "title_key": "storage:13804:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13807": {
+    "squad_id": "13807",
+    "preview": "ventilation_spot",
+    "title_key": "storage:13807:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13810": {
+    "squad_id": "13810",
+    "preview": "ventilation_spot",
+    "title_key": "storage:13810:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13813": {
+    "squad_id": "13813",
+    "preview": "ventilation_spot",
+    "title_key": "storage:13813:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13816": {
+    "squad_id": "13816",
+    "preview": "ventilation_spot",
+    "title_key": "storage:13816:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "13824": {
+    "squad_id": "13824",
+    "preview": "blitz_hero_desert_skin",
+    "title_key": "storage:13824:title",
+    "icon_file": null,
+    "rarity": 4,
+    "elite": 2
+  },
+  "13835": {
+    "squad_id": "13835",
+    "preview": "tormentor",
+    "title_key": "storage:13835:title",
+    "icon_file": "icons\\13835_tormentor.jpg",
+    "rarity": 5,
+    "elite": 2
+  },
+  "13838": {
+    "squad_id": "13838",
+    "preview": "Wilus",
+    "title_key": "storage:13838:title",
+    "icon_file": "icons\\13838_Wilus.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "13842": {
+    "squad_id": "13842",
+    "preview": "king_morgus",
+    "title_key": "storage:13842:title",
+    "icon_file": "icons\\13842_king_morgus.jpg",
+    "rarity": 6,
+    "elite": 0
+  },
+  "13844": {
+    "squad_id": "13844",
+    "preview": "red_general",
+    "title_key": "storage:13844:title",
+    "icon_file": "icons\\13844_red_general.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "13846": {
+    "squad_id": "13846",
+    "preview": "martyr",
+    "title_key": "storage:13846:title",
+    "icon_file": null,
+    "rarity": 5,
+    "elite": 0
+  },
+  "13848": {
+    "squad_id": "13848",
+    "preview": "occult_cleaner",
+    "title_key": "storage:13848:title",
+    "icon_file": null,
+    "rarity": 4,
+    "elite": 0
+  },
+  "13850": {
+    "squad_id": "13850",
+    "preview": "occult_rosenstein",
+    "title_key": "storage:13850:title",
+    "icon_file": "icons\\13850_occult_rosenstein.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "13852": {
+    "squad_id": "13852",
+    "preview": "jack_reaper",
+    "title_key": "storage:13852:title",
+    "icon_file": "icons\\13852_jack_reaper.jpg",
+    "rarity": 5,
+    "elite": 2
+  },
+  "13854": {
+    "squad_id": "13854",
+    "preview": "deus_ex_machina",
+    "title_key": "storage:13854:title",
+    "icon_file": null,
+    "rarity": 4,
+    "elite": 0
+  },
+  "13856": {
+    "squad_id": "13856",
+    "preview": "blue_general",
+    "title_key": "storage:13856:title",
+    "icon_file": "icons\\13856_blue_general.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "13858": {
+    "squad_id": "13858",
+    "preview": "oderzhimiyGrant",
+    "title_key": "storage:13858:title",
+    "icon_file": "icons\\13858_oderzhimiyGrant.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "1388": {
+    "squad_id": "1388",
+    "preview": "red_sniper_hero",
+    "title_key": "storage:1388:title",
+    "icon_file": "icons\\1388_red_sniper_hero.jpg",
+    "rarity": 2,
+    "elite": 0
+  },
+  "14126": {
+    "squad_id": "14126",
+    "preview": "squadBacking2",
+    "title_key": "storage:14126:title",
+    "icon_file": "icons\\14126_squadBacking2.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "14133": {
+    "squad_id": "14133",
+    "preview": "13559_black_lerarh",
+    "title_key": "storage:14133:title",
+    "icon_file": "icons\\14133_13559_black_lerarh.jpg",
+    "rarity": 6,
+    "elite": 0
+  },
+  "14185": {
+    "squad_id": "14185",
+    "preview": "squadBacking2",
+    "title_key": "storage:14185:title",
+    "icon_file": "icons\\14185_squadBacking2.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "1428": {
+    "squad_id": "1428",
+    "preview": "barrel2",
+    "title_key": "storage:1428:title",
+    "icon_file": "icons\\1428_barrel2.jpg",
+    "rarity": null,
+    "elite": 0
+  },
+  "1432": {
+    "squad_id": "1432",
+    "preview": "barrel3",
+    "title_key": "storage:1432:title",
+    "icon_file": "icons\\1432_barrel3.jpg",
+    "rarity": null,
+    "elite": 0
+  },
+  "1474": {
+    "squad_id": "1474",
+    "preview": "WWInfantry",
+    "title_key": "storage:1474:title",
+    "icon_file": "icons\\1474_WWInfantry.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1476": {
+    "squad_id": "1476",
+    "preview": "WWStormtrooper",
+    "title_key": "storage:1476:title",
+    "icon_file": "icons\\1476_WWStormtrooper.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1478": {
+    "squad_id": "1478",
+    "preview": "WWCrusader",
+    "title_key": "storage:1478:title",
+    "icon_file": "icons\\1478_WWCrusader.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1480": {
+    "squad_id": "1480",
+    "preview": "WWSniper",
+    "title_key": "storage:1480:title",
+    "icon_file": "icons\\1480_WWSniper.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1482": {
+    "squad_id": "1482",
+    "preview": "WWBochka",
+    "title_key": "storage:1482:title",
+    "icon_file": "icons\\1482_WWBochka.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1484": {
+    "squad_id": "1484",
+    "preview": "red_heavy",
+    "title_key": "storage:1484:title",
+    "icon_file": "icons\\1484_red_heavy.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1568": {
+    "squad_id": "1568",
+    "preview": "imperialCrusader",
+    "title_key": "storage:1568:title",
+    "icon_file": "icons\\1568_imperialCrusader.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "1588": {
+    "squad_id": "1588",
+    "preview": "heroBarbarian",
+    "title_key": "storage:1588:title",
+    "icon_file": "icons\\1588_heroBarbarian.jpg",
+    "rarity": 2,
+    "elite": 0
+  },
+  "1648": {
+    "squad_id": "1648",
+    "preview": "WMdoubleBarrel",
+    "title_key": "storage:1648:title",
+    "icon_file": "icons\\1648_WMdoubleBarrel.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1655": {
+    "squad_id": "1655",
+    "preview": "WMshotGun",
+    "title_key": "storage:1655:title",
+    "icon_file": "icons\\1655_WMshotGun.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1678": {
+    "squad_id": "1678",
+    "preview": "WMmachineGun",
+    "title_key": "storage:1678:title",
+    "icon_file": "icons\\1678_WMmachineGun.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1703": {
+    "squad_id": "1703",
+    "preview": "Bear",
+    "title_key": "storage:1703:title",
+    "icon_file": "icons\\1703_Bear.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "1706": {
+    "squad_id": "1706",
+    "preview": "CaptainWalkerRed1706",
+    "title_key": "storage:1706:title",
+    "icon_file": "icons\\1706_CaptainWalkerRed1706.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1708": {
+    "squad_id": "1708",
+    "preview": "red_general1708",
+    "title_key": "storage:1708:title",
+    "icon_file": "icons\\1708_red_general1708.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1710": {
+    "squad_id": "1710",
+    "preview": "CaptainWalkerRed1710",
+    "title_key": "storage:1710:title",
+    "icon_file": "icons\\1710_CaptainWalkerRed1710.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1712": {
+    "squad_id": "1712",
+    "preview": "CaptainWalkerBlack1712",
+    "title_key": "storage:1712:title",
+    "icon_file": "icons\\1712_CaptainWalkerBlack1712.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1714": {
+    "squad_id": "1714",
+    "preview": "red_general1714",
+    "title_key": "storage:1714:title",
+    "icon_file": "icons\\1714_red_general1714.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1741": {
+    "squad_id": "1741",
+    "preview": "imperialSniper",
+    "title_key": "storage:1741:title",
+    "icon_file": "icons\\1741_imperialSniper.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "1775": {
+    "squad_id": "1775",
+    "preview": "imperialHero",
+    "title_key": "storage:1775:title",
+    "icon_file": "icons\\1775_imperialHero.jpg",
+    "rarity": 2,
+    "elite": 2
+  },
+  "1808": {
+    "squad_id": "1808",
+    "preview": "blue_rifleman2",
+    "title_key": "storage:1808:title",
+    "icon_file": "icons\\1808_blue_rifleman2.jpg",
+    "rarity": 2,
+    "elite": 1
+  },
+  "1811": {
+    "squad_id": "1811",
+    "preview": "blue_rifleman3",
+    "title_key": "storage:1811:title",
+    "icon_file": "icons\\1811_blue_rifleman3.jpg",
+    "rarity": 3,
+    "elite": 1
+  },
+  "1813": {
+    "squad_id": "1813",
+    "preview": "guardsman2",
+    "title_key": "storage:1813:title",
+    "icon_file": "icons\\1813_guardsman2.jpg",
+    "rarity": 2,
+    "elite": 1
+  },
+  "1815": {
+    "squad_id": "1815",
+    "preview": "guardsman3",
+    "title_key": "storage:1815:title",
+    "icon_file": "icons\\1815_guardsman3.jpg",
+    "rarity": 3,
+    "elite": 1
+  },
+  "1817": {
+    "squad_id": "1817",
+    "preview": "green_stormtrooper2",
+    "title_key": "storage:1817:title",
+    "icon_file": "icons\\1817_green_stormtrooper2.jpg",
+    "rarity": 2,
+    "elite": 1
+  },
+  "1819": {
+    "squad_id": "1819",
+    "preview": "green_stormtrooper3",
+    "title_key": "storage:1819:title",
+    "icon_file": "icons\\1819_green_stormtrooper3.jpg",
+    "rarity": 3,
+    "elite": 1
+  },
+  "1821": {
+    "squad_id": "1821",
+    "preview": "mstitel2",
+    "title_key": "storage:1821:title",
+    "icon_file": "icons\\1821_mstitel2.jpg",
+    "rarity": 2,
+    "elite": 1
+  },
+  "1823": {
+    "squad_id": "1823",
+    "preview": "Bear2",
+    "title_key": "storage:1823:title",
+    "icon_file": "icons\\1823_Bear2.jpg",
+    "rarity": null,
+    "elite": 2
+  },
+  "1824": {
+    "squad_id": "1824",
+    "preview": "lecantrop2",
+    "title_key": "storage:1824:title",
+    "icon_file": "icons\\1824_lecantrop2.jpg",
+    "rarity": null,
+    "elite": 2
+  },
+  "1825": {
+    "squad_id": "1825",
+    "preview": "mstitel3",
+    "title_key": "storage:1825:title",
+    "icon_file": "icons\\1825_mstitel3.jpg",
+    "rarity": 3,
+    "elite": 1
+  },
+  "1827": {
+    "squad_id": "1827",
+    "preview": "blue_sniper2",
+    "title_key": "storage:1827:title",
+    "icon_file": "icons\\1827_blue_sniper2.jpg",
+    "rarity": 2,
+    "elite": 1
+  },
+  "1829": {
+    "squad_id": "1829",
+    "preview": "blue_sniper3",
+    "title_key": "storage:1829:title",
+    "icon_file": "icons\\1829_blue_sniper3.jpg",
+    "rarity": 3,
+    "elite": 1
+  },
+  "1831": {
+    "squad_id": "1831",
+    "preview": "red_bo4ka",
+    "title_key": "storage:1831:title",
+    "icon_file": "icons\\1831_red_bo4ka.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1833": {
+    "squad_id": "1833",
+    "preview": "WWBochka",
+    "title_key": "storage:1833:title",
+    "icon_file": "icons\\1833_WWBochka.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1835": {
+    "squad_id": "1835",
+    "preview": "WWTraitor",
+    "title_key": "storage:1835:title",
+    "icon_file": "icons\\1835_WWTraitor.jpg",
+    "rarity": null,
+    "elite": 2
+  },
+  "1837": {
+    "squad_id": "1837",
+    "preview": "WWOpportunist",
+    "title_key": "storage:1837:title",
+    "icon_file": "icons\\1837_WWOpportunist.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1838": {
+    "squad_id": "1838",
+    "preview": "WWHeavy",
+    "title_key": "storage:1838:title",
+    "icon_file": "icons\\1838_WWHeavy.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1841": {
+    "squad_id": "1841",
+    "preview": "WWMercenary",
+    "title_key": "storage:1841:title",
+    "icon_file": "icons\\1841_WWMercenary.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1843": {
+    "squad_id": "1843",
+    "preview": "infantry_blue2",
+    "title_key": "storage:1843:title",
+    "icon_file": "icons\\1843_infantry_blue2.jpg",
+    "rarity": 2,
+    "elite": 0
+  },
+  "1845": {
+    "squad_id": "1845",
+    "preview": "infantry_blue3",
+    "title_key": "storage:1845:title",
+    "icon_file": "icons\\1845_infantry_blue3.jpg",
+    "rarity": 3,
+    "elite": 0
+  },
+  "1847": {
+    "squad_id": "1847",
+    "preview": "infantryman2",
+    "title_key": "storage:1847:title",
+    "icon_file": "icons\\1847_infantryman2.jpg",
+    "rarity": 2,
+    "elite": 1
+  },
+  "1849": {
+    "squad_id": "1849",
+    "preview": "infantryman3",
+    "title_key": "storage:1849:title",
+    "icon_file": "icons\\1849_infantryman3.jpg",
+    "rarity": 3,
+    "elite": 1
+  },
+  "1851": {
+    "squad_id": "1851",
+    "preview": "unit_white2",
+    "title_key": "storage:1851:title",
+    "icon_file": "icons\\1851_unit_white2.jpg",
+    "rarity": 2,
+    "elite": 0
+  },
+  "1853": {
+    "squad_id": "1853",
+    "preview": "unit_white3",
+    "title_key": "storage:1853:title",
+    "icon_file": "icons\\1853_unit_white3.jpg",
+    "rarity": 3,
+    "elite": 0
+  },
+  "1855": {
+    "squad_id": "1855",
+    "preview": "unit_black2",
+    "title_key": "storage:1855:title",
+    "icon_file": "icons\\1855_unit_black2.jpg",
+    "rarity": 2,
+    "elite": 0
+  },
+  "1857": {
+    "squad_id": "1857",
+    "preview": "unit_black3",
+    "title_key": "storage:1857:title",
+    "icon_file": "icons\\1857_unit_black3.jpg",
+    "rarity": 3,
+    "elite": 0
+  },
+  "1859": {
+    "squad_id": "1859",
+    "preview": "otstupnik0",
+    "title_key": "storage:1859:title",
+    "icon_file": "icons\\1859_otstupnik0.jpg",
+    "rarity": null,
+    "elite": 2
+  },
+  "1861": {
+    "squad_id": "1861",
+    "preview": "otstupnik2",
+    "title_key": "storage:1861:title",
+    "icon_file": "icons\\1861_otstupnik2.jpg",
+    "rarity": 2,
+    "elite": 2
+  },
+  "1863": {
+    "squad_id": "1863",
+    "preview": "otstupnik3",
+    "title_key": "storage:1863:title",
+    "icon_file": "icons\\1863_otstupnik3.jpg",
+    "rarity": 3,
+    "elite": 2
+  },
+  "1865": {
+    "squad_id": "1865",
+    "preview": "infantry_imper0",
+    "title_key": "storage:1865:title",
+    "icon_file": "icons\\1865_infantry_imper0.jpg",
+    "rarity": null,
+    "elite": 0
+  },
+  "1867": {
+    "squad_id": "1867",
+    "preview": "infantry_imper2",
+    "title_key": "storage:1867:title",
+    "icon_file": "icons\\1867_infantry_imper2.jpg",
+    "rarity": 2,
+    "elite": 0
+  },
+  "1869": {
+    "squad_id": "1869",
+    "preview": "infantry_imper3",
+    "title_key": "storage:1869:title",
+    "icon_file": "icons\\1869_infantry_imper3.jpg",
+    "rarity": 3,
+    "elite": 0
+  },
+  "1871": {
+    "squad_id": "1871",
+    "preview": "germanWW",
+    "title_key": "storage:1871:title",
+    "icon_file": "icons\\1871_germanWW.jpg",
+    "rarity": null,
+    "elite": 1
+  },
+  "1873": {
+    "squad_id": "1873",
+    "preview": "germanWW2",
+    "title_key": "storage:1873:title",
+    "icon_file": "icons\\1873_germanWW2.jpg",
+    "rarity": 2,
+    "elite": 1
+  },
+  "1875": {
+    "squad_id": "1875",
+    "preview": "germanWW3",
+    "title_key": "storage:1875:title",
+    "icon_file": "icons\\1875_germanWW3.jpg",
+    "rarity": 3,
+    "elite": 1
+  },
+  "1877": {
+    "squad_id": "1877",
+    "preview": "krushitel1",
+    "title_key": "storage:1877:title",
+    "icon_file": "icons\\1877_krushitel1.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "1879": {
+    "squad_id": "1879",
+    "preview": "krushitel2",
+    "title_key": "storage:1879:title",
+    "icon_file": "icons\\1879_krushitel2.jpg",
+    "rarity": 2,
+    "elite": 0
+  },
+  "1881": {
+    "squad_id": "1881",
+    "preview": "krushitel3",
+    "title_key": "storage:1881:title",
+    "icon_file": "icons\\1881_krushitel3.jpg",
+    "rarity": 3,
+    "elite": 0
+  },
+  "1883": {
+    "squad_id": "1883",
+    "preview": "imperialCrusader",
+    "title_key": "storage:1883:title",
+    "icon_file": "icons\\1883_imperialCrusader.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "1885": {
+    "squad_id": "1885",
+    "preview": "imperialCrusader2",
+    "title_key": "storage:1885:title",
+    "icon_file": "icons\\1885_imperialCrusader2.jpg",
+    "rarity": 2,
+    "elite": 0
+  },
+  "1887": {
+    "squad_id": "1887",
+    "preview": "imperialCrusader3",
+    "title_key": "storage:1887:title",
+    "icon_file": "icons\\1887_imperialCrusader3.jpg",
+    "rarity": 3,
+    "elite": 0
+  },
+  "1889": {
+    "squad_id": "1889",
+    "preview": "imperialSniper",
+    "title_key": "storage:1889:title",
+    "icon_file": "icons\\1889_imperialSniper.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "1891": {
+    "squad_id": "1891",
+    "preview": "imperialSniper2",
+    "title_key": "storage:1891:title",
+    "icon_file": "icons\\1891_imperialSniper2.jpg",
+    "rarity": 2,
+    "elite": 1
+  },
+  "1893": {
+    "squad_id": "1893",
+    "preview": "imperialSniper3",
+    "title_key": "storage:1893:title",
+    "icon_file": "icons\\1893_imperialSniper3.jpg",
+    "rarity": 3,
+    "elite": 1
+  },
+  "1895": {
+    "squad_id": "1895",
+    "preview": "WWTraitor2",
+    "title_key": "storage:1895:title",
+    "icon_file": "icons\\1895_WWTraitor2.jpg",
+    "rarity": 2,
+    "elite": 2
+  },
+  "1897": {
+    "squad_id": "1897",
+    "preview": "renegat",
+    "title_key": "storage:1897:title",
+    "icon_file": "icons\\1897_renegat.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1899": {
+    "squad_id": "1899",
+    "preview": "renegat2",
+    "title_key": "storage:1899:title",
+    "icon_file": "icons\\1899_renegat2.jpg",
+    "rarity": 2,
+    "elite": 2
+  },
+  "1901": {
+    "squad_id": "1901",
+    "preview": "renegat3",
+    "title_key": "storage:1901:title",
+    "icon_file": "icons\\1901_renegat3.jpg",
+    "rarity": 3,
+    "elite": 2
+  },
+  "1903": {
+    "squad_id": "1903",
+    "preview": "razrushiltel",
+    "title_key": "storage:1903:title",
+    "icon_file": "icons\\1903_razrushiltel.jpg",
+    "rarity": null,
+    "elite": 2
+  },
+  "1905": {
+    "squad_id": "1905",
+    "preview": "razrushiltel1",
+    "title_key": "storage:1905:title",
+    "icon_file": "icons\\1905_razrushiltel1.jpg",
+    "rarity": 2,
+    "elite": 2
+  },
+  "1907": {
+    "squad_id": "1907",
+    "preview": "razrushiltel2",
+    "title_key": "storage:1907:title",
+    "icon_file": "icons\\1907_razrushiltel2.jpg",
+    "rarity": 3,
+    "elite": 2
+  },
+  "1909": {
+    "squad_id": "1909",
+    "preview": "dezertir",
+    "title_key": "storage:1909:title",
+    "icon_file": "icons\\1909_dezertir.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1911": {
+    "squad_id": "1911",
+    "preview": "dezertir2",
+    "title_key": "storage:1911:title",
+    "icon_file": "icons\\1911_dezertir2.jpg",
+    "rarity": 2,
+    "elite": 2
+  },
+  "1913": {
+    "squad_id": "1913",
+    "preview": "dezertir3",
+    "title_key": "storage:1913:title",
+    "icon_file": "icons\\1913_dezertir3.jpg",
+    "rarity": 3,
+    "elite": 2
+  },
+  "1917": {
+    "squad_id": "1917",
+    "preview": "WWOpportunist2",
+    "title_key": "storage:1917:title",
+    "icon_file": "icons\\1917_WWOpportunist2.jpg",
+    "rarity": 2,
+    "elite": 2
+  },
+  "1919": {
+    "squad_id": "1919",
+    "preview": "WWHeavy2",
+    "title_key": "storage:1919:title",
+    "icon_file": "icons\\1919_WWHeavy2.jpg",
+    "rarity": 2,
+    "elite": 2
+  },
+  "1921": {
+    "squad_id": "1921",
+    "preview": "WWMercenary2",
+    "title_key": "storage:1921:title",
+    "icon_file": "icons\\1921_WWMercenary2.jpg",
+    "rarity": 2,
+    "elite": 2
+  },
+  "1922": {
+    "squad_id": "1922",
+    "preview": "red_melee",
+    "title_key": "storage:1922:title",
+    "icon_file": "icons\\1922_red_melee.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1925": {
+    "squad_id": "1925",
+    "preview": "red_mage_fat",
+    "title_key": "storage:1925:title",
+    "icon_file": "icons\\1925_red_mage_fat.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1933": {
+    "squad_id": "1933",
+    "preview": "marauder_stoormtrooper",
+    "title_key": "storage:1933:title",
+    "icon_file": "icons\\1933_marauder_stoormtrooper.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "1941": {
+    "squad_id": "1941",
+    "preview": "marauder_sniper",
+    "title_key": "storage:1941:title",
+    "icon_file": "icons\\1941_marauder_sniper.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "1952": {
+    "squad_id": "1952",
+    "preview": "marauder_hero",
+    "title_key": "storage:1952:title",
+    "icon_file": "icons\\1952_marauder_hero.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "1957": {
+    "squad_id": "1957",
+    "preview": "marauder_rifleman",
+    "title_key": "storage:1957:title",
+    "icon_file": "icons\\1957_marauder_rifleman.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "1958": {
+    "squad_id": "1958",
+    "preview": "marauder_doctor",
+    "title_key": "storage:1958:title",
+    "icon_file": "icons\\1958_marauder_doctor.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "1971": {
+    "squad_id": "1971",
+    "preview": "lycanthrope_prem_red",
+    "title_key": "storage:1971:title",
+    "icon_file": "icons\\1971_lycanthrope_prem_red.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "2011": {
+    "squad_id": "2011",
+    "preview": "marauder_crusader",
+    "title_key": "storage:2011:title",
+    "icon_file": "icons\\2011_marauder_crusader.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "2062": {
+    "squad_id": "2062",
+    "preview": "marauder_hero",
+    "title_key": "storage:2062:title",
+    "icon_file": "icons\\2062_marauder_hero.jpg",
+    "rarity": 2,
+    "elite": 0
+  },
+  "2166": {
+    "squad_id": "2166",
+    "preview": "imperial_stormtrooper",
+    "title_key": "storage:2166:title",
+    "icon_file": "icons\\2166_imperial_stormtrooper.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "2427": {
+    "squad_id": "2427",
+    "preview": "teslaHero",
+    "title_key": "storage:2427:title",
+    "icon_file": "icons\\2427_teslaHero.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "2431": {
+    "squad_id": "2431",
+    "preview": "goliaph_hero",
+    "title_key": "storage:2431:title",
+    "icon_file": "icons\\2431_goliaph_hero.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "2478": {
+    "squad_id": "2478",
+    "preview": "monarchy_infantry",
+    "title_key": "storage:2478:title",
+    "icon_file": "icons\\2478_monarchy_infantry.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "2480": {
+    "squad_id": "2480",
+    "preview": "order_crusader",
+    "title_key": "storage:2480:title",
+    "icon_file": "icons\\2480_order_crusader.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "2482": {
+    "squad_id": "2482",
+    "preview": "legion_stormtrooper",
+    "title_key": "storage:2482:title",
+    "icon_file": "icons\\2482_legion_stormtrooper.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "2544": {
+    "squad_id": "2544",
+    "preview": "flamethrower_hero",
+    "title_key": "storage:2544:title",
+    "icon_file": "icons\\2544_flamethrower_hero.jpg",
+    "rarity": 2,
+    "elite": 2
+  },
+  "2566": {
+    "squad_id": "2566",
+    "preview": "order_infantry",
+    "title_key": "storage:2566:title",
+    "icon_file": "icons\\2566_order_infantry.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "2567": {
+    "squad_id": "2567",
+    "preview": "legion_infantry",
+    "title_key": "storage:2567:title",
+    "icon_file": "icons\\2567_legion_infantry.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "2570": {
+    "squad_id": "2570",
+    "preview": "monarchy_stormtrooper",
+    "title_key": "storage:2570:title",
+    "icon_file": "icons\\2570_monarchy_stormtrooper.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "2571": {
+    "squad_id": "2571",
+    "preview": "order_stormtrooper",
+    "title_key": "storage:2571:title",
+    "icon_file": "icons\\2571_order_stormtrooper.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "2575": {
+    "squad_id": "2575",
+    "preview": "legion_crusader",
+    "title_key": "storage:2575:title",
+    "icon_file": "icons\\2575_legion_crusader.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "2576": {
+    "squad_id": "2576",
+    "preview": "monarchy_crusader",
+    "title_key": "storage:2576:title",
+    "icon_file": "icons\\2576_monarchy_crusader.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "2578": {
+    "squad_id": "2578",
+    "preview": "monarchy_special",
+    "title_key": "storage:2578:title",
+    "icon_file": "icons\\2578_monarchy_special.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "2605": {
+    "squad_id": "2605",
+    "preview": "order_sniper",
+    "title_key": "storage:2605:title",
+    "icon_file": "icons\\2605_order_sniper.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "2606": {
+    "squad_id": "2606",
+    "preview": "legion_sniper",
+    "title_key": "storage:2606:title",
+    "icon_file": "icons\\2606_legion_sniper.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "2698": {
+    "squad_id": "2698",
+    "preview": "robot1_boss",
+    "title_key": "storage:2698:title",
+    "icon_file": "icons\\2698_robot1_boss.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "2727": {
+    "squad_id": "2727",
+    "preview": "red_fat_hero",
+    "title_key": "storage:2727:title",
+    "icon_file": "icons\\2727_red_fat_hero.jpg",
+    "rarity": 2,
+    "elite": 0
+  },
+  "2746": {
+    "squad_id": "2746",
+    "preview": "robot1_boss",
+    "title_key": "storage:2746:title",
+    "icon_file": "icons\\2746_robot1_boss.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "2816": {
+    "squad_id": "2816",
+    "preview": "tank_boss",
+    "title_key": "storage:2816:title",
+    "icon_file": "icons\\2816_tank_boss.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "2817": {
+    "squad_id": "2817",
+    "preview": "tank_boss",
+    "title_key": "storage:2817:title",
+    "icon_file": "icons\\2817_tank_boss.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "2836": {
+    "squad_id": "2836",
+    "preview": "marauder_dubina",
+    "title_key": "storage:2836:title",
+    "icon_file": "icons\\2836_marauder_dubina.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "2838": {
+    "squad_id": "2838",
+    "preview": "bazuk_man",
+    "title_key": "storage:2838:title",
+    "icon_file": "icons\\2838_bazuk_man.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "2840": {
+    "squad_id": "2840",
+    "preview": "turret_support",
+    "title_key": "storage:2840:title",
+    "icon_file": "icons\\2840_turret_support.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "2844": {
+    "squad_id": "2844",
+    "preview": "turret_support",
+    "title_key": "storage:2844:title",
+    "icon_file": "icons\\2844_turret_support.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "2856": {
+    "squad_id": "2856",
+    "preview": "spot_gun",
+    "title_key": "storage:2856:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "2872": {
+    "squad_id": "2872",
+    "preview": "hero_toxic",
+    "title_key": "storage:2872:title",
+    "icon_file": "icons\\2872_hero_toxic.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "2906": {
+    "squad_id": "2906",
+    "preview": "elite_nazi_infantry",
+    "title_key": "storage:2906:title",
+    "icon_file": "icons\\2906_elite_nazi_infantry.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "2908": {
+    "squad_id": "2908",
+    "preview": "elite_nazi_stormtrooper",
+    "title_key": "storage:2908:title",
+    "icon_file": "icons\\2908_elite_nazi_stormtrooper.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "2930": {
+    "squad_id": "2930",
+    "preview": "health_spot",
+    "title_key": "storage:2930:title",
+    "icon_file": "icons\\2930_health_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "2934": {
+    "squad_id": "2934",
+    "preview": "buff_spot",
+    "title_key": "storage:2934:title",
+    "icon_file": "icons\\2934_buff_spot.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "2952": {
+    "squad_id": "2952",
+    "preview": "marouder_raider",
+    "title_key": "storage:2952:title",
+    "icon_file": "icons\\2952_marouder_raider.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "2953": {
+    "squad_id": "2953",
+    "preview": "bochka_bazooka",
+    "title_key": "storage:2953:title",
+    "icon_file": "icons\\2953_bochka_bazooka.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "3022": {
+    "squad_id": "3022",
+    "preview": "spiderBoss",
+    "title_key": "storage:3022:title",
+    "icon_file": "icons\\3022_spiderBoss.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3024": {
+    "squad_id": "3024",
+    "preview": "spiderBoss",
+    "title_key": "storage:3024:title",
+    "icon_file": "icons\\3024_spiderBoss.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3026": {
+    "squad_id": "3026",
+    "preview": "spiderBoss",
+    "title_key": "storage:3026:title",
+    "icon_file": "icons\\3026_spiderBoss.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3045": {
+    "squad_id": "3045",
+    "preview": "plague_doctor_hero",
+    "title_key": "storage:3045:title",
+    "icon_file": "icons\\3045_plague_doctor_hero.jpg",
+    "rarity": 3,
+    "elite": 0
+  },
+  "3052": {
+    "squad_id": "3052",
+    "preview": "robo_marauder",
+    "title_key": "storage:3052:title",
+    "icon_file": "icons\\3052_robo_marauder.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3054": {
+    "squad_id": "3054",
+    "preview": "marouder_raider",
+    "title_key": "storage:3054:title",
+    "icon_file": "icons\\3054_marouder_raider.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3074": {
+    "squad_id": "3074",
+    "preview": "occult_spawner",
+    "title_key": "storage:3074:title",
+    "icon_file": "icons\\3074_occult_spawner.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "323": {
+    "squad_id": "323",
+    "preview": "spider",
+    "title_key": "storage:323:title",
+    "icon_file": "icons\\323_spider.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "33": {
+    "squad_id": "33",
+    "preview": "stormtrooper",
+    "title_key": "storage:33:title",
+    "icon_file": "icons\\33_stormtrooper.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3339": {
+    "squad_id": "3339",
+    "preview": "lecantrop",
+    "title_key": "storage:3339:title",
+    "icon_file": "icons\\3339_lecantrop.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "3391": {
+    "squad_id": "3391",
+    "preview": "lecantrop",
+    "title_key": "storage:3391:title",
+    "icon_file": "icons\\3391_lecantrop.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "3405": {
+    "squad_id": "3405",
+    "preview": "hero_summoner",
+    "title_key": "storage:3405:title",
+    "icon_file": "icons\\3405_hero_summoner.jpg",
+    "rarity": 3,
+    "elite": 0
+  },
+  "3410": {
+    "squad_id": "3410",
+    "preview": "turret_support",
+    "title_key": "storage:3410:title",
+    "icon_file": "icons\\3410_turret_support.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3413": {
+    "squad_id": "3413",
+    "preview": "art_hero",
+    "title_key": "storage:3413:title",
+    "icon_file": "icons\\3413_art_hero.jpg",
+    "rarity": 3,
+    "elite": 0
+  },
+  "3478": {
+    "squad_id": "3478",
+    "preview": "hayer80",
+    "title_key": "storage:3478:title",
+    "icon_file": "icons\\3478_hayer80.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3494": {
+    "squad_id": "3494",
+    "preview": "helloween_enemy_infantry",
+    "title_key": "storage:3494:title",
+    "icon_file": "icons\\3494_helloween_enemy_infantry.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "3496": {
+    "squad_id": "3496",
+    "preview": "helloween_enemy_melee",
+    "title_key": "storage:3496:title",
+    "icon_file": "icons\\3496_helloween_enemy_melee.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "3498": {
+    "squad_id": "3498",
+    "preview": "halloween_crusader",
+    "title_key": "storage:3498:title",
+    "icon_file": "icons\\3498_halloween_crusader.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "3500": {
+    "squad_id": "3500",
+    "preview": "halloween_mage",
+    "title_key": "storage:3500:title",
+    "icon_file": "icons\\3500_halloween_mage.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "3502": {
+    "squad_id": "3502",
+    "preview": "witch_hunter",
+    "title_key": "storage:3502:title",
+    "icon_file": "icons\\3502_witch_hunter.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "3504": {
+    "squad_id": "3504",
+    "preview": "helloween_infantry",
+    "title_key": "storage:3504:title",
+    "icon_file": "icons\\3504_helloween_infantry.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3506": {
+    "squad_id": "3506",
+    "preview": "halloween_order_crusader",
+    "title_key": "storage:3506:title",
+    "icon_file": "icons\\3506_halloween_order_crusader.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3508": {
+    "squad_id": "3508",
+    "preview": "helloween_witch",
+    "title_key": "storage:3508:title",
+    "icon_file": "icons\\3508_helloween_witch.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "3510": {
+    "squad_id": "3510",
+    "preview": "werewoolf_hell",
+    "title_key": "storage:3510:title",
+    "icon_file": "icons\\3510_werewoolf_hell.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "352": {
+    "squad_id": "352",
+    "preview": "robot1",
+    "title_key": "storage:352:title",
+    "icon_file": "icons\\352_robot1.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3543": {
+    "squad_id": "3543",
+    "preview": "marauder_sniper",
+    "title_key": "storage:3543:title",
+    "icon_file": "icons\\3543_marauder_sniper.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "3568": {
+    "squad_id": "3568",
+    "preview": "marauder_rifleman_blue",
+    "title_key": "storage:3568:title",
+    "icon_file": "icons\\3568_marauder_rifleman_blue.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "357": {
+    "squad_id": "357",
+    "preview": "light_tank",
+    "title_key": "storage:357:title",
+    "icon_file": "icons\\357_light_tank.jpg",
+    "rarity": null,
+    "elite": 0
+  },
+  "3574": {
+    "squad_id": "3574",
+    "preview": "marauder_stoormtrooper_blue",
+    "title_key": "storage:3574:title",
+    "icon_file": "icons\\3574_marauder_stoormtrooper_blue.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "3576": {
+    "squad_id": "3576",
+    "preview": "marauder_crusader_blue",
+    "title_key": "storage:3576:title",
+    "icon_file": "icons\\3576_marauder_crusader_blue.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3578": {
+    "squad_id": "3578",
+    "preview": "marauder_sniper_blue",
+    "title_key": "storage:3578:title",
+    "icon_file": "icons\\3578_marauder_sniper_blue.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "358": {
+    "squad_id": "358",
+    "preview": "spider2",
+    "title_key": "storage:358:title",
+    "icon_file": "icons\\358_spider2.jpg",
+    "rarity": null,
+    "elite": 0
+  },
+  "3581": {
+    "squad_id": "3581",
+    "preview": "helloween_enemy_melee",
+    "title_key": "storage:3581:title",
+    "icon_file": "icons\\3581_helloween_enemy_melee.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "3582": {
+    "squad_id": "3582",
+    "preview": "werewoolf_hell",
+    "title_key": "storage:3582:title",
+    "icon_file": "icons\\3582_werewoolf_hell.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "3587": {
+    "squad_id": "3587",
+    "preview": "witch_hunter",
+    "title_key": "storage:3587:title",
+    "icon_file": "icons\\3587_witch_hunter.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "359": {
+    "squad_id": "359",
+    "preview": "destructor",
+    "title_key": "storage:359:title",
+    "icon_file": "icons\\359_destructor.jpg",
+    "rarity": null,
+    "elite": 1
+  },
+  "360": {
+    "squad_id": "360",
+    "preview": "infantryman",
+    "title_key": "storage:360:title",
+    "icon_file": "icons\\360_infantryman.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "3628": {
+    "squad_id": "3628",
+    "preview": "marauder_crusader_blue",
+    "title_key": "storage:3628:title",
+    "icon_file": "icons\\3628_marauder_crusader_blue.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3635": {
+    "squad_id": "3635",
+    "preview": "helloween_enemy_infantry",
+    "title_key": "storage:3635:title",
+    "icon_file": "icons\\3635_helloween_enemy_infantry.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "3637": {
+    "squad_id": "3637",
+    "preview": "helloween_enemy_melee",
+    "title_key": "storage:3637:title",
+    "icon_file": "icons\\3637_helloween_enemy_melee.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "3638": {
+    "squad_id": "3638",
+    "preview": "halloween_crusader",
+    "title_key": "storage:3638:title",
+    "icon_file": "icons\\3638_halloween_crusader.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "3640": {
+    "squad_id": "3640",
+    "preview": "halloween_mage",
+    "title_key": "storage:3640:title",
+    "icon_file": "icons\\3640_halloween_mage.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "3643": {
+    "squad_id": "3643",
+    "preview": "werewoolf_hell",
+    "title_key": "storage:3643:title",
+    "icon_file": "icons\\3643_werewoolf_hell.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "3665": {
+    "squad_id": "3665",
+    "preview": "hero_witch",
+    "title_key": "storage:3665:title",
+    "icon_file": "icons\\3665_hero_witch.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "3706": {
+    "squad_id": "3706",
+    "preview": "hero_double_gun",
+    "title_key": "storage:3706:title",
+    "icon_file": "icons\\3706_hero_double_gun.jpg",
+    "rarity": 3,
+    "elite": 2
+  },
+  "3709": {
+    "squad_id": "3709",
+    "preview": "bountyhunter",
+    "title_key": "storage:3709:title",
+    "icon_file": "icons\\3709_bountyhunter.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3713": {
+    "squad_id": "3713",
+    "preview": "tesla_heavy",
+    "title_key": "storage:3713:title",
+    "icon_file": "icons\\3713_tesla_heavy.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3741": {
+    "squad_id": "3741",
+    "preview": "bezumec",
+    "title_key": "storage:3741:title",
+    "icon_file": "icons\\3741_bezumec.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3786": {
+    "squad_id": "3786",
+    "preview": "robo_marauder",
+    "title_key": "storage:3786:title",
+    "icon_file": "icons\\3786_robo_marauder.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3888": {
+    "squad_id": "3888",
+    "preview": "oskvernitel",
+    "title_key": "storage:3888:title",
+    "icon_file": "icons\\3888_oskvernitel.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3890": {
+    "squad_id": "3890",
+    "preview": "svejevatel",
+    "title_key": "storage:3890:title",
+    "icon_file": "icons\\3890_svejevatel.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3892": {
+    "squad_id": "3892",
+    "preview": "oderzhimiyGrant",
+    "title_key": "storage:3892:title",
+    "icon_file": "icons\\3892_oderzhimiyGrant.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "39": {
+    "squad_id": "39",
+    "preview": "sniper",
+    "title_key": "storage:39:title",
+    "icon_file": "icons\\39_sniper.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3901": {
+    "squad_id": "3901",
+    "preview": "molotchaosa",
+    "title_key": "storage:3901:title",
+    "icon_file": "icons\\3901_molotchaosa.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3934": {
+    "squad_id": "3934",
+    "preview": "unit_shturm",
+    "title_key": "storage:3934:title",
+    "icon_file": "icons\\3934_unit_shturm.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "3935": {
+    "squad_id": "3935",
+    "preview": "3935_inf_ionit_zomb",
+    "title_key": "storage:3935:title",
+    "icon_file": "icons\\3935_3935_inf_ionit_zomb.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "3955": {
+    "squad_id": "3955",
+    "preview": "nomad1",
+    "title_key": "storage:3955:title",
+    "icon_file": "icons\\3955_nomad1.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "3961": {
+    "squad_id": "3961",
+    "preview": "marouder_raider",
+    "title_key": "storage:3961:title",
+    "icon_file": "icons\\3961_marouder_raider.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4022": {
+    "squad_id": "4022",
+    "preview": "hero_sniper",
+    "title_key": "storage:4022:title",
+    "icon_file": "icons\\4022_hero_sniper.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4032": {
+    "squad_id": "4032",
+    "preview": "hero_sniper",
+    "title_key": "storage:4032:title",
+    "icon_file": "icons\\4032_hero_sniper.jpg",
+    "rarity": 3,
+    "elite": 0
+  },
+  "4042": {
+    "squad_id": "4042",
+    "preview": "bountyhunter",
+    "title_key": "storage:4042:title",
+    "icon_file": "icons\\4042_bountyhunter.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4043": {
+    "squad_id": "4043",
+    "preview": "bezumec",
+    "title_key": "storage:4043:title",
+    "icon_file": "icons\\4043_bezumec.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4044": {
+    "squad_id": "4044",
+    "preview": "oskvernitel",
+    "title_key": "storage:4044:title",
+    "icon_file": "icons\\4044_oskvernitel.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4045": {
+    "squad_id": "4045",
+    "preview": "svejevatel",
+    "title_key": "storage:4045:title",
+    "icon_file": "icons\\4045_svejevatel.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4046": {
+    "squad_id": "4046",
+    "preview": "molotchaosa",
+    "title_key": "storage:4046:title",
+    "icon_file": "icons\\4046_molotchaosa.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4084": {
+    "squad_id": "4084",
+    "preview": "imperial_stormtrooper_2",
+    "title_key": "storage:4084:title",
+    "icon_file": "icons\\4084_imperial_stormtrooper_2.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4088": {
+    "squad_id": "4088",
+    "preview": "pauckConvoy",
+    "title_key": "storage:4088:title",
+    "icon_file": "icons\\4088_pauckConvoy.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4089": {
+    "squad_id": "4089",
+    "preview": "pauckConvoy",
+    "title_key": "storage:4089:title",
+    "icon_file": "icons\\4089_pauckConvoy.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4090": {
+    "squad_id": "4090",
+    "preview": "pauckConvoy",
+    "title_key": "storage:4090:title",
+    "icon_file": "icons\\4090_pauckConvoy.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4092": {
+    "squad_id": "4092",
+    "preview": "droid_infantry",
+    "title_key": "storage:4092:title",
+    "icon_file": "icons\\4092_droid_infantry.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4097": {
+    "squad_id": "4097",
+    "preview": "phantom_stormtrooper",
+    "title_key": "storage:4097:title",
+    "icon_file": "icons\\4097_phantom_stormtrooper.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4199": {
+    "squad_id": "4199",
+    "preview": "sturm_droid",
+    "title_key": "storage:4199:title",
+    "icon_file": "icons\\4199_sturm_droid.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4205": {
+    "squad_id": "4205",
+    "preview": "sobaka_droid",
+    "title_key": "storage:4205:title",
+    "icon_file": "icons\\4205_sobaka_droid.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "4206": {
+    "squad_id": "4206",
+    "preview": "heavy_droid",
+    "title_key": "storage:4206:title",
+    "icon_file": "icons\\4206_heavy_droid.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4223": {
+    "squad_id": "4223",
+    "preview": "knight_rota",
+    "title_key": "storage:4223:title",
+    "icon_file": "icons\\4223_knight_rota.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4226": {
+    "squad_id": "4226",
+    "preview": "hero_raichs",
+    "title_key": "storage:4226:title",
+    "icon_file": "icons\\4226_hero_raichs.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "4303": {
+    "squad_id": "4303",
+    "preview": "droid_infantry",
+    "title_key": "storage:4303:title",
+    "icon_file": "icons\\4303_droid_infantry.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4304": {
+    "squad_id": "4304",
+    "preview": "sturm_droid",
+    "title_key": "storage:4304:title",
+    "icon_file": "icons\\4304_sturm_droid.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4305": {
+    "squad_id": "4305",
+    "preview": "sobaka_droid",
+    "title_key": "storage:4305:title",
+    "icon_file": "icons\\4305_sobaka_droid.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "4306": {
+    "squad_id": "4306",
+    "preview": "heavy_droid",
+    "title_key": "storage:4306:title",
+    "icon_file": "icons\\4306_heavy_droid.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4313": {
+    "squad_id": "4313",
+    "preview": "dead_moroz",
+    "title_key": "storage:4313:title",
+    "icon_file": "icons\\4313_dead_moroz.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "4343": {
+    "squad_id": "4343",
+    "preview": "train_boss",
+    "title_key": "storage:4343:title",
+    "icon_file": "icons\\4343_train_boss.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4344": {
+    "squad_id": "4344",
+    "preview": "train_boss",
+    "title_key": "storage:4344:title",
+    "icon_file": "icons\\4344_train_boss.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4345": {
+    "squad_id": "4345",
+    "preview": "train_boss",
+    "title_key": "storage:4345:title",
+    "icon_file": "icons\\4345_train_boss.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4346": {
+    "squad_id": "4346",
+    "preview": "train_boss",
+    "title_key": "storage:4346:title",
+    "icon_file": "icons\\4346_train_boss.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4350": {
+    "squad_id": "4350",
+    "preview": "brenner_elite_heavy",
+    "title_key": "storage:4350:title",
+    "icon_file": "icons\\4350_brenner_elite_heavy.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "4438": {
+    "squad_id": "4438",
+    "preview": "hero_raichs",
+    "title_key": "storage:4438:title",
+    "icon_file": "icons\\4438_hero_raichs.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4440": {
+    "squad_id": "4440",
+    "preview": "hero_raichs",
+    "title_key": "storage:4440:title",
+    "icon_file": "icons\\4440_hero_raichs.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4574": {
+    "squad_id": "4574",
+    "preview": "dead_moroz",
+    "title_key": "storage:4574:title",
+    "icon_file": "icons\\4574_dead_moroz.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4699": {
+    "squad_id": "4699",
+    "preview": "vinchesterman_hero",
+    "title_key": "storage:4699:title",
+    "icon_file": "icons\\4699_vinchesterman_hero.jpg",
+    "rarity": 3,
+    "elite": 0
+  },
+  "4730": {
+    "squad_id": "4730",
+    "preview": "red_robot",
+    "title_key": "storage:4730:title",
+    "icon_file": "icons\\4730_red_robot.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "4732": {
+    "squad_id": "4732",
+    "preview": "protectRobot",
+    "title_key": "storage:4732:title",
+    "icon_file": "icons\\4732_protectRobot.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "4734": {
+    "squad_id": "4734",
+    "preview": "legin_wms",
+    "title_key": "storage:4734:title",
+    "icon_file": "icons\\4734_legin_wms.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "4738": {
+    "squad_id": "4738",
+    "preview": "stormtrooper",
+    "title_key": "storage:4738:title",
+    "icon_file": "icons\\4738_stormtrooper.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4766": {
+    "squad_id": "4766",
+    "preview": "robopeh",
+    "title_key": "storage:4766:title",
+    "icon_file": "icons\\4766_robopeh.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4767": {
+    "squad_id": "4767",
+    "preview": "robot_sturm",
+    "title_key": "storage:4767:title",
+    "icon_file": "icons\\4767_robot_sturm.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4768": {
+    "squad_id": "4768",
+    "preview": "zdorovyak",
+    "title_key": "storage:4768:title",
+    "icon_file": "icons\\4768_zdorovyak.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4769": {
+    "squad_id": "4769",
+    "preview": "sniperdrev",
+    "title_key": "storage:4769:title",
+    "icon_file": "icons\\4769_sniperdrev.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "477": {
+    "squad_id": "477",
+    "preview": "lecantrop",
+    "title_key": "storage:477:title",
+    "icon_file": "icons\\477_lecantrop.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "4770": {
+    "squad_id": "4770",
+    "preview": "HM",
+    "title_key": "storage:4770:title",
+    "icon_file": "icons\\4770_HM.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4774": {
+    "squad_id": "4774",
+    "preview": "blue_shturmovik",
+    "title_key": "storage:4774:title",
+    "icon_file": "icons\\4774_blue_shturmovik.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4775": {
+    "squad_id": "4775",
+    "preview": "medical_squad",
+    "title_key": "storage:4775:title",
+    "icon_file": "icons\\4775_medical_squad.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4776": {
+    "squad_id": "4776",
+    "preview": "monarch_baff_trooper",
+    "title_key": "storage:4776:title",
+    "icon_file": "icons\\4776_monarch_baff_trooper.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4798": {
+    "squad_id": "4798",
+    "preview": "shitman",
+    "title_key": "storage:4798:title",
+    "icon_file": "icons\\4798_shitman.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4808": {
+    "squad_id": "4808",
+    "preview": "dezintegratorvet",
+    "title_key": "storage:4808:title",
+    "icon_file": "icons\\4808_dezintegratorvet.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4809": {
+    "squad_id": "4809",
+    "preview": "byrevestnik",
+    "title_key": "storage:4809:title",
+    "icon_file": "icons\\4809_byrevestnik.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "4810": {
+    "squad_id": "4810",
+    "preview": "dikievolki",
+    "title_key": "storage:4810:title",
+    "icon_file": "icons\\4810_dikievolki.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "4811": {
+    "squad_id": "4811",
+    "preview": "grozvoitel",
+    "title_key": "storage:4811:title",
+    "icon_file": "icons\\4811_grozvoitel.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "4854": {
+    "squad_id": "4854",
+    "preview": "drevniy",
+    "title_key": "storage:4854:title",
+    "icon_file": "icons\\4854_drevniy.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4859": {
+    "squad_id": "4859",
+    "preview": "red_mage_fant",
+    "title_key": "storage:4859:title",
+    "icon_file": "icons\\4859_red_mage_fant.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "4862": {
+    "squad_id": "4862",
+    "preview": "dead_moroz",
+    "title_key": "storage:4862:title",
+    "icon_file": "icons\\4862_dead_moroz.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4871": {
+    "squad_id": "4871",
+    "preview": "robopeh",
+    "title_key": "storage:4871:title",
+    "icon_file": "icons\\4871_robopeh.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4872": {
+    "squad_id": "4872",
+    "preview": "robot_sturm",
+    "title_key": "storage:4872:title",
+    "icon_file": "icons\\4872_robot_sturm.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4873": {
+    "squad_id": "4873",
+    "preview": "zdorovyak",
+    "title_key": "storage:4873:title",
+    "icon_file": "icons\\4873_zdorovyak.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "4874": {
+    "squad_id": "4874",
+    "preview": "sniperdrev",
+    "title_key": "storage:4874:title",
+    "icon_file": "icons\\4874_sniperdrev.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "4912": {
+    "squad_id": "4912",
+    "preview": "red_mage",
+    "title_key": "storage:4912:title",
+    "icon_file": "icons\\4912_red_mage.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "4922": {
+    "squad_id": "4922",
+    "preview": "dezertir4",
+    "title_key": "storage:4922:title",
+    "icon_file": "icons\\4922_dezertir4.jpg",
+    "rarity": 4,
+    "elite": 2
+  },
+  "4923": {
+    "squad_id": "4923",
+    "preview": "impersniper4",
+    "title_key": "storage:4923:title",
+    "icon_file": "icons\\4923_impersniper4.jpg",
+    "rarity": 4,
+    "elite": 1
+  },
+  "4924": {
+    "squad_id": "4924",
+    "preview": "razrushiltel3",
+    "title_key": "storage:4924:title",
+    "icon_file": "icons\\4924_razrushiltel3.jpg",
+    "rarity": 4,
+    "elite": 2
+  },
+  "4925": {
+    "squad_id": "4925",
+    "preview": "renegat4",
+    "title_key": "storage:4925:title",
+    "icon_file": "icons\\4925_renegat4.jpg",
+    "rarity": 4,
+    "elite": 2
+  },
+  "4926": {
+    "squad_id": "4926",
+    "preview": "krushiltel4",
+    "title_key": "storage:4926:title",
+    "icon_file": "icons\\4926_krushiltel4.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "4927": {
+    "squad_id": "4927",
+    "preview": "otstupnik4",
+    "title_key": "storage:4927:title",
+    "icon_file": "icons\\4927_otstupnik4.jpg",
+    "rarity": 4,
+    "elite": 2
+  },
+  "4928": {
+    "squad_id": "4928",
+    "preview": "black4",
+    "title_key": "storage:4928:title",
+    "icon_file": "icons\\4928_black4.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "4929": {
+    "squad_id": "4929",
+    "preview": "germanWW4",
+    "title_key": "storage:4929:title",
+    "icon_file": "icons\\4929_germanWW4.jpg",
+    "rarity": 4,
+    "elite": 1
+  },
+  "4930": {
+    "squad_id": "4930",
+    "preview": "imperialCrusader4",
+    "title_key": "storage:4930:title",
+    "icon_file": "icons\\4930_imperialCrusader4.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "4931": {
+    "squad_id": "4931",
+    "preview": "infantryman4",
+    "title_key": "storage:4931:title",
+    "icon_file": "icons\\4931_infantryman4.jpg",
+    "rarity": 4,
+    "elite": 1
+  },
+  "4932": {
+    "squad_id": "4932",
+    "preview": "infantry_blue4",
+    "title_key": "storage:4932:title",
+    "icon_file": "icons\\4932_infantry_blue4.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "4933": {
+    "squad_id": "4933",
+    "preview": "infantry_imper4",
+    "title_key": "storage:4933:title",
+    "icon_file": "icons\\4933_infantry_imper4.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "4934": {
+    "squad_id": "4934",
+    "preview": "white4",
+    "title_key": "storage:4934:title",
+    "icon_file": "icons\\4934_white4.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "4935": {
+    "squad_id": "4935",
+    "preview": "blue_sniper4",
+    "title_key": "storage:4935:title",
+    "icon_file": "icons\\4935_blue_sniper4.jpg",
+    "rarity": 4,
+    "elite": 1
+  },
+  "4936": {
+    "squad_id": "4936",
+    "preview": "mstitel4",
+    "title_key": "storage:4936:title",
+    "icon_file": "icons\\4936_mstitel4.jpg",
+    "rarity": 4,
+    "elite": 1
+  },
+  "4937": {
+    "squad_id": "4937",
+    "preview": "guardsman4",
+    "title_key": "storage:4937:title",
+    "icon_file": "icons\\4937_guardsman4.jpg",
+    "rarity": 4,
+    "elite": 1
+  },
+  "4938": {
+    "squad_id": "4938",
+    "preview": "karatel4",
+    "title_key": "storage:4938:title",
+    "icon_file": "icons\\4938_karatel4.jpg",
+    "rarity": 4,
+    "elite": 1
+  },
+  "4939": {
+    "squad_id": "4939",
+    "preview": "loyal4",
+    "title_key": "storage:4939:title",
+    "icon_file": "icons\\4939_loyal4.jpg",
+    "rarity": 4,
+    "elite": 1
+  },
+  "4959": {
+    "squad_id": "4959",
+    "preview": "gus_hero",
+    "title_key": "storage:4959:title",
+    "icon_file": "icons\\4959_gus_hero.jpg",
+    "rarity": 4,
+    "elite": 2
+  },
+  "5221": {
+    "squad_id": "5221",
+    "preview": "okult_siker",
+    "title_key": "storage:5221:title",
+    "icon_file": "icons\\5221_okult_siker.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "5223": {
+    "squad_id": "5223",
+    "preview": "okult_pushka",
+    "title_key": "storage:5223:title",
+    "icon_file": "icons\\5223_okult_pushka.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "5253": {
+    "squad_id": "5253",
+    "preview": "bunker",
+    "title_key": "storage:5253:title",
+    "icon_file": "icons\\5253_bunker.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "5261": {
+    "squad_id": "5261",
+    "preview": "robohod_elite_80x100",
+    "title_key": "storage:5261:title",
+    "icon_file": "icons\\5261_robohod_elite_80x100.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "5262": {
+    "squad_id": "5262",
+    "preview": "robot_shagohod_80_100px",
+    "title_key": "storage:5262:title",
+    "icon_file": "icons\\5262_robot_shagohod_80_100px.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "5269": {
+    "squad_id": "5269",
+    "preview": "gun_spot_full",
+    "title_key": "storage:5269:title",
+    "icon_file": "icons\\5269_gun_spot_full.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "5321": {
+    "squad_id": "5321",
+    "preview": "svejevatel_hero",
+    "title_key": "storage:5321:title",
+    "icon_file": "icons\\5321_svejevatel_hero.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "5363": {
+    "squad_id": "5363",
+    "preview": "render_pehotinets",
+    "title_key": "storage:5363:title",
+    "icon_file": "icons\\5363_render_pehotinets.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "5364": {
+    "squad_id": "5364",
+    "preview": "spez_s_pistol",
+    "title_key": "storage:5364:title",
+    "icon_file": "icons\\5364_spez_s_pistol.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "5365": {
+    "squad_id": "5365",
+    "preview": "imperskiy_doznawatel",
+    "title_key": "storage:5365:title",
+    "icon_file": "icons\\5365_imperskiy_doznawatel.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "5366": {
+    "squad_id": "5366",
+    "preview": "vognimechik",
+    "title_key": "storage:5366:title",
+    "icon_file": "icons\\5366_vognimechik.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "5377": {
+    "squad_id": "5377",
+    "preview": "brenner_elite_peh",
+    "title_key": "storage:5377:title",
+    "icon_file": "icons\\5377_brenner_elite_peh.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "5378": {
+    "squad_id": "5378",
+    "preview": "brenner_elite_sturm",
+    "title_key": "storage:5378:title",
+    "icon_file": "icons\\5378_brenner_elite_sturm.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "5381": {
+    "squad_id": "5381",
+    "preview": "brenner_elite_spec",
+    "title_key": "storage:5381:title",
+    "icon_file": "icons\\5381_brenner_elite_spec.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "5382": {
+    "squad_id": "5382",
+    "preview": "brenner_elite_heavy",
+    "title_key": "storage:5382:title",
+    "icon_file": "icons\\5382_brenner_elite_heavy.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "5403": {
+    "squad_id": "5403",
+    "preview": "tehnik",
+    "title_key": "storage:5403:title",
+    "icon_file": "icons\\5403_tehnik.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "5429": {
+    "squad_id": "5429",
+    "preview": "tesla_turret",
+    "title_key": "storage:5429:title",
+    "icon_file": "icons\\5429_tesla_turret.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "5430": {
+    "squad_id": "5430",
+    "preview": "morty_turret",
+    "title_key": "storage:5430:title",
+    "icon_file": "icons\\5430_morty_turret.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "5431": {
+    "squad_id": "5431",
+    "preview": "shield_turret",
+    "title_key": "storage:5431:title",
+    "icon_file": "icons\\5431_shield_turret.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "5497": {
+    "squad_id": "5497",
+    "preview": "elza_big",
+    "title_key": "storage:5497:title",
+    "icon_file": "icons\\5497_elza_big.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "5515": {
+    "squad_id": "5515",
+    "preview": "faceless_hero",
+    "title_key": "storage:5515:title",
+    "icon_file": "icons\\5515_faceless_hero.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "5598": {
+    "squad_id": "5598",
+    "preview": "techno_mech",
+    "title_key": "storage:5598:title",
+    "icon_file": "icons\\5598_techno_mech.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "5603": {
+    "squad_id": "5603",
+    "preview": "stormtrooper_golden_skin",
+    "title_key": "storage:5603:title",
+    "icon_file": "icons\\5603_stormtrooper_golden_skin.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "6031": {
+    "squad_id": "6031",
+    "preview": "shield_turret",
+    "title_key": "storage:6031:title",
+    "icon_file": "icons\\6031_shield_turret.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6033": {
+    "squad_id": "6033",
+    "preview": "morty_turret",
+    "title_key": "storage:6033:title",
+    "icon_file": "icons\\6033_morty_turret.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6035": {
+    "squad_id": "6035",
+    "preview": "tesla_turret",
+    "title_key": "storage:6035:title",
+    "icon_file": "icons\\6035_tesla_turret.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6047": {
+    "squad_id": "6047",
+    "preview": "clan_tech_warrior",
+    "title_key": "storage:6047:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "6049": {
+    "squad_id": "6049",
+    "preview": "clan_tesla_warriorr",
+    "title_key": "storage:6049:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "6051": {
+    "squad_id": "6051",
+    "preview": "clan_okultist",
+    "title_key": "storage:6051:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "6054": {
+    "squad_id": "6054",
+    "preview": "clan_zdaraviak",
+    "title_key": "storage:6054:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "6092": {
+    "squad_id": "6092",
+    "preview": "tesla_muzik",
+    "title_key": "storage:6092:title",
+    "icon_file": "icons\\6092_tesla_muzik.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6096": {
+    "squad_id": "6096",
+    "preview": "new_wich",
+    "title_key": "storage:6096:title",
+    "icon_file": "icons\\6096_new_wich.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6115": {
+    "squad_id": "6115",
+    "preview": "mister_fox_hero",
+    "title_key": "storage:6115:title",
+    "icon_file": "icons\\6115_mister_fox_hero.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6503": {
+    "squad_id": "6503",
+    "preview": "doom_infantry",
+    "title_key": "storage:6503:title",
+    "icon_file": "icons\\6503_doom_infantry.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6504": {
+    "squad_id": "6504",
+    "preview": "doom_sturm",
+    "title_key": "storage:6504:title",
+    "icon_file": "icons\\6504_doom_sturm.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6505": {
+    "squad_id": "6505",
+    "preview": "doom_heavy",
+    "title_key": "storage:6505:title",
+    "icon_file": "icons\\6505_doom_heavy.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6506": {
+    "squad_id": "6506",
+    "preview": "doom_sword",
+    "title_key": "storage:6506:title",
+    "icon_file": "icons\\6506_doom_sword.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "6507": {
+    "squad_id": "6507",
+    "preview": "doom_wm",
+    "title_key": "storage:6507:title",
+    "icon_file": "icons\\6507_doom_wm.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "6512": {
+    "squad_id": "6512",
+    "preview": "doom_infantry_leutenant",
+    "title_key": "storage:6512:title",
+    "icon_file": "icons\\6512_doom_infantry_leutenant.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6513": {
+    "squad_id": "6513",
+    "preview": "doom_sturm_letinant",
+    "title_key": "storage:6513:title",
+    "icon_file": "icons\\6513_doom_sturm_letinant.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6514": {
+    "squad_id": "6514",
+    "preview": "doom_sword_leutenant",
+    "title_key": "storage:6514:title",
+    "icon_file": "icons\\6514_doom_sword_leutenant.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "6515": {
+    "squad_id": "6515",
+    "preview": "doom_heavy_leutenant",
+    "title_key": "storage:6515:title",
+    "icon_file": "icons\\6515_doom_heavy_leutenant.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "663": {
+    "squad_id": "663",
+    "preview": "gun_spot_full",
+    "title_key": "storage:663:title",
+    "icon_file": "icons\\663_gun_spot_full.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6651": {
+    "squad_id": "6651",
+    "preview": "gold_tank",
+    "title_key": "storage:6651:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "6652": {
+    "squad_id": "6652",
+    "preview": "tank_boss",
+    "title_key": "storage:6652:title",
+    "icon_file": "icons\\6652_tank_boss.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6673": {
+    "squad_id": "6673",
+    "preview": "train_boss",
+    "title_key": "storage:6673:title",
+    "icon_file": "icons\\6673_train_boss.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6674": {
+    "squad_id": "6674",
+    "preview": "train_hard",
+    "title_key": "storage:6674:title",
+    "icon_file": "icons\\6674_train_hard.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6675": {
+    "squad_id": "6675",
+    "preview": "train_boss",
+    "title_key": "storage:6675:title",
+    "icon_file": "icons\\6675_train_boss.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6676": {
+    "squad_id": "6676",
+    "preview": "train_boss",
+    "title_key": "storage:6676:title",
+    "icon_file": "icons\\6676_train_boss.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6677": {
+    "squad_id": "6677",
+    "preview": "train_light",
+    "title_key": "storage:6677:title",
+    "icon_file": "icons\\6677_train_light.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6678": {
+    "squad_id": "6678",
+    "preview": "train_boss",
+    "title_key": "storage:6678:title",
+    "icon_file": "icons\\6678_train_boss.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "669": {
+    "squad_id": "669",
+    "preview": "red_rifleman",
+    "title_key": "storage:669:title",
+    "icon_file": "icons\\669_red_rifleman.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "6707": {
+    "squad_id": "6707",
+    "preview": "british_infantry",
+    "title_key": "storage:6707:title",
+    "icon_file": "icons\\6707_british_infantry.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6709": {
+    "squad_id": "6709",
+    "preview": "ussr_infantry",
+    "title_key": "storage:6709:title",
+    "icon_file": "icons\\6709_ussr_infantry.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6712": {
+    "squad_id": "6712",
+    "preview": "mergen_hero",
+    "title_key": "storage:6712:title",
+    "icon_file": "icons\\6712_mergen_hero.jpg",
+    "rarity": 5,
+    "elite": 2
+  },
+  "6716": {
+    "squad_id": "6716",
+    "preview": "infantry_blue",
+    "title_key": "storage:6716:title",
+    "icon_file": "icons\\6716_infantry_blue.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6718": {
+    "squad_id": "6718",
+    "preview": "doom_hero",
+    "title_key": "storage:6718:title",
+    "icon_file": "icons\\6718_doom_hero.jpg",
+    "rarity": 3,
+    "elite": 0
+  },
+  "672": {
+    "squad_id": "672",
+    "preview": "red_heavy",
+    "title_key": "storage:672:title",
+    "icon_file": "icons\\672_red_heavy.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "673": {
+    "squad_id": "673",
+    "preview": "red_general",
+    "title_key": "storage:673:title",
+    "icon_file": "icons\\673_red_general.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "6731": {
+    "squad_id": "6731",
+    "preview": "infantry_blue",
+    "title_key": "storage:6731:title",
+    "icon_file": "icons\\6731_infantry_blue.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "675": {
+    "squad_id": "675",
+    "preview": "red_sniper",
+    "title_key": "storage:675:title",
+    "icon_file": "icons\\675_red_sniper.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "680": {
+    "squad_id": "680",
+    "preview": "walker",
+    "title_key": "storage:680:title",
+    "icon_file": "icons\\680_walker.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6843": {
+    "squad_id": "6843",
+    "preview": "stormtrooper_golden_skin",
+    "title_key": "storage:6843:title",
+    "icon_file": "icons\\6843_stormtrooper_golden_skin.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "6844": {
+    "squad_id": "6844",
+    "preview": "vognimechik",
+    "title_key": "storage:6844:title",
+    "icon_file": "icons\\6844_vognimechik.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6858": {
+    "squad_id": "6858",
+    "preview": "elite_doom_wm",
+    "title_key": "storage:6858:title",
+    "icon_file": "icons\\6858_elite_doom_wm.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "6859": {
+    "squad_id": "6859",
+    "preview": "doom_sword_elite",
+    "title_key": "storage:6859:title",
+    "icon_file": "icons\\6859_doom_sword_elite.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "6860": {
+    "squad_id": "6860",
+    "preview": "doom_heavy_elite",
+    "title_key": "storage:6860:title",
+    "icon_file": "icons\\6860_doom_heavy_elite.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6861": {
+    "squad_id": "6861",
+    "preview": "doom_sturm_elite",
+    "title_key": "storage:6861:title",
+    "icon_file": "icons\\6861_doom_sturm_elite.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6862": {
+    "squad_id": "6862",
+    "preview": "doom_infantry_elite",
+    "title_key": "storage:6862:title",
+    "icon_file": "icons\\6862_doom_infantry_elite.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "687": {
+    "squad_id": "687",
+    "preview": "red_heavy",
+    "title_key": "storage:687:title",
+    "icon_file": "icons\\687_red_heavy.jpg",
+    "rarity": null,
+    "elite": 2
+  },
+  "6875": {
+    "squad_id": "6875",
+    "preview": "doom_sword",
+    "title_key": "storage:6875:title",
+    "icon_file": "icons\\6875_doom_sword.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "6880": {
+    "squad_id": "6880",
+    "preview": "doom_sniper",
+    "title_key": "storage:6880:title",
+    "icon_file": "icons\\6880_doom_sniper.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "689": {
+    "squad_id": "689",
+    "preview": "red_mage",
+    "title_key": "storage:689:title",
+    "icon_file": "icons\\689_red_mage.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "6922": {
+    "squad_id": "6922",
+    "preview": "blitz_hero",
+    "title_key": "storage:6922:title",
+    "icon_file": "icons\\6922_blitz_hero.jpg",
+    "rarity": 4,
+    "elite": 2
+  },
+  "6982": {
+    "squad_id": "6982",
+    "preview": "turret_support",
+    "title_key": "storage:6982:title",
+    "icon_file": "icons\\6982_turret_support.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6984": {
+    "squad_id": "6984",
+    "preview": "Am_blue",
+    "title_key": "storage:6984:title",
+    "icon_file": "icons\\6984_Am_blue.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6986": {
+    "squad_id": "6986",
+    "preview": "infantry",
+    "title_key": "storage:6986:title",
+    "icon_file": "icons\\6986_infantry.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6988": {
+    "squad_id": "6988",
+    "preview": "stormtrooper",
+    "title_key": "storage:6988:title",
+    "icon_file": "icons\\6988_stormtrooper.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6989": {
+    "squad_id": "6989",
+    "preview": "knight",
+    "title_key": "storage:6989:title",
+    "icon_file": "icons\\6989_knight.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "6992": {
+    "squad_id": "6992",
+    "preview": "sniper",
+    "title_key": "storage:6992:title",
+    "icon_file": "icons\\6992_sniper.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "705": {
+    "squad_id": "705",
+    "preview": "blue_rifleman",
+    "title_key": "storage:705:title",
+    "icon_file": "icons\\705_blue_rifleman.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "7051": {
+    "squad_id": "7051",
+    "preview": "caustic_hero",
+    "title_key": "storage:7051:title",
+    "icon_file": "icons\\7051_caustic_hero.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "707": {
+    "squad_id": "707",
+    "preview": "blue_sniper",
+    "title_key": "storage:707:title",
+    "icon_file": "icons\\707_blue_sniper.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "709": {
+    "squad_id": "709",
+    "preview": "blue_heavy",
+    "title_key": "storage:709:title",
+    "icon_file": "icons\\709_blue_heavy.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "7303": {
+    "squad_id": "7303",
+    "preview": "komandir_forgot_legion_1",
+    "title_key": "storage:7303:title",
+    "icon_file": "icons\\7303_komandir_forgot_legion_1.jpg",
+    "rarity": 3,
+    "elite": 0
+  },
+  "7358": {
+    "squad_id": "7358",
+    "preview": "grave_hero",
+    "title_key": "storage:7358:title",
+    "icon_file": "icons\\7358_grave_hero.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "7411": {
+    "squad_id": "7411",
+    "preview": "clan_blue_rhino",
+    "title_key": "storage:7411:title",
+    "icon_file": "icons\\7411_clan_blue_rhino.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "7414": {
+    "squad_id": "7414",
+    "preview": "molotoboec_hero",
+    "title_key": "storage:7414:title",
+    "icon_file": "icons\\7414_molotoboec_hero.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "7472": {
+    "squad_id": "7472",
+    "preview": "iron_keeper",
+    "title_key": "storage:7472:title",
+    "icon_file": "icons\\7472_iron_keeper.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "7474": {
+    "squad_id": "7474",
+    "preview": "komandir_new_order_1",
+    "title_key": "storage:7474:title",
+    "icon_file": "icons\\7474_komandir_new_order_1.jpg",
+    "rarity": 3,
+    "elite": 0
+  },
+  "7477": {
+    "squad_id": "7477",
+    "preview": "komandir_monarchy_1",
+    "title_key": "storage:7477:title",
+    "icon_file": "icons\\7477_komandir_monarchy_1.jpg",
+    "rarity": 3,
+    "elite": 2
+  },
+  "7478": {
+    "squad_id": "7478",
+    "preview": "anna_maria_hero",
+    "title_key": "storage:7478:title",
+    "icon_file": "icons\\7478_anna_maria_hero.jpg",
+    "rarity": 6,
+    "elite": 0
+  },
+  "749": {
+    "squad_id": "749",
+    "preview": "red_stormtrooper",
+    "title_key": "storage:749:title",
+    "icon_file": "icons\\749_red_stormtrooper.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "7707": {
+    "squad_id": "7707",
+    "preview": "tank_boss",
+    "title_key": "storage:7707:title",
+    "icon_file": "icons\\7707_tank_boss.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "7708": {
+    "squad_id": "7708",
+    "preview": "tank_boss",
+    "title_key": "storage:7708:title",
+    "icon_file": "icons\\7708_tank_boss.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "7709": {
+    "squad_id": "7709",
+    "preview": "tank_boss",
+    "title_key": "storage:7709:title",
+    "icon_file": "icons\\7709_tank_boss.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "7744": {
+    "squad_id": "7744",
+    "preview": "WM_killcan",
+    "title_key": "storage:7744:title",
+    "icon_file": "icons\\7744_WM_killcan.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "7772": {
+    "squad_id": "7772",
+    "preview": "black_death",
+    "title_key": "storage:7772:title",
+    "icon_file": "icons\\7772_black_death.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "780": {
+    "squad_id": "780",
+    "preview": "spot_mortair",
+    "title_key": "storage:780:title",
+    "icon_file": "icons\\780_spot_mortair.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "7824": {
+    "squad_id": "7824",
+    "preview": "tank_dude",
+    "title_key": "storage:7824:title",
+    "icon_file": "icons\\7824_tank_dude.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "7863": {
+    "squad_id": "7863",
+    "preview": "Mariner",
+    "title_key": "storage:7863:title",
+    "icon_file": "icons\\7863_Mariner.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "7880": {
+    "squad_id": "7880",
+    "preview": "krest_vdv",
+    "title_key": "storage:7880:title",
+    "icon_file": "icons\\7880_krest_vdv.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "7881": {
+    "squad_id": "7881",
+    "preview": "shturm_vdv",
+    "title_key": "storage:7881:title",
+    "icon_file": "icons\\7881_shturm_vdv.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "7882": {
+    "squad_id": "7882",
+    "preview": "peh_vdv",
+    "title_key": "storage:7882:title",
+    "icon_file": "icons\\7882_peh_vdv.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "7883": {
+    "squad_id": "7883",
+    "preview": "snayp_vdv",
+    "title_key": "storage:7883:title",
+    "icon_file": "icons\\7883_snayp_vdv.jpg",
+    "rarity": 0,
+    "elite": 1
+  },
+  "7889": {
+    "squad_id": "7889",
+    "preview": "kamikadzetrooper",
+    "title_key": "storage:7889:title",
+    "icon_file": "icons\\7889_kamikadzetrooper.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "7891": {
+    "squad_id": "7891",
+    "preview": "suicidetrooper",
+    "title_key": "storage:7891:title",
+    "icon_file": "icons\\7891_suicidetrooper.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "7894": {
+    "squad_id": "7894",
+    "preview": "warrington_small",
+    "title_key": "storage:7894:title",
+    "icon_file": "icons\\7894_warrington_small.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "8": {
+    "squad_id": "8",
+    "preview": "infantry",
+    "title_key": "storage:8:title",
+    "icon_file": "icons\\8_infantry.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "8015": {
+    "squad_id": "8015",
+    "preview": "hero_summoner",
+    "title_key": "storage:8015:title",
+    "icon_file": "icons\\8015_hero_summoner.jpg",
+    "rarity": 3,
+    "elite": 0
+  },
+  "8075": {
+    "squad_id": "8075",
+    "preview": "nadziratel",
+    "title_key": "storage:8075:title",
+    "icon_file": "icons\\8075_nadziratel.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "8113": {
+    "squad_id": "8113",
+    "preview": "clan_mech",
+    "title_key": "storage:8113:title",
+    "icon_file": "icons\\8113_clan_mech.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "8122": {
+    "squad_id": "8122",
+    "preview": "clan_citadel_shooter_small1",
+    "title_key": "storage:8122:title",
+    "icon_file": "icons\\8122_clan_citadel_shooter_small1.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "8131": {
+    "squad_id": "8131",
+    "preview": "clan_citadel_shooter_small1",
+    "title_key": "storage:8131:title",
+    "icon_file": "icons\\8131_clan_citadel_shooter_small1.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "8132": {
+    "squad_id": "8132",
+    "preview": "svejevatel",
+    "title_key": "storage:8132:title",
+    "icon_file": "icons\\8132_svejevatel.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "8141": {
+    "squad_id": "8141",
+    "preview": "loyal5",
+    "title_key": "storage:8141:title",
+    "icon_file": "icons\\8141_loyal5.jpg",
+    "rarity": 6,
+    "elite": 1
+  },
+  "8143": {
+    "squad_id": "8143",
+    "preview": "mstitel5",
+    "title_key": "storage:8143:title",
+    "icon_file": "icons\\8143_mstitel5.jpg",
+    "rarity": 6,
+    "elite": 1
+  },
+  "8144": {
+    "squad_id": "8144",
+    "preview": "blue_sniper5",
+    "title_key": "storage:8144:title",
+    "icon_file": "icons\\8144_blue_sniper5.jpg",
+    "rarity": 6,
+    "elite": 1
+  },
+  "8147": {
+    "squad_id": "8147",
+    "preview": "guardsman5",
+    "title_key": "storage:8147:title",
+    "icon_file": "icons\\8147_guardsman5.jpg",
+    "rarity": 6,
+    "elite": 1
+  },
+  "8148": {
+    "squad_id": "8148",
+    "preview": "white5",
+    "title_key": "storage:8148:title",
+    "icon_file": "icons\\8148_white5.jpg",
+    "rarity": 6,
+    "elite": 0
+  },
+  "8151": {
+    "squad_id": "8151",
+    "preview": "karatel5",
+    "title_key": "storage:8151:title",
+    "icon_file": "icons\\8151_karatel5.jpg",
+    "rarity": 6,
+    "elite": 1
+  },
+  "8153": {
+    "squad_id": "8153",
+    "preview": "black5",
+    "title_key": "storage:8153:title",
+    "icon_file": "icons\\8153_black5.jpg",
+    "rarity": 6,
+    "elite": 0
+  },
+  "8203": {
+    "squad_id": "8203",
+    "preview": "dezertir5",
+    "title_key": "storage:8203:title",
+    "icon_file": "icons\\8203_dezertir5.jpg",
+    "rarity": 6,
+    "elite": 2
+  },
+  "8204": {
+    "squad_id": "8204",
+    "preview": "renegat5",
+    "title_key": "storage:8204:title",
+    "icon_file": "icons\\8204_renegat5.jpg",
+    "rarity": 6,
+    "elite": 2
+  },
+  "8207": {
+    "squad_id": "8207",
+    "preview": "razrushitel5",
+    "title_key": "storage:8207:title",
+    "icon_file": "icons\\8207_razrushitel5.jpg",
+    "rarity": 6,
+    "elite": 2
+  },
+  "8208": {
+    "squad_id": "8208",
+    "preview": "otstupnik5",
+    "title_key": "storage:8208:title",
+    "icon_file": "icons\\8208_otstupnik5.jpg",
+    "rarity": 6,
+    "elite": 2
+  },
+  "8211": {
+    "squad_id": "8211",
+    "preview": "krushitel5",
+    "title_key": "storage:8211:title",
+    "icon_file": "icons\\8211_krushitel5.jpg",
+    "rarity": 6,
+    "elite": 0
+  },
+  "8212": {
+    "squad_id": "8212",
+    "preview": "infantry_imper5",
+    "title_key": "storage:8212:title",
+    "icon_file": "icons\\8212_infantry_imper5.jpg",
+    "rarity": 6,
+    "elite": 0
+  },
+  "8213": {
+    "squad_id": "8213",
+    "preview": "imperialSniper5",
+    "title_key": "storage:8213:title",
+    "icon_file": "icons\\8213_imperialSniper5.jpg",
+    "rarity": 6,
+    "elite": 1
+  },
+  "8214": {
+    "squad_id": "8214",
+    "preview": "germanWW5",
+    "title_key": "storage:8214:title",
+    "icon_file": "icons\\8214_germanWW5.jpg",
+    "rarity": 6,
+    "elite": 1
+  },
+  "8215": {
+    "squad_id": "8215",
+    "preview": "imperialCrusader5",
+    "title_key": "storage:8215:title",
+    "icon_file": "icons\\8215_imperialCrusader5.jpg",
+    "rarity": 6,
+    "elite": 0
+  },
+  "8226": {
+    "squad_id": "8226",
+    "preview": "gen_clan_convoy_small",
+    "title_key": "storage:8226:title",
+    "icon_file": "icons\\8226_gen_clan_convoy_small.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "8236": {
+    "squad_id": "8236",
+    "preview": "clan_armoredtruck_gun1",
+    "title_key": "storage:8236:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "8237": {
+    "squad_id": "8237",
+    "preview": "clan_armoredtruck_gun2",
+    "title_key": "storage:8237:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "8238": {
+    "squad_id": "8238",
+    "preview": "clan_armoredtruck_gun3",
+    "title_key": "storage:8238:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "8242": {
+    "squad_id": "8242",
+    "preview": "marad_inf2",
+    "title_key": "storage:8242:title",
+    "icon_file": "icons\\8242_marad_inf2.jpg",
+    "rarity": 2,
+    "elite": 0
+  },
+  "8243": {
+    "squad_id": "8243",
+    "preview": "marad_inf3",
+    "title_key": "storage:8243:title",
+    "icon_file": "icons\\8243_marad_inf3.jpg",
+    "rarity": 3,
+    "elite": 0
+  },
+  "8244": {
+    "squad_id": "8244",
+    "preview": "marauder_rifleman_blue",
+    "title_key": "storage:8244:title",
+    "icon_file": "icons\\8244_marauder_rifleman_blue.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "8245": {
+    "squad_id": "8245",
+    "preview": "marauder_rifleman_blue",
+    "title_key": "storage:8245:title",
+    "icon_file": "icons\\8245_marauder_rifleman_blue.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "8246": {
+    "squad_id": "8246",
+    "preview": "marad_sturm2",
+    "title_key": "storage:8246:title",
+    "icon_file": "icons\\8246_marad_sturm2.jpg",
+    "rarity": 2,
+    "elite": 1
+  },
+  "8247": {
+    "squad_id": "8247",
+    "preview": "marad_sturm3",
+    "title_key": "storage:8247:title",
+    "icon_file": "icons\\8247_marad_sturm3.jpg",
+    "rarity": 3,
+    "elite": 1
+  },
+  "8248": {
+    "squad_id": "8248",
+    "preview": "marauder_stoormtrooper_blue",
+    "title_key": "storage:8248:title",
+    "icon_file": "icons\\8248_marauder_stoormtrooper_blue.jpg",
+    "rarity": 4,
+    "elite": 1
+  },
+  "8249": {
+    "squad_id": "8249",
+    "preview": "marauder_stoormtrooper_blue",
+    "title_key": "storage:8249:title",
+    "icon_file": "icons\\8249_marauder_stoormtrooper_blue.jpg",
+    "rarity": 5,
+    "elite": 1
+  },
+  "8250": {
+    "squad_id": "8250",
+    "preview": "marad_sniper2",
+    "title_key": "storage:8250:title",
+    "icon_file": "icons\\8250_marad_sniper2.jpg",
+    "rarity": 2,
+    "elite": 1
+  },
+  "8251": {
+    "squad_id": "8251",
+    "preview": "marad_sniper3",
+    "title_key": "storage:8251:title",
+    "icon_file": "icons\\8251_marad_sniper3.jpg",
+    "rarity": 3,
+    "elite": 1
+  },
+  "8253": {
+    "squad_id": "8253",
+    "preview": "marauder_sniper_blue",
+    "title_key": "storage:8253:title",
+    "icon_file": "icons\\8253_marauder_sniper_blue.jpg",
+    "rarity": 5,
+    "elite": 1
+  },
+  "8256": {
+    "squad_id": "8256",
+    "preview": "marad_heavy2",
+    "title_key": "storage:8256:title",
+    "icon_file": "icons\\8256_marad_heavy2.jpg",
+    "rarity": 2,
+    "elite": 0
+  },
+  "8257": {
+    "squad_id": "8257",
+    "preview": "heavy_marad3",
+    "title_key": "storage:8257:title",
+    "icon_file": "icons\\8257_heavy_marad3.jpg",
+    "rarity": 3,
+    "elite": 0
+  },
+  "8258": {
+    "squad_id": "8258",
+    "preview": "marauder_crusader_blue",
+    "title_key": "storage:8258:title",
+    "icon_file": "icons\\8258_marauder_crusader_blue.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "8259": {
+    "squad_id": "8259",
+    "preview": "marauder_crusader_blue",
+    "title_key": "storage:8259:title",
+    "icon_file": "icons\\8259_marauder_crusader_blue.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "8287": {
+    "squad_id": "8287",
+    "preview": "robopeh",
+    "title_key": "storage:8287:title",
+    "icon_file": "icons\\8287_robopeh.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "8336": {
+    "squad_id": "8336",
+    "preview": "tesla_turret",
+    "title_key": "storage:8336:title",
+    "icon_file": "icons\\8336_tesla_turret.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "8417": {
+    "squad_id": "8417",
+    "preview": "svejevatel",
+    "title_key": "storage:8417:title",
+    "icon_file": "icons\\8417_svejevatel.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "8466": {
+    "squad_id": "8466",
+    "preview": "tank_taran",
+    "title_key": "storage:8466:title",
+    "icon_file": "icons\\8466_tank_taran.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "8468": {
+    "squad_id": "8468",
+    "preview": "scorpion_pt",
+    "title_key": "storage:8468:title",
+    "icon_file": "icons\\8468_scorpion_pt.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "8470": {
+    "squad_id": "8470",
+    "preview": "vardar_btr",
+    "title_key": "storage:8470:title",
+    "icon_file": "icons\\8470_vardar_btr.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "8472": {
+    "squad_id": "8472",
+    "preview": "tank_test",
+    "title_key": "storage:8472:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "8566": {
+    "squad_id": "8566",
+    "preview": "taifus_ridli",
+    "title_key": "storage:8566:title",
+    "icon_file": "icons\\8566_taifus_ridli.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "8631": {
+    "squad_id": "8631",
+    "preview": "jordan_hilen",
+    "title_key": "storage:8631:title",
+    "icon_file": "icons\\8631_jordan_hilen.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "8634": {
+    "squad_id": "8634",
+    "preview": "pomrachennuy",
+    "title_key": "storage:8634:title",
+    "icon_file": "icons\\8634_pomrachennuy.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "8653": {
+    "squad_id": "8653",
+    "preview": "Wilus",
+    "title_key": "storage:8653:title",
+    "icon_file": "icons\\8653_Wilus.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "8747": {
+    "squad_id": "8747",
+    "preview": "spec_ionit_zomb",
+    "title_key": "storage:8747:title",
+    "icon_file": "icons\\8747_spec_ionit_zomb.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "8748": {
+    "squad_id": "8748",
+    "preview": "fever_knight",
+    "title_key": "storage:8748:title",
+    "icon_file": "icons\\8748_fever_knight.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "8751": {
+    "squad_id": "8751",
+    "preview": "trax_crimson_blade",
+    "title_key": "storage:8751:title",
+    "icon_file": "icons\\8751_trax_crimson_blade.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "8755": {
+    "squad_id": "8755",
+    "preview": "Wilus",
+    "title_key": "storage:8755:title",
+    "icon_file": "icons\\8755_Wilus.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "8760": {
+    "squad_id": "8760",
+    "preview": "hermit_savage",
+    "title_key": "storage:8760:title",
+    "icon_file": "icons\\8760_hermit_savage.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "8777": {
+    "squad_id": "8777",
+    "preview": "werewoolf_hell",
+    "title_key": "storage:8777:title",
+    "icon_file": "icons\\8777_werewoolf_hell.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "8786": {
+    "squad_id": "8786",
+    "preview": "tom_brenner",
+    "title_key": "storage:8786:title",
+    "icon_file": "icons\\8786_tom_brenner.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "8790": {
+    "squad_id": "8790",
+    "preview": "order_heavy_knight",
+    "title_key": "storage:8790:title",
+    "icon_file": "icons\\8790_order_heavy_knight.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "881": {
+    "squad_id": "881",
+    "preview": "red_melee",
+    "title_key": "storage:881:title",
+    "icon_file": "icons\\881_red_melee.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "883": {
+    "squad_id": "883",
+    "preview": "spot_bunker",
+    "title_key": "storage:883:title",
+    "icon_file": null,
+    "rarity": 0,
+    "elite": 0
+  },
+  "9079": {
+    "squad_id": "9079",
+    "preview": "WWTraitor3",
+    "title_key": "storage:9079:title",
+    "icon_file": "icons\\9079_WWTraitor3.jpg",
+    "rarity": 3,
+    "elite": 2
+  },
+  "9080": {
+    "squad_id": "9080",
+    "preview": "WWOpportunist3",
+    "title_key": "storage:9080:title",
+    "icon_file": "icons\\9080_WWOpportunist3.jpg",
+    "rarity": 3,
+    "elite": 2
+  },
+  "9081": {
+    "squad_id": "9081",
+    "preview": "WWHeavy3",
+    "title_key": "storage:9081:title",
+    "icon_file": "icons\\9081_WWHeavy3.jpg",
+    "rarity": 3,
+    "elite": 2
+  },
+  "9082": {
+    "squad_id": "9082",
+    "preview": "WWMercenary3",
+    "title_key": "storage:9082:title",
+    "icon_file": "icons\\9082_WWMercenary3.jpg",
+    "rarity": 3,
+    "elite": 2
+  },
+  "9105": {
+    "squad_id": "9105",
+    "preview": "WWTraitor4",
+    "title_key": "storage:9105:title",
+    "icon_file": "icons\\9105_WWTraitor4.jpg",
+    "rarity": 4,
+    "elite": 2
+  },
+  "9106": {
+    "squad_id": "9106",
+    "preview": "WWOpportunist4",
+    "title_key": "storage:9106:title",
+    "icon_file": "icons\\9106_WWOpportunist4.jpg",
+    "rarity": 4,
+    "elite": 2
+  },
+  "9107": {
+    "squad_id": "9107",
+    "preview": "WWMercenary4",
+    "title_key": "storage:9107:title",
+    "icon_file": "icons\\9107_WWMercenary4.jpg",
+    "rarity": 4,
+    "elite": 2
+  },
+  "9108": {
+    "squad_id": "9108",
+    "preview": "WWHeavy4",
+    "title_key": "storage:9108:title",
+    "icon_file": "icons\\9108_WWHeavy4.jpg",
+    "rarity": 4,
+    "elite": 2
+  },
+  "9109": {
+    "squad_id": "9109",
+    "preview": "WWTraitor5",
+    "title_key": "storage:9109:title",
+    "icon_file": "icons\\9109_WWTraitor5.jpg",
+    "rarity": 6,
+    "elite": 2
+  },
+  "9110": {
+    "squad_id": "9110",
+    "preview": "WWOpportunist5",
+    "title_key": "storage:9110:title",
+    "icon_file": "icons\\9110_WWOpportunist5.jpg",
+    "rarity": 6,
+    "elite": 2
+  },
+  "9111": {
+    "squad_id": "9111",
+    "preview": "WWHeavy5",
+    "title_key": "storage:9111:title",
+    "icon_file": "icons\\9111_WWHeavy5.jpg",
+    "rarity": 6,
+    "elite": 2
+  },
+  "9112": {
+    "squad_id": "9112",
+    "preview": "WWMercenary5",
+    "title_key": "storage:9112:title",
+    "icon_file": "icons\\9112_WWMercenary5.jpg",
+    "rarity": 6,
+    "elite": 2
+  },
+  "9116": {
+    "squad_id": "9116",
+    "preview": "volf_bekker",
+    "title_key": "storage:9116:title",
+    "icon_file": "icons\\9116_volf_bekker.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "9242": {
+    "squad_id": "9242",
+    "preview": "esben_nyhero",
+    "title_key": "storage:9242:title",
+    "icon_file": "icons\\9242_esben_nyhero.jpg",
+    "rarity": 5,
+    "elite": 2
+  },
+  "927": {
+    "squad_id": "927",
+    "preview": "marouder",
+    "title_key": "storage:927:title",
+    "icon_file": "icons\\927_marouder.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "935": {
+    "squad_id": "935",
+    "preview": "barrel",
+    "title_key": "storage:935:title",
+    "icon_file": "icons\\935_barrel.jpg",
+    "rarity": null,
+    "elite": 0
+  },
+  "940": {
+    "squad_id": "940",
+    "preview": "bo4ka",
+    "title_key": "storage:940:title",
+    "icon_file": "icons\\940_bo4ka.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "944": {
+    "squad_id": "944",
+    "preview": "guardsman",
+    "title_key": "storage:944:title",
+    "icon_file": "icons\\944_guardsman.jpg",
+    "rarity": null,
+    "elite": 1
+  },
+  "948": {
+    "squad_id": "948",
+    "preview": "knight",
+    "title_key": "storage:948:title",
+    "icon_file": "icons\\948_knight.jpg",
+    "rarity": null,
+    "elite": 0
+  },
+  "950": {
+    "squad_id": "950",
+    "preview": "lecantrop",
+    "title_key": "storage:950:title",
+    "icon_file": "icons\\950_lecantrop.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "953": {
+    "squad_id": "953",
+    "preview": "red_rifleman",
+    "title_key": "storage:953:title",
+    "icon_file": "icons\\953_red_rifleman.jpg",
+    "rarity": null,
+    "elite": 2
+  },
+  "955": {
+    "squad_id": "955",
+    "preview": "red_stormtrooper",
+    "title_key": "storage:955:title",
+    "icon_file": "icons\\955_red_stormtrooper.jpg",
+    "rarity": null,
+    "elite": 2
+  },
+  "9589": {
+    "squad_id": "9589",
+    "preview": "dead_moroz",
+    "title_key": "storage:9589:title",
+    "icon_file": "icons\\9589_dead_moroz.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "959": {
+    "squad_id": "959",
+    "preview": "green_stormtrooper",
+    "title_key": "storage:959:title",
+    "icon_file": "icons\\959_green_stormtrooper.jpg",
+    "rarity": null,
+    "elite": 1
+  },
+  "9603": {
+    "squad_id": "9603",
+    "preview": "dead_moroz",
+    "title_key": "storage:9603:title",
+    "icon_file": "icons\\9603_dead_moroz.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "9606": {
+    "squad_id": "9606",
+    "preview": "dead_moroz",
+    "title_key": "storage:9606:title",
+    "icon_file": "icons\\9606_dead_moroz.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "9627": {
+    "squad_id": "9627",
+    "preview": "esben_nyhero",
+    "title_key": "storage:9627:title",
+    "icon_file": "icons\\9627_esben_nyhero.jpg",
+    "rarity": 5,
+    "elite": 0
+  },
+  "9629": {
+    "squad_id": "9629",
+    "preview": "jaeger80x100",
+    "title_key": "storage:9629:title",
+    "icon_file": "icons\\9629_jaeger80x100.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "9630": {
+    "squad_id": "9630",
+    "preview": "mg_buggy_80x100",
+    "title_key": "storage:9630:title",
+    "icon_file": "icons\\9630_mg_buggy_80x100.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "9684": {
+    "squad_id": "9684",
+    "preview": "stormtrooper",
+    "title_key": "storage:9684:title",
+    "icon_file": "icons\\9684_stormtrooper.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "9729": {
+    "squad_id": "9729",
+    "preview": "Kor_hero",
+    "title_key": "storage:9729:title",
+    "icon_file": "icons\\9729_Kor_hero.jpg",
+    "rarity": 4,
+    "elite": 0
+  },
+  "973": {
+    "squad_id": "973",
+    "preview": "red_bo4ka",
+    "title_key": "storage:973:title",
+    "icon_file": "icons\\973_red_bo4ka.jpg",
+    "rarity": 0,
+    "elite": 2
+  },
+  "9813": {
+    "squad_id": "9813",
+    "preview": "aimer_sniper_unitskill",
+    "title_key": "storage:9813:title",
+    "icon_file": "icons\\9813_aimer_sniper_unitskill.jpg",
+    "rarity": 0,
+    "elite": 0
+  },
+  "9972": {
+    "squad_id": "9972",
+    "preview": "Tunbridge",
+    "title_key": "storage:9972:title",
+    "icon_file": "icons\\9972_Tunbridge.jpg",
+    "rarity": 0,
+    "elite": 2
+  }
+}

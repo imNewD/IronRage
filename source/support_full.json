@@ -1,0 +1,2245 @@
+{
+  "10497": {
+    "id": "10497",
+    "name": "This bomb is small but has large caliber, used by Lang Warsard",
+    "description": "This bomb is small but has large caliber, used by Lang Warsard",
+    "icon": "icons/Support/big_bomb.png",
+    "elite": 1,
+    "scores": 5,
+    "hidden_stats": {
+      "damage": 500,
+      "radius": 5
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "10501": {
+    "id": "10501",
+    "name": null,
+    "description": null,
+    "icon": "icons/Support/shield.jpg",
+    "elite": 0,
+    "scores": 1,
+    "hidden_stats": {
+      "percent": 0.15,
+      "radius": 4,
+      "onCadr": 9,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big"
+    },
+    "defence": []
+  },
+  "10511": {
+    "id": "10511",
+    "name": "Enslavement",
+    "description": "Enslavement",
+    "icon": "icons/Support/betrayal.jpg",
+    "elite": 0,
+    "scores": 4,
+    "hidden_stats": {
+      "radius": 10,
+      "transform_units_count": 1000,
+      "transform_units_chance": 1000,
+      "transform_block_type": "2924, 2932, 2704, 681, 361, 362, 5367",
+      "transform_block_squad": "477, 1703, 663, 780, 950, 3391, 3338, 1971, 1824, 1823, 5253",
+      "tratorTime": 10000,
+      "save_old_hp": "true"
+    },
+    "defence": []
+  },
+  "10613": {
+    "id": "10613",
+    "name": null,
+    "description": null,
+    "icon": "icons/Support/shield.jpg",
+    "elite": 0,
+    "scores": 1,
+    "hidden_stats": {
+      "percent": 0.5,
+      "radius": 4,
+      "onCadr": 9,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big"
+    },
+    "defence": []
+  },
+  "10614": {
+    "id": "10614",
+    "name": null,
+    "description": null,
+    "icon": "icons/Support/artillery.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "damage": "100, 40, 20, 15, 10",
+      "radius": 4,
+      "onCadr": 5,
+      "hasTwitch": "true",
+      "buff": "null",
+      "sound": "exp_big",
+      "count": 4
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "10674": {
+    "id": "10674",
+    "name": null,
+    "description": null,
+    "icon": "icons/Support/smoke_screen.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "radius": 5,
+      "ability": 19,
+      "abilityBoost": -15,
+      "disposeTimer": 5000,
+      "stackType": 0
+    },
+    "defence": []
+  },
+  "10686": {
+    "id": "10686",
+    "name": null,
+    "description": null,
+    "icon": "icons/Support/big_bomb.png",
+    "elite": 1,
+    "scores": 5,
+    "hidden_stats": {
+      "damage": 750,
+      "radius": 4
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "1073": {
+    "id": "1073",
+    "name": "Hero's Healing",
+    "description": "Allows to use the injection of the healing catalyst Hero.69hl in the battle, which lead to the acceleration of regeneration and Hero's wounds healing.",
+    "icon": "icons/Support/healhero.png",
+    "elite": 0,
+    "scores": 3,
+    "hidden_stats": {
+      "damage": 750,
+      "radius": 4,
+      "onCadr": 10,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big"
+    },
+    "defence": []
+  },
+  "10885": {
+    "id": "10885",
+    "name": "\"Stag\" Ejection",
+    "description": "Reinforced steel landing pods can transport Stormtroopers into the thick of the battle. Don't forget that all troops in the landing zone of the pod are likely to die.",
+    "icon": "icons/Support/drop_capsule.png",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "10887": {
+    "id": "10887",
+    "name": "\"Hammer\" Ejection",
+    "description": "Reinforced steel landing pods can transport Stormtroopers into the thick of the battle. Don't forget that all troops in the landing zone of the pod are likely to die.",
+    "icon": "icons/Support/drop_capsule.png",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "10927": {
+    "id": "10927",
+    "name": "Guardian skill \"Kinetic shield\"",
+    "description": "When health below 30%, activates a personal shield with 20% of maximum health. Works once in a battle",
+    "icon": "icons/Support/shield.jpg",
+    "elite": 0,
+    "scores": 1,
+    "hidden_stats": {
+      "percent": 0.2,
+      "radius": 4,
+      "onCadr": 9,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big"
+    },
+    "defence": []
+  },
+  "10954": {
+    "id": "10954",
+    "name": "Devulon Pentogram",
+    "description": "Some occult rituals allow mystical damage to be done over vast distances. This is often manifested visually by the appearance of a pentagram in the affected area.",
+    "icon": "icons/Support/pentagramma.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "11430": {
+    "id": "11430",
+    "name": null,
+    "description": null,
+    "icon": "icons/Support/shield.jpg",
+    "elite": 0,
+    "scores": 1,
+    "hidden_stats": {
+      "percent": 0.2,
+      "radius": 4,
+      "onCadr": 9,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big"
+    },
+    "defence": []
+  },
+  "11436": {
+    "id": "11436",
+    "name": "Shells of Ram tank",
+    "description": "Shells of Ram tank",
+    "icon": "icons/Support/artillery.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "damage": "100, 40, 20, 15, 10",
+      "radius": 4,
+      "onCadr": 5,
+      "hasTwitch": "true",
+      "buff": "null",
+      "sound": "exp_big",
+      "count": 4
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "11438": {
+    "id": "11438",
+    "name": "Catalyst spraying",
+    "description": "Massive drop of BF-13a in the selected area",
+    "icon": "icons/Support/clangen_heal.jpg",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "damage": 300,
+      "radius": 4.5,
+      "onCadr": 10,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big",
+      "count": 3,
+      "delay": 2000
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "11765": {
+    "id": "11765",
+    "name": null,
+    "description": null,
+    "icon": "icons/Support/electric.png",
+    "elite": 0,
+    "scores": 3,
+    "hidden_stats": {
+      "damage": "60, 70",
+      "radius": 7,
+      "onCadr": 5,
+      "hasTwitch": "false",
+      "buff": "null",
+      "emp_count": 3,
+      "emp_delay": 2
+    },
+    "defence": []
+  },
+  "11892": {
+    "id": "11892",
+    "name": "\"Hornet\" landing",
+    "description": "Reinforced steel landing pods can transport Stormtroopers into the thick of the battle. Don't forget that all troops in the landing zone of the pod are likely to die.",
+    "icon": "icons/Support/drop_capsule.png",
+    "elite": 1,
+    "scores": 0,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "11944": {
+    "id": "11944",
+    "name": null,
+    "description": "Some occult rituals allow mystical damage to be done over vast distances. This is often manifested visually by the appearance of a pentagram in the affected area.",
+    "icon": "icons/Support/pentagramma.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "12014": {
+    "id": "12014",
+    "name": null,
+    "description": "Some occult rituals allow mystical damage to be done over vast distances. This is often manifested visually by the appearance of a pentagram in the affected area.",
+    "icon": "icons/Support/pentagramma.png",
+    "elite": 0,
+    "scores": 6,
+    "hidden_stats": {
+      "damage": "1000, 1000",
+      "radius": 5,
+      "onCadr": 10,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big",
+      "count": 1,
+      "delay": 1
+    },
+    "defence": []
+  },
+  "12255": {
+    "id": "12255",
+    "name": "Volley of discharges",
+    "description": "Massive discharge of arc shells in the selected area",
+    "icon": "icons/Support/clantesla_discharge.jpg",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "damage": 300,
+      "radius": 4.5,
+      "onCadr": 10,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big",
+      "count": 5,
+      "delay": 2000,
+      "emp_count": 1
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "12384": {
+    "id": "12384",
+    "name": "Gauss radiation",
+    "description": "When order used on the enemy troop: decreases armor -10 and evasion -10. When used on allies: increases penetration +5 and ignore dodge +5",
+    "icon": "icons/Support/radiation12384.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "damage": 14,
+      "radius": 5,
+      "time": 15000,
+      "buffTime": 5000
+    },
+    "defence": []
+  },
+  "12385": {
+    "id": "12385",
+    "name": "Crystal Frost",
+    "description": "Inflicts 500 damage and freezes the enemy unit for 5 seconds",
+    "icon": "icons/Support/crystal12385.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "damage": 500,
+      "radius": 5,
+      "time": 5000,
+      "transform_block_type": "2924, 2932, 2704, 681, 361, 362, 5367",
+      "transform_block_squad": "477, 1703, 663, 780, 950, 3391, 3338, 1971, 1824, 1823, 5253"
+    },
+    "defence": []
+  },
+  "12386": {
+    "id": "12386",
+    "name": "Chain reaction",
+    "description": "The chemical warfare agent, extremely toxic, has a strong damaging effect",
+    "icon": "icons/Support/iprit.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "damage": 14,
+      "radius": 5,
+      "time": 15000
+    },
+    "defence": []
+  },
+  "12602": {
+    "id": "12602",
+    "name": "Dark gate",
+    "description": "Opening a gate between the dark forces and our world, in the selected area",
+    "icon": "icons/Support/pentagramma.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "damage": "200, 300",
+      "radius": 5,
+      "onCadr": 10,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big",
+      "count": 1,
+      "delay": 1
+    },
+    "defence": []
+  },
+  "12631": {
+    "id": "12631",
+    "name": null,
+    "description": null,
+    "icon": null,
+    "elite": 0,
+    "scores": 3,
+    "hidden_stats": {
+      "damage": "60,70",
+      "radius": 7,
+      "onCadr": 5,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big",
+      "emp_count": 3,
+      "emp_delay": 2
+    },
+    "defence": []
+  },
+  "12634": {
+    "id": "12634",
+    "name": null,
+    "description": null,
+    "icon": "icons/Support/smoke_screen.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "radius": 5,
+      "ability": 19,
+      "abilityBoost": -15,
+      "disposeTimer": 5000,
+      "stackType": 0
+    },
+    "defence": []
+  },
+  "12647": {
+    "id": "12647",
+    "name": "Small Gas Grenade",
+    "description": "The chemical warfare agent, extremely toxic, has a strong damaging effect",
+    "icon": "icons/Support/iprit.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "damage": 65,
+      "radius": 7,
+      "time": 15000
+    },
+    "defence": []
+  },
+  "12663": {
+    "id": "12663",
+    "name": null,
+    "description": null,
+    "icon": "icons/Support/smoke_screen.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "radius": 5,
+      "ability": 19,
+      "abilityBoost": -15,
+      "disposeTimer": 5000,
+      "stackType": 0
+    },
+    "defence": []
+  },
+  "12667": {
+    "id": "12667",
+    "name": null,
+    "description": null,
+    "icon": null,
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "13109": {
+    "id": "13109",
+    "name": null,
+    "description": null,
+    "icon": "icons/Support/iprit.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "damage": 14,
+      "radius": 5,
+      "time": 15000,
+      "buffTime": 5000
+    },
+    "defence": []
+  },
+  "13186": {
+    "id": "13186",
+    "name": "Pumpkin blast",
+    "description": "Pumpkin blast",
+    "icon": null,
+    "elite": 1,
+    "scores": 6,
+    "hidden_stats": {
+      "damage": 200,
+      "radius": 6,
+      "gas_damage": 20,
+      "gas_radius": 5,
+      "gas_time": 10000
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "13187": {
+    "id": "13187",
+    "name": null,
+    "description": null,
+    "icon": "icons/Support/crystal12385.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "damage": 500,
+      "radius": 5,
+      "time": 5000,
+      "transform_block_type": "2924, 2932, 2704, 681, 361, 362, 5367",
+      "transform_block_squad": "477, 1703, 663, 780, 950, 3391, 3338, 1971, 1824, 1823, 5253"
+    },
+    "defence": []
+  },
+  "13192": {
+    "id": "13192",
+    "name": "Dark ritual Blue",
+    "description": "Some occult rituals allow mystical damage to be done over vast distances. This is often manifested visually by the appearance of a pentagram in the affected area.",
+    "icon": "icons/Support/pentagramma.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "13197": {
+    "id": "13197",
+    "name": "Gauss Discharge",
+    "description": "Units in the affected area take -10 to evasion and 600 damage to health.",
+    "icon": "icons/Support/charge13197.png",
+    "elite": 0,
+    "scores": 3,
+    "hidden_stats": {
+      "damage": 600,
+      "radius": 7,
+      "buffTime": 5000,
+      "buffParam": 22,
+      "buffValue": -10
+    },
+    "defence": []
+  },
+  "13328": {
+    "id": "13328",
+    "name": null,
+    "description": "Units in the affected area take -10 to evasion and 600 damage to health.",
+    "icon": "icons/Support/charge13197.png",
+    "elite": 0,
+    "scores": 3,
+    "hidden_stats": {
+      "damage": 600,
+      "radius": 7,
+      "buffTime": 5000,
+      "buffParam": 22,
+      "buffValue": -10
+    },
+    "defence": []
+  },
+  "13441": {
+    "id": "13441",
+    "name": "Eternal Service ability",
+    "description": "Adds 25% health protection to allied units.",
+    "icon": "icons/Support/shield.jpg",
+    "elite": 0,
+    "scores": 1,
+    "hidden_stats": {
+      "percent": 0.5,
+      "radius": 8,
+      "onCadr": 9,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big"
+    },
+    "defence": []
+  },
+  "13618": {
+    "id": "13618",
+    "name": "Tormentor's gas bomb",
+    "description": "This bomb has caused scientists to question the undeniable usefulness of progress. After destroying all life with a gruesome explosion, it covers the affected area with a cloud of mustard gas. Not even grass could grow on that area for years.",
+    "icon": "icons/Support/toxic_bomb.jpg",
+    "elite": 1,
+    "scores": 6,
+    "hidden_stats": {
+      "damage": 600,
+      "radius": 10,
+      "gas_damage": 20,
+      "gas_radius": 5,
+      "gas_time": 10000
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "13698": {
+    "id": "13698",
+    "name": "Rat transformation",
+    "description": null,
+    "icon": "icons/Support/likantroper.jpg",
+    "elite": 0,
+    "scores": 4,
+    "hidden_stats": {
+      "radius": 10,
+      "transform_units_count": 0,
+      "transform_units_chance": 100,
+      "transform_block_type": "2924, 2932, 2704, 681, 361, 362, 5367, 8479, 8480",
+      "transform_block_squad": "477, 1703, 663, 780, 950, 3391, 3338, 1971, 1824, 1823, 5253",
+      "transform_to_squad": 11665,
+      "save_old_hp": "true"
+    },
+    "defence": []
+  },
+  "1483": {
+    "id": "1483",
+    "name": "Landing Old Reich",
+    "description": "The Old Reich commanding officers underestimated the technology of landing troops to the very heart of the battle, until they lost multiple sector to the enemy drop capsules. Now, landings are used even in the most trivial combat missions",
+    "icon": "icons/Support/drop_capsule.png",
+    "elite": 2,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "1627": {
+    "id": "1627",
+    "name": "Personal Shields",
+    "description": "Adds 50% health protection to soldiers",
+    "icon": "icons/Support/shield.jpg",
+    "elite": 0,
+    "scores": 1,
+    "hidden_stats": {
+      "percent": 0.5,
+      "radius": 4,
+      "onCadr": 9,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big"
+    },
+    "defence": []
+  },
+  "1633": {
+    "id": "1633",
+    "name": "\"Wolf Pack\" landing troop",
+    "description": "It is not known for certain who was the first person to came up with the idea of using Lycanthropes as landing-troopers, but the result surpassed any expectations. Escaped from the smoking shell of the landing capsule, wild animals do not know pity and mercy, tearing to pieces any who will be on their way.",
+    "icon": "icons/Support/drop_capsule.png",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "1802": {
+    "id": "1802",
+    "name": "Shot",
+    "description": null,
+    "icon": null,
+    "elite": 0,
+    "scores": 0,
+    "hidden_stats": {
+      "damage": "100, 40, 20, 15, 10",
+      "radius": 4,
+      "onCadr": 5,
+      "hasTwitch": "true",
+      "buff": "null",
+      "sound": "exp_big",
+      "count": 4
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "1914": {
+    "id": "1914",
+    "name": "“Wolf pack”",
+    "description": "Fighters turned into Lycanthropes by carrying out genetic mutations continue to retain the characteristics of the animal behavior of wolves. They also continue to form packs, which makes them even more formidable battle opponents.",
+    "icon": "icons/Support/lecantrop2.jpg",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "1915": {
+    "id": "1915",
+    "name": "“Double rage”",
+    "description": "Sometimes berserkers consumed by battle rage create brotherhoods of blood or origins, joining into deadly packs to defeat a common enemy.",
+    "icon": "icons/Support/Bear2.jpg",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "1926": {
+    "id": "1926",
+    "name": "Apostle Followers",
+    "description": null,
+    "icon": null,
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "2403": {
+    "id": "2403",
+    "name": "Gas bomb",
+    "description": "This bomb has caused scientists to question the undeniable usefulness of progress. After destroying all life with a gruesome explosion, it covers the affected area with a cloud of mustard gas. Not even grass could grow on that area for years.",
+    "icon": "icons/Support/toxic_bomb.jpg",
+    "elite": 1,
+    "scores": 6,
+    "hidden_stats": {
+      "damage": 3000,
+      "radius": 10,
+      "gas_damage": 20,
+      "gas_radius": 5,
+      "gas_time": 10000
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "2404": {
+    "id": "2404",
+    "name": "Minefield",
+    "description": "Rapid deployment of the minefield will stop even the most impetuous and strong infantry of the enemy.",
+    "icon": "icons/Support/mines70.jpg",
+    "elite": 1,
+    "scores": 2,
+    "hidden_stats": {
+      "pattern": "{\"0\":{\"x\":0,\"z\": 0},\"1\":{\"x\":-3,\"z\": -2},\"2\":{\"x\":3,\"z\": -2},\"3\":{\"x\": -3,\"z\": 2},\"4\":{\"x\": 3,\"z\": 2},\"5\":{\"x\": 0,\"z\": -3},\"6\":{\"x\": 0,\"z\": 3}}",
+      "count": 7
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "2405": {
+    "id": "2405",
+    "name": "Explosion of a mine",
+    "description": null,
+    "icon": "icons/Support/artillery.png",
+    "elite": 0,
+    "scores": 10,
+    "hidden_stats": {
+      "damage": "400, 300, 250, 200, 150",
+      "radius": 5,
+      "onCadr": 7,
+      "hasTwitch": "true",
+      "buff": "null",
+      "sound": "exp_big",
+      "count": 1
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "2424": {
+    "id": "2424",
+    "name": "Armageddon",
+    "description": "Armageddon is a class S carpet bombardment. It destroys all living creatures, regardless of who they are fighting for. It is the last effort, when lives of allies mean much less than defeat. When the commander is forced to choose the lesser of evils.",
+    "icon": "icons/Support/armagedon.jpg",
+    "elite": 0,
+    "scores": 5,
+    "hidden_stats": {
+      "damage": "300,150,80,80,80",
+      "wave_delay": 250,
+      "radius": 4,
+      "bombs_per_cell": 2,
+      "big_boom_count": 4,
+      "big_boom_radius": 8,
+      "big_boom_damage": 1000
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "2430": {
+    "id": "2430",
+    "name": "Landing Marauders",
+    "description": "Implants and bio-modifications make the marauders not to fear for their own lives. This is a key aspect when comes the time to load into a semi-broken capsule and landing into the very thick of the battle.",
+    "icon": "icons/Support/drop_maroder.jpg",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "2572": {
+    "id": "2572",
+    "name": "Flame",
+    "description": null,
+    "icon": null,
+    "elite": 0,
+    "scores": 0,
+    "hidden_stats": {
+      "damage": "100, 40, 20, 15, 10",
+      "radius": 4,
+      "onCadr": 5,
+      "hasTwitch": "true",
+      "buff": "null",
+      "sound": "exp_big",
+      "count": 4
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "2797": {
+    "id": "2797",
+    "name": "Drop of turrets",
+    "description": "According to \"Ardheim Industries\" documentation, this turret was made by Dr Rifenthal who was using scrap materials. Can be significantly upgraded.",
+    "icon": "icons/Support/turret_support.jpg",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "2842": {
+    "id": "2842",
+    "name": "Drop of Modernized Turret",
+    "description": "Turret which was fabricated and designed by the best engineers of Ardheim Industries. It is the final stage of the Turret development and serves as a model for the mechanics of the Resistance.",
+    "icon": "icons/Support/turret_support.jpg",
+    "elite": 1,
+    "scores": 2,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "2937": {
+    "id": "2937",
+    "name": null,
+    "description": "Spraying the healing catalyst BF-13a in the air helps to accelerate the healing of the wounds of your fighters.",
+    "icon": "icons/Support/health.png",
+    "elite": 0,
+    "scores": 1,
+    "hidden_stats": {
+      "damage": 150,
+      "radius": 10,
+      "onCadr": 10,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big"
+    },
+    "defence": []
+  },
+  "2938": {
+    "id": "2938",
+    "name": null,
+    "description": null,
+    "icon": "icons/Support/health.png",
+    "elite": 0,
+    "scores": 1,
+    "hidden_stats": {
+      "damage": 300,
+      "radius": 10,
+      "onCadr": 10,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big"
+    },
+    "defence": []
+  },
+  "3072": {
+    "id": "3072",
+    "name": "Lair",
+    "description": "One of the experimental developments of G. Salemsky. Creates a stationary passageway to our world. Used by Lycanthropes from the Abyss.",
+    "icon": "icons/Support/likan_spawn.jpg",
+    "elite": 0,
+    "scores": 4,
+    "hidden_stats": {
+      "squad": 3074
+    },
+    "defence": []
+  },
+  "3135": {
+    "id": "3135",
+    "name": "Transformation",
+    "description": "The result of Gastin Salemsky experiments - crazy genius of the occult sciences. Turns everyone within its scope into lycanthropes. Not recommended getting within its scope or contact with infected.",
+    "icon": "icons/Support/likantroper.jpg",
+    "elite": 0,
+    "scores": 4,
+    "hidden_stats": {
+      "radius": 10,
+      "transform_units_count": 0,
+      "transform_units_chance": 100,
+      "transform_block_type": "2924, 2932, 2704, 681, 361, 362, 5367, 8479, 8480",
+      "transform_block_squad": "477, 1703, 663, 780, 950, 3391, 3338, 1971, 1824, 1823, 5253",
+      "transform_to_squad": 3339,
+      "save_old_hp": "true"
+    },
+    "defence": []
+  },
+  "3412": {
+    "id": "3412",
+    "name": "Master Rinzler's Turret reset",
+    "description": "Assembled crusty Turrret",
+    "icon": "icons/Support/turret_support.jpg",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "3417": {
+    "id": "3417",
+    "name": "Atillery bombardment of Gustav Bombarder",
+    "description": "Bombarding enemy positions and troops from large-caliber artillery guns \"Storm. 152\".",
+    "icon": "icons/Support/artillery.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "onCadr": 1,
+      "hasTwitch": "true",
+      "sound": "exp_big",
+      "count": 4,
+      "delay": 300
+    },
+    "defence": []
+  },
+  "3652": {
+    "id": "3652",
+    "name": null,
+    "description": "Some occult rituals allow mystical damage to be done over vast distances. This is often manifested visually by the appearance of a pentagram in the affected area.",
+    "icon": "icons/Support/pentagramma.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "3657": {
+    "id": "3657",
+    "name": "Ionite Carbonite Bomb",
+    "description": "The bomb irradiated by the Ionite core has bigger explosion power than the usual carbonite one.",
+    "icon": "icons/Support/big_bomb.png",
+    "elite": 1,
+    "scores": 5,
+    "hidden_stats": {
+      "damage": 750,
+      "radius": 10
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "3658": {
+    "id": "3658",
+    "name": "Unstable Carbonite Bomb",
+    "description": "Unstable warhead held by protective circuits, causes significantly more damage with a large radius of damage during detonation.",
+    "icon": "icons/Support/big_bomb.png",
+    "elite": 1,
+    "scores": 5,
+    "hidden_stats": {
+      "damage": 900,
+      "radius": 11
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "3674": {
+    "id": "3674",
+    "name": "Enhanced Personal Shields",
+    "description": "Adds 75% health protection to soldiers",
+    "icon": "icons/Support/shield.jpg",
+    "elite": 0,
+    "scores": 1,
+    "hidden_stats": {
+      "percent": 0.75,
+      "radius": 4,
+      "onCadr": 9,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big"
+    },
+    "defence": []
+  },
+  "3675": {
+    "id": "3675",
+    "name": "Double Personal Shields",
+    "description": "Adds 100% health protection to soldiers",
+    "icon": "icons/Support/shield.jpg",
+    "elite": 0,
+    "scores": 1,
+    "hidden_stats": {
+      "percent": 1,
+      "radius": 4,
+      "onCadr": 9,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big"
+    },
+    "defence": []
+  },
+  "382": {
+    "id": "382",
+    "name": "Artillery bombardment",
+    "description": "Bombarding enemy positions and troops from large-caliber artillery guns \"Storm. 152\".",
+    "icon": "icons/Support/artillery.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "damage": "100, 40, 20, 15, 10",
+      "radius": 4,
+      "onCadr": 5,
+      "hasTwitch": "true",
+      "buff": "null",
+      "sound": "exp_big",
+      "count": 4
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "383": {
+    "id": "383",
+    "name": "Mustard gas",
+    "description": "The chemical warfare agent, extremely toxic, has a strong damaging effect",
+    "icon": "icons/Support/iprit.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "damage": 14,
+      "radius": 5,
+      "time": 15000
+    },
+    "defence": []
+  },
+  "384": {
+    "id": "384",
+    "name": "Discharge",
+    "description": "A brand new word in tesla-arming. Shells detonation leads to a high-voltage discharge which is capable of incinerating the fighters in the impact area",
+    "icon": "icons/Support/electric.png",
+    "elite": 0,
+    "scores": 3,
+    "hidden_stats": {
+      "damage": "60,70",
+      "radius": 7,
+      "onCadr": 5,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big",
+      "emp_count": 3,
+      "emp_delay": 2
+    },
+    "defence": []
+  },
+  "3936": {
+    "id": "3936",
+    "name": "Tundra Hunters",
+    "description": "A strong berserk can gather a group to hunt particularly large or numerous prey. The first among equals - he leads his brothers to the battle.",
+    "icon": "icons/Support/mishkatundra.jpg",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "3937": {
+    "id": "3937",
+    "name": "Pack \"Alpha\"",
+    "description": "Fighters turned into Lycanthropes by carrying out genetic mutations continue to retain the characteristics of the animal behavior of wolves. They also continue to form packs, which makes them even more formidable battle opponents.",
+    "icon": "icons/Support/lecantropalfa.jpg",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "3943": {
+    "id": "3943",
+    "name": "Room 16 (HM)",
+    "description": "Room 16 (HM)",
+    "icon": "icons/Support/Bear2.jpg",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "3956": {
+    "id": "3956",
+    "name": "Wasteland beaters",
+    "description": "Only heroes or madmen go in the Wasteland by themselves. The Wasteland nomads have understood long time ago that you need to go there at least in group of three or your bones will be devoured by desert hyenas.",
+    "icon": null,
+    "elite": 1,
+    "scores": 2,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "3957": {
+    "id": "3957",
+    "name": "Wasteland hunters",
+    "description": "Nomads of the Wasteland are quite dangerous and unpredictable even when there's only one of them. The more of them gather in one place, the bigger the threat they pose. If only one nomad appears, you can be sure that the others are already sneaking up on your back.",
+    "icon": null,
+    "elite": 1,
+    "scores": 3,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "4502": {
+    "id": "4502",
+    "name": null,
+    "description": "Some occult rituals allow mystical damage to be done over vast distances. This is often manifested visually by the appearance of a pentagram in the affected area.",
+    "icon": "icons/Support/pentagramma.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "damage": 500,
+      "radius": 5,
+      "onCadr": 8
+    },
+    "defence": []
+  },
+  "4737": {
+    "id": "4737",
+    "name": null,
+    "description": "Reinforced steel landing pods can transport Stormtroopers into the thick of the battle. Don't forget that all troops in the landing zone of the pod are likely to die.",
+    "icon": "icons/Support/drop_capsule.png",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "4802": {
+    "id": "4802",
+    "name": "Shock troop",
+    "description": "Attempts to force the mutants to fight in big groups were unsuccessful. Their desire to kill each other was above the need to destroy the enemy. The first success that was achieved is to act in a pair in exchange for mutagen for the survival of a partner.",
+    "icon": "icons/Support/shitman2.jpg",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "4803": {
+    "id": "4803",
+    "name": "Juggernaut",
+    "description": "The best result of the interaction of the Mutants, training which allowed to rally them into a group capable of causing significant damage and optimal for elimination, in case of disobedience.",
+    "icon": "icons/Support/shitman3.jpg",
+    "elite": 1,
+    "scores": 5,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "4896": {
+    "id": "4896",
+    "name": "\"Smashing\" landing troop",
+    "description": "To unleash the power of the Suppressors on the enemy means to sign the death sentence for the fortified positions in the rear of the enemy.\\n",
+    "icon": "icons/Support/drop_capsule.png",
+    "elite": 1,
+    "scores": 3,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "4897": {
+    "id": "4897",
+    "name": "Drop pod of Wasteland",
+    "description": "Why force Raiders to run back and forth on the battlefield when we can literally drop them on the enemy from the sky?",
+    "icon": "icons/Support/drop_capsule.png",
+    "elite": 1,
+    "scores": 3,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "5239": {
+    "id": "5239",
+    "name": "Troop \"Triple blow\"",
+    "description": "Several Blades can be tied together after the ritual of soul interlacement. After that they feel emotions of each other, know everything that at least one of them knows and act in battle as a whole.",
+    "icon": null,
+    "elite": 1,
+    "scores": 2,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "5240": {
+    "id": "5240",
+    "name": "Battle star",
+    "description": "Using one of the most complex occult rituals, you can recruit a Crimson Blades troop. They appear at the ends of a huge pentagram, which gave them an this name.",
+    "icon": null,
+    "elite": 1,
+    "scores": 3,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "5392": {
+    "id": "5392",
+    "name": "Sweeping strike",
+    "description": "Some occult rituals allow mystical damage to be done over vast distances. This is often manifested visually by the appearance of a pentagram in the affected area.",
+    "icon": "icons/Support/pentagramma.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "damage": 500,
+      "radius": 3,
+      "onCadr": 8
+    },
+    "defence": []
+  },
+  "5404": {
+    "id": "5404",
+    "name": "Dark ritual",
+    "description": "Some occult rituals allow mystical damage to be done over vast distances. This is often manifested visually by the appearance of a pentagram in the affected area.",
+    "icon": "icons/Support/pentagramma.png",
+    "elite": 0,
+    "scores": 6,
+    "hidden_stats": {
+      "damage": "100, 100",
+      "radius": 5,
+      "onCadr": 10,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big",
+      "count": 1,
+      "delay": 1
+    },
+    "defence": []
+  },
+  "5432": {
+    "id": "5432",
+    "name": "\"Shocker\" reset",
+    "description": "This installation was assembled and engineered by Resistance engineers. It's a new stage of \"Discharge\" development",
+    "icon": "icons/Support/tesla_turret.jpg",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "5433": {
+    "id": "5433",
+    "name": "Mobile mortar reset",
+    "description": "Technology development has made it possible to deliver not only small-caliber turrets to the battlefield, but also their large-caliber counterparts.",
+    "icon": "icons/Support/morty_turret.jpg",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "5434": {
+    "id": "5434",
+    "name": "Shield generator reset",
+    "description": "\"This is brilliant! We have created an installation that exclusively supplies our soldiers with individual protective shields. However, we still have to work on the delivery to the battlefield...\" (c) Dr. Frank.",
+    "icon": "icons/Support/shield_turret.jpg",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "5458": {
+    "id": "5458",
+    "name": null,
+    "description": "A brand new word in tesla-arming. Shells detonation leads to a high-voltage discharge which is capable of incinerating the fighters in the impact area",
+    "icon": "icons/Support/electric.png",
+    "elite": 0,
+    "scores": 3,
+    "hidden_stats": {
+      "damage": "175, 200",
+      "radius": 7,
+      "onCadr": 5,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big",
+      "emp_count": 3,
+      "emp_delay": 2
+    },
+    "defence": []
+  },
+  "5495": {
+    "id": "5495",
+    "name": "Totem-turret shields",
+    "description": "Adds 50% health protection to soldiers",
+    "icon": "icons/Support/shield.jpg",
+    "elite": 0,
+    "scores": 1,
+    "hidden_stats": {
+      "percent": 0.3,
+      "radius": 7,
+      "onCadr": 9,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big"
+    },
+    "defence": []
+  },
+  "5601": {
+    "id": "5601",
+    "name": "Elsa's Energy Contraceptive",
+    "description": "Adds 20% health protection to soldiers",
+    "icon": "icons/Support/shield.jpg",
+    "elite": 0,
+    "scores": 1,
+    "hidden_stats": {
+      "percent": 0.2,
+      "radius": 8,
+      "onCadr": 9,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big"
+    },
+    "defence": []
+  },
+  "5602": {
+    "id": "5602",
+    "name": "Faceless' Landing",
+    "description": "Reinforced steel landing pods can transport Stormtroopers into the thick of the battle. Don't forget that all troops in the landing zone of the pod are likely to die.",
+    "icon": "icons/Support/drop_capsule.png",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "5641": {
+    "id": "5641",
+    "name": "Barrage",
+    "description": "Massive bombardment of the selected area",
+    "icon": "icons/Support/zagrad_fire.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "damage": "200, 80, 40, 30, 20",
+      "radius": 2,
+      "onCadr": 5,
+      "hasTwitch": "true",
+      "buff": "null",
+      "sound": "exp_big",
+      "count": 10,
+      "delay": 1750
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "5642": {
+    "id": "5642",
+    "name": "Medical aid",
+    "description": "Spraying the healing catalyst BF-13a in the air helps accelerate the healing of your fighters. (Ability of the Reinforced Fort)",
+    "icon": "icons/Support/health.png",
+    "elite": 0,
+    "scores": 1,
+    "hidden_stats": {
+      "damage": 300,
+      "radius": 4.5,
+      "onCadr": 10,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big",
+      "count": 3,
+      "delay": 2000
+    },
+    "defence": []
+  },
+  "580": {
+    "id": "580",
+    "name": "Healing",
+    "description": "Spraying the healing catalyst BF-13a in the air helps to accelerate the healing of the wounds of your fighters.",
+    "icon": "icons/Support/health.png",
+    "elite": 0,
+    "scores": 1,
+    "hidden_stats": {
+      "damage": 300,
+      "radius": 4.5,
+      "onCadr": 10,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big",
+      "count": 3,
+      "delay": 2000
+    },
+    "defence": []
+  },
+  "6028": {
+    "id": "6028",
+    "name": "Drop of Modified \"Shocker\"",
+    "description": "This installation was assembled and engineered by Resistance engineers. It's a new stage of \"Discharge\" development",
+    "icon": "icons/Support/tesla_turret.jpg",
+    "elite": 1,
+    "scores": 3,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "6029": {
+    "id": "6029",
+    "name": "Drop of Modified mobile mortar",
+    "description": "The peculiarity of the modernized turret is that its goal is maximum efficiency on the battlefield. In this regard, the mechanism works for wear from the very moment of its activation and is not designed for re-activation. Also, it will not allow the enemy to capture it as a trophy.\\n",
+    "icon": "icons/Support/morty_turret.jpg",
+    "elite": 1,
+    "scores": 2,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "6030": {
+    "id": "6030",
+    "name": "Drop of Modified shield generator",
+    "description": "\"This is brilliant! We have created an installation that exclusively supplies our soldiers with individual protective shields. However, we still have to work on the delivery to the battlefield...\" (c) Dr. Frank.",
+    "icon": "icons/Support/shield_turret.jpg",
+    "elite": 1,
+    "scores": 3,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "6037": {
+    "id": "6037",
+    "name": "Smokescreen",
+    "description": "\"Smokescreen was first used by the Empire during the Occult Wars. Target smoke was found to significantly reduce the effectiveness of enemy's artillery, their machine-gun fire and bombardment by enemy's aviation.\" - from the Citadel Archives. \\nWhen in range, increases allied troops Evasion by 70, and decreases enemy's Accuracy by 70",
+    "icon": "icons/Support/smoke_screen.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "evasion": 50,
+      "radius": 5,
+      "time": 15000,
+      "accuracy": 100
+    },
+    "defence": []
+  },
+  "6059": {
+    "id": "6059",
+    "name": "Two technicians",
+    "description": "You can often see these two operating side-by-side on the battlefield. One technician is repairing a walking machine, while the other one is covering his back from the enemy or too curious allied soldiers.",
+    "icon": "icons/Support/boevaya_sparka.jpg",
+    "elite": 1,
+    "scores": 2,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "6060": {
+    "id": "6060",
+    "name": "Combat brigade",
+    "description": "Four technicians represent force that has to be taken into account. Woe to that enemy, who will be shot with their famous shotguns.",
+    "icon": "icons/Support/boevaya_brigada.jpg",
+    "elite": 1,
+    "scores": 3,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "6071": {
+    "id": "6071",
+    "name": null,
+    "description": "Adds 60% health protection to soldiers",
+    "icon": "icons/Support/shield.jpg",
+    "elite": 0,
+    "scores": 1,
+    "hidden_stats": {
+      "percent": 0.6,
+      "radius": 10,
+      "onCadr": 9,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big"
+    },
+    "defence": []
+  },
+  "6072": {
+    "id": "6072",
+    "name": null,
+    "description": "A brand new word in tesla-arming. Shells detonation leads to a high-voltage discharge which is capable of incinerating the fighters in the impact area",
+    "icon": "icons/Support/electric.png",
+    "elite": 0,
+    "scores": 3,
+    "hidden_stats": {
+      "damage": "375, 400",
+      "radius": 10,
+      "onCadr": 5,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big",
+      "emp_count": 3,
+      "emp_delay": 2
+    },
+    "defence": []
+  },
+  "6094": {
+    "id": "6094",
+    "name": "Small energy shield",
+    "description": "Adds 20% health protection to soldiers",
+    "icon": "icons/Support/shield.jpg",
+    "elite": 0,
+    "scores": 1,
+    "hidden_stats": {
+      "percent": 0.2,
+      "radius": 8,
+      "onCadr": 9,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big"
+    },
+    "defence": []
+  },
+  "6118": {
+    "id": "6118",
+    "name": "Modified discharge",
+    "description": "A brand new word in tesla-arming. Shells detonation leads to a high-voltage discharge which is capable of incinerating the fighters in the impact area",
+    "icon": "icons/Support/electric.png",
+    "elite": 0,
+    "scores": 3,
+    "hidden_stats": {
+      "damage": "20, 60",
+      "radius": 7,
+      "onCadr": 5,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big",
+      "emp_count": 3,
+      "emp_delay": 2
+    },
+    "defence": []
+  },
+  "661": {
+    "id": "661",
+    "name": "Landing",
+    "description": "Reinforced steel landing pods can transport Stormtroopers into the thick of the battle. Don't forget that all troops in the landing zone of the pod are likely to die.",
+    "icon": "icons/Support/drop_capsule.png",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "677": {
+    "id": "677",
+    "name": "Landing Dominion",
+    "description": "During the Occult Wars, the Dominion has improved the technology of landing troops. At the moment, paratroopers are considered one of the most deadly divisions of the Dominion army.",
+    "icon": "icons/Support/drop_capsule.png",
+    "elite": 2,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "678": {
+    "id": "678",
+    "name": "Carbonite bomb",
+    "description": "Bomb of large caliber, reliable and effective, ideal for the elimination of infantry and equipment with varying armor power",
+    "icon": "icons/Support/big_bomb.png",
+    "elite": 1,
+    "scores": 5,
+    "hidden_stats": {
+      "damage": 500,
+      "radius": 10
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "6877": {
+    "id": "6877",
+    "name": "Doomerville Landing force",
+    "description": "Armored reinforced steel capsules can deliver a detachment of fighters into the thick of battle. Don't forget that all troops in the capsule landing zone will most likely die.",
+    "icon": "icons/Support/drop_capsule.png",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "690": {
+    "id": "690",
+    "name": "Dark ritual",
+    "description": "Some occult rituals allow mystical damage to be done over vast distances. This is often manifested visually by the appearance of a pentagram in the affected area.",
+    "icon": "icons/Support/pentagramma.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "691": {
+    "id": "691",
+    "name": "Resurrection",
+    "description": "Red fog",
+    "icon": "icons/Support/red_fog.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "7137": {
+    "id": "7137",
+    "name": "Gas Grenade",
+    "description": "The chemical warfare agent, extremely toxic, has a strong damaging effect",
+    "icon": "icons/Support/iprit.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "damage": 65,
+      "radius": 7,
+      "time": 15000
+    },
+    "defence": []
+  },
+  "7748": {
+    "id": "7748",
+    "name": "Icegripper's energy contraceptive",
+    "description": "Adds 10% health protection",
+    "icon": "icons/Support/shield.jpg",
+    "elite": 0,
+    "scores": 1,
+    "hidden_stats": {
+      "percent": 0.3,
+      "radius": 8,
+      "onCadr": 9,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big"
+    },
+    "defence": []
+  },
+  "7752": {
+    "id": "7752",
+    "name": null,
+    "description": "Some occult rituals allow mystical damage to be done over vast distances. This is often manifested visually by the appearance of a pentagram in the affected area.",
+    "icon": "icons/Support/pentagramma.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "damage": 150,
+      "radius": 3,
+      "onCadr": 8
+    },
+    "defence": []
+  },
+  "7809": {
+    "id": "7809",
+    "name": "Discharge",
+    "description": "A brand new word in tesla-arming. Shells detonation leads to a high-voltage discharge which is capable of incinerating the fighters in the impact area",
+    "icon": "icons/Support/electric.png",
+    "elite": 0,
+    "scores": 3,
+    "hidden_stats": {
+      "damage": "60, 70",
+      "radius": 7,
+      "onCadr": 5,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big",
+      "emp_count": 3,
+      "emp_delay": 2
+    },
+    "defence": []
+  },
+  "7810": {
+    "id": "7810",
+    "name": "Personal Shields",
+    "description": "Adds 50% health protection to soldiers",
+    "icon": "icons/Support/shield.jpg",
+    "elite": 0,
+    "scores": 1,
+    "hidden_stats": {
+      "percent": 0.1,
+      "radius": 8,
+      "onCadr": 9,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big"
+    },
+    "defence": []
+  },
+  "7892": {
+    "id": "7892",
+    "name": null,
+    "description": null,
+    "icon": null,
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "damage": 700,
+      "radius": 10,
+      "onCadr": 5,
+      "hasTwitch": "true",
+      "buff": "null",
+      "sound": "exp_big",
+      "count": 4
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "7893": {
+    "id": "7893",
+    "name": null,
+    "description": null,
+    "icon": "icons/Support/toxic_bomb.jpg",
+    "elite": 1,
+    "scores": 6,
+    "hidden_stats": {
+      "damage": 5000,
+      "radius": 10,
+      "gas_damage": 20,
+      "gas_radius": 5,
+      "gas_time": 10000
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "7977": {
+    "id": "7977",
+    "name": "Mass landing",
+    "description": "Combining multiple launching devices into a single network allows launching several capsules with landing troops at the same time and without losses in the range.",
+    "icon": "icons/Support/vdv_capsule_rain.png",
+    "elite": 1,
+    "scores": 6,
+    "hidden_stats": {
+      "doNoDamageToSoldier": 6876
+    },
+    "defence": []
+  },
+  "8011": {
+    "id": "8011",
+    "name": null,
+    "description": null,
+    "icon": "icons/Support/drop_capsule.png",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "8020": {
+    "id": "8020",
+    "name": "Betrayal",
+    "description": "The Dark Gods can mislead anyone with their whispers. This spell makes the soldier think that allies are real enemies. Troops affected by treacherous witchcraft will attack their own till they die or until the spell fades off. \\n\\n(Valid for one squad)",
+    "icon": "icons/Support/betrayal.jpg",
+    "elite": 0,
+    "scores": 4,
+    "hidden_stats": {
+      "radius": 5,
+      "transform_units_count": 1000,
+      "transform_units_chance": 1000,
+      "transform_block_type": "2924, 2932, 2704, 681, 361, 362, 5367",
+      "transform_block_squad": "477, 1703, 663, 780, 950, 3391, 3338, 1971, 1824, 1823, 5253",
+      "tratorTime": 18000,
+      "save_old_hp": "true"
+    },
+    "defence": []
+  },
+  "8072": {
+    "id": "8072",
+    "name": "Absolute transformation",
+    "description": "Salemsky managed to improve his transformation spell. He found a way to control the newly converted lycanthropes and transmit knowledge about enemies to them. Now, troops affected by this spell not only turn into bloodthirsty monsters, but also turn against their former comrades. \\n\\n(Valid for one squad)",
+    "icon": "icons/Support/transform_betrayal.jpg",
+    "elite": 0,
+    "scores": 4,
+    "hidden_stats": {
+      "radius": 10,
+      "transform_units_count": 1000,
+      "transform_units_chance": 1000,
+      "transform_block_type": "2924, 2932, 2704, 681, 361, 362, 5367, 8479, 8480",
+      "transform_block_squad": "477, 1703, 663, 780, 950, 3391, 3338, 1971, 1824, 1823, 5253",
+      "transform_to_squad": 3339,
+      "save_old_hp": "true",
+      "gas_color": "0x668d22"
+    },
+    "defence": []
+  },
+  "8117": {
+    "id": "8117",
+    "name": "Joker",
+    "description": "\"A mysterious card emitting a slight red radiance, that can be found in places of occult rituals. Just throw it on the battlefield and it'll randomly summon something or someone to help you defeat the enemy, may be Landing Party, maybe Gas Bombs... who knows?\" - Mr. Winterstein's field log",
+    "icon": "icons/Support/joker_card.jpg",
+    "elite": 0,
+    "scores": 3,
+    "hidden_stats": {
+      "radius": 10,
+      "transform_units_count": 0,
+      "transform_units_chance": 100,
+      "transform_block_type": "2924, 2932, 2704, 681, 361, 362, 5367",
+      "transform_block_squad": "477, 1703, 663, 780, 950, 3391, 3338, 1971, 1824, 1823, 5253",
+      "transform_to_squad": 3339,
+      "save_old_hp": "true",
+      "gas_color": "0x668d22",
+      "sub_cards": "3135, 3674, 2403, 2424, 7977, 3675, 3657, 3658, 4897, 4896, 661"
+    },
+    "defence": []
+  },
+  "8128": {
+    "id": "8128",
+    "name": "Rage",
+    "description": "Gastin Salemsky is a genius. His next development allows to make a real killing machines out of soldiers. They will shoot more accurately, intuitively finding the most vulnerable spots in the enemy’s armor, and will not flinch before anyone. However, there are also side effects - soldiers couldn't tell enemies and allies apart, they become uncontrollable, aggressive and die pretty quickly... well, who cares? \\n\\n(Valid for one squad)",
+    "icon": "icons/Support/anger.jpg",
+    "elite": 0,
+    "scores": 4,
+    "hidden_stats": {
+      "radius": 4,
+      "transform_units_count": 1000,
+      "transform_units_chance": 1000,
+      "transform_block_type": "2924, 2932, 2704, 681, 361, 362, 5367",
+      "transform_block_squad": "477, 1703, 663, 780, 950, 3391, 3338, 1971, 1824, 1823, 5253",
+      "save_old_hp": "true",
+      "gas_color": "0x668d22",
+      "furiousnessTime": 20000
+    },
+    "defence": []
+  },
+  "8129": {
+    "id": "8129",
+    "name": "Summoning",
+    "description": "Flayers are a terrible force, let alone when so many of them appear out of nowhere in the middle of the battlefield... This can be a deadly surprise for any enemy",
+    "icon": "icons/Support/call.jpg",
+    "elite": 0,
+    "scores": 5,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "8133": {
+    "id": "8133",
+    "name": null,
+    "description": "Salemsky managed to improve his transformation spell. He found a way to control the newly converted lycanthropes and transmit knowledge about enemies to them. Now, troops affected by this spell not only turn into bloodthirsty monsters, but also turn against their former comrades. \\n\\n(Valid for one squad)",
+    "icon": "icons/Support/transform_betrayal.jpg",
+    "elite": 0,
+    "scores": 4,
+    "hidden_stats": {
+      "radius": 10,
+      "transform_units_count": 0,
+      "transform_units_chance": 100,
+      "transform_block_type": "2924, 2932, 2704, 681, 361, 362, 5367",
+      "transform_block_squad": "477, 1703, 663, 780, 950, 3391, 3338, 1971, 1824, 1823, 5253",
+      "transform_to_squad": 3339,
+      "save_old_hp": "true",
+      "gas_color": "0x668d22",
+      "sub_cards": "7891, 7899"
+    },
+    "defence": []
+  },
+  "8286": {
+    "id": "8286",
+    "name": "Purifier smokescreen",
+    "description": "The chemical warfare agent, extremely toxic, has a strong damaging effect",
+    "icon": "icons/Support/smoke_screen.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "evasion": 50,
+      "radius": 5,
+      "time": 10000
+    },
+    "defence": []
+  },
+  "8335": {
+    "id": "8335",
+    "name": "Rosenstein shocker drop",
+    "description": "This installation was assembled and engineered by Resistance engineers. It's a new stage of \"Discharge\" development",
+    "icon": "icons/Support/tesla_turret.jpg",
+    "elite": 1,
+    "scores": 3,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "8339": {
+    "id": "8339",
+    "name": null,
+    "description": "A brand new word in tesla-arming. Shells detonation leads to a high-voltage discharge which is capable of incinerating the fighters in the impact area",
+    "icon": "icons/Support/electric.png",
+    "elite": 0,
+    "scores": 3,
+    "hidden_stats": {
+      "damage": "675, 700",
+      "radius": 10,
+      "onCadr": 5,
+      "hasTwitch": "false",
+      "buff": "null",
+      "sound": "exp_big",
+      "emp_count": 3,
+      "emp_delay": 2
+    },
+    "defence": []
+  },
+  "8356": {
+    "id": "8356",
+    "name": "Gustav carbonite bomb",
+    "description": "Bomb of large caliber, reliable and effective, ideal for the elimination of infantry and equipment with varying armor power",
+    "icon": "icons/Support/big_bomb.png",
+    "elite": 1,
+    "scores": 5,
+    "hidden_stats": {
+      "damage": 500,
+      "radius": 10
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "8414": {
+    "id": "8414",
+    "name": "Possessed Grant Call",
+    "description": "Flayers are a terrible force, let alone when so many of them appear out of nowhere in the middle of the battlefield... This can be a deadly surprise for any enemy",
+    "icon": "icons/Support/call.jpg",
+    "elite": 0,
+    "scores": 5,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "8464": {
+    "id": "8464",
+    "name": "Special carbonite",
+    "description": "Bomb of large caliber, reliable and effective, ideal for the elimination of infantry and equipment with varying armor power",
+    "icon": "icons/Support/big_bomb.png",
+    "elite": 1,
+    "scores": 5,
+    "hidden_stats": {
+      "damage": 500,
+      "radius": 10
+    },
+    "defence": []
+  },
+  "8622": {
+    "id": "8622",
+    "name": "Typhus Ridley Flame",
+    "description": null,
+    "icon": null,
+    "elite": 0,
+    "scores": 0,
+    "hidden_stats": {
+      "damage": "100, 40, 20, 15, 10",
+      "radius": 4,
+      "onCadr": 5,
+      "hasTwitch": "true",
+      "buff": "null",
+      "sound": "exp_big",
+      "count": 4
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "8635": {
+    "id": "8635",
+    "name": null,
+    "description": null,
+    "icon": "icons/Support/big_bomb.png",
+    "elite": 1,
+    "scores": 5,
+    "hidden_stats": {
+      "damage": 500,
+      "radius": 10
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  },
+  "8775": {
+    "id": "8775",
+    "name": "\"Red Threat\" landing troop",
+    "description": "The \"Smashing\" landing troop, provided with the services of the Repressers, has established itself in many military Resistance Campaigns. By special order No. XXX, a limited series of capsules consisting exclusively of Berserkers were issued.",
+    "icon": "icons/Support/drop_capsule.png",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "947": {
+    "id": "947",
+    "name": "Sacred landing",
+    "description": "If sacred landing appears, it always means trouble. The situation evolves swiftly. Crusaders burst onto the battlefield and destroy everything long before the enemy has a chance to comprehend what happened.",
+    "icon": "icons/Support/drop_capsule.png",
+    "elite": 1,
+    "scores": 4,
+    "hidden_stats": {},
+    "defence": []
+  },
+  "9736": {
+    "id": "9736",
+    "name": null,
+    "description": null,
+    "icon": "icons/Support/pentagramma.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "damage": 250,
+      "radius": 5,
+      "onCadr": 8
+    },
+    "defence": []
+  },
+  "9964": {
+    "id": "9964",
+    "name": "Massive shelling",
+    "description": "Massive bombardment of the selected area (Fortified Fort)",
+    "icon": "icons/Support/zagrad_fire.png",
+    "elite": 0,
+    "scores": 2,
+    "hidden_stats": {
+      "damage": "200, 80, 40, 30, 20",
+      "radius": 4,
+      "onCadr": 5,
+      "hasTwitch": "true",
+      "buff": "null",
+      "sound": "exp_big",
+      "count": 10,
+      "delay": 1750
+    },
+    "defence": [
+      {
+        "bonus": {
+          "18": 10
+        },
+        "req": {
+          "exp": "",
+          "level": "",
+          "capacity": "",
+          "utime": "",
+          "skip": ""
+        }
+      }
+    ]
+  }
+}
