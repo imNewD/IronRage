@@ -1,0 +1,19 @@
+{
+  "added_equipment_count": 0,
+  "added_equipment_sample": [],
+  "skin_count": 601,
+  "ability_icon_count": 22,
+  "asset_count": 3277,
+  "failures": {
+    "Skin": {
+      "PVE_Skin_storm1": "png: HTTP 404; jpg: HTTP 404; jpeg: HTTP 404",
+      "PVE_Skin_heavy1": "png: HTTP 404; jpg: HTTP 404; jpeg: HTTP 404",
+      "PVE_Skin_spec1": "png: HTTP 404; jpg: HTTP 404; jpeg: HTTP 404",
+      "PVE_Skin_inf1": "png: HTTP 404; jpg: HTTP 404; jpeg: HTTP 404",
+      "PVE_WM_skin": "png: HTTP 404; jpg: HTTP 404; jpeg: HTTP 404",
+      "Clan_WM_skin": "png: HTTP 404; jpg: HTTP 404; jpeg: HTTP 404",
+      "bunker_9981": "png: HTTP 404; jpg: HTTP 404; jpeg: HTTP 404",
+      "kancler_skin_11853": "png: HTTP 404; jpg: HTTP 404; jpeg: HTTP 404"
+    }
+  }
+}
